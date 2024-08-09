@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35d82a7beba1e178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kodlama 1/Kodlama 1 Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b88e185baefc35e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Design/Web Design Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sanat Tarihi/Syllabus.md",
+                "file": "Web Design/Web Design Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sanat Tarihi/Syllabus.md",
+                "file": "Web Design/Web Design Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sanat Tarihi/Syllabus.md"
+                "file": "Web Design/Web Design Syllabus.md"
               }
             }
           }
@@ -146,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50f7d50538e5740b",
+  "active": "dd16ea1aa4af553f",
   "lastOpenFiles": [
+    "Kodlama 1/Kodlama 1 Syllabus.md",
+    "Web Design/Web Design Syllabus.md",
     "Sanat Tarihi/Syllabus.md",
     "Web Design",
     "Kodlama 1",
