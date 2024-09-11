@@ -1,36 +1,54 @@
-# JavaScript ile Kodlamaya Giriş
+**Dersi veren:** Dr. Öğr. Üye. Doğa Çöl
+**Eposta**: dcol@medipol.edu.tr
+**Oda**: İletişim Fakültesi B413
+Görüşme Saatleri için eposta gönderiniz.
+**Ders** **saatleri**: 9-11 arası.
+## **Dersin Amacı:**
 
-## Dersin amacı: 
-Bu derste öğrenciler JavaScript yazılım dili kullanarak kişisel bir proje tamamlayacaklardır. JavaScript dili HTML ve CSS işaretleme dilleri ile birlikte çalıştığı için hem yazılım dili hem de işaretleme dili öğrenmek önemlidir. Ayrıca versiyon kontrolü için GIT gereklidir. Dolayısıyla bu ders ilk önce HTML ve CSS ile başlayıp, JavaScript üzerinde detaylıca durup GIT ve Github kullanmayı öğrenerek yine Github üzerinden proje tasarımı ile tamamlanacaktır. 
+Bu ders, öğrencilerin algoritmik düşünmeyi öğrenmelerini ve problemleri verimli bir şekilde çözmelerini sağlamayı hedeflemektedir. Programlama sanatına giriş niteliğinde olan ders; soyutlama, algoritmalar, veri yapıları, bellek yönetimi, güvenlik ve yazılım mühendisliği gibi konuları kapsar. Bu ders iki dönemlik tüm bir dersin ilk bölümüdür. İlk bölüm, Güz döneminde, **C** programlama dili öğretilir. Dersin sonunda öğrenciler, öğrendikleri tüm becerileri kullanarak C dili ile bir yazılım tasarlayacaklardır.
 
-## Ders Beklentileri ve Notlandırma
+## **Ders Beklentileri ve Notlandırma:**
 
-Öğrencini dersten tam not alarak tüm öğrenme hedeflerine ulaşabilmesi için aşağıdaki tüm gereksinimleri yerine getirmesi gerekmektedir.
+Öğrencilerin dersten tam not alabilmesi için aşağıdaki gereksinimleri yerine getirmesi gerekmektedir:
 
-1- Ders içi ödevler (en az 10 adet) - 40 puan
-2- Ara Sınav Projesi - 20 puan
-3- Final Projesi - 40 puan
-	- Ders içi final proje takibi (20 puan)
-	- GitHub'dan proje teslimi (20 puan)
-Toplam: 100 puan
+Öğrencilerden aşağıdaki görevleri yerine getirmeleri beklenmektedir:
+
+1. **10 tane ders içi ödev - 40 puan
+2. **Ara Sınav Projesi - 20 puan
+3. **Final projesi** - 40 puan
+	- Proje ilerleme takibi (20 puan)
+	- Projenin GitHub Üzerinden Teslimi ve değerlendirilmesi (20 puan)
+
+**Notlandırma:** Proje, **doğruluk** ve **stil** ekseninde değerlendirilecektir.
+
+1. Ders içi ödevler (en az 10 tane) – 40 puan
+2. Ara Sınav Projesi – 20 puan
+3. Final Projesi – 40 puan
+    - Final proje ilerleme takibi (20 puan)
+    - Projenin GitHub üzerinden teslimi (20 puan)
+
+**Toplam: 100 puan**
 
 ### Ders İçi Ödevler (en az 10 adet) - 40 puan 
 Öğrenciler her derse önceden hazırlık yaparak gelmelidir. Her hafta için ön hazırlık koşulları haftalık ders konuları içerisinde yer almaktadır. Her haftanın konusuyla ilgili ders içi küçük projeler yapılacaktır. Bu projelerin amacı yaparak öğrenme olanağı sunmak içindir. Yabancı bir dil öğrenmeye benzer bir şekilde yazılım dilleri de yaparak öğrenildiğinde daha kolay ve zevkli hale gelir. 
-
 ### Ara Sınav Projesi - 20 puan
-Ara sınav projesi için ders içi yapılan ödevlerden esinlenerek küçük bir web uygulaması yapmanız istenecektir. Bu web app için gereklilikler aşağıda belirtilmiştir:
-1-
+Ara Sınav Projesi için C dilinde bir **Öğrenci Notlandırma Sistemi** tasarlayın ve uygulayın. Bu proje, temel C kavramlarını, değişkenleri, formatlanmış giriş/çıkış işlemlerini, koşullu mantığı, döngüleri ve dizileri anlamanızı test edecektir. Program, birden fazla öğrencinin bilgilerini kabul edip, her öğrencinin not ortalamasını hesaplamalı ve nihai harf notunu belirlemelidir. Proje, 1-7. haftalar boyunca işlenen tüm konuları içerir.
 
+- Projenin detaylı açıklaması öğrencilere GitHub ve Mebis üzerinden dağıtıla
+- **Projenin Git ve GitHub ile sürüm kontrolü**: Proje, Git kullanılarak yönetilmeli ve GitHub'a yüklenmelidir.
+- **Projenin GitHub üzerinden teslim edilmesi**: Proje tamamlandıktan sonra GitHub reposunun bağlantısı dersin öğretim üyesiyle paylaşılmalıdır.
+- **README.md dosyası**: Proje reposunda bir README.md dosyası olmalı, proje hakkında kısa bir açıklama içermelidir.
 ### Final Projesi - 40 puan
-Final projesi için derste öğrenilen tüm pratik ve teorik bilgiler kullanılarak gelişmiş işlevsel web-tabanlı bir uygulama yapmanız istenecektir. Bu web sitesi tek bir amaca hizmet etmeli ve istikrarlı görsel ve yazılımsal bir dile sahip olmalıdır. Final projesi için ara sınav haftasından hemen sonra çalışmaya başlanması gerekmektedir. Sekizinci (8.) haftadan itibaren her derste final proje takibi için her öğrenciye ait bir form doldurulacaktır. Bu formdaki tüm ögeler tamamlanmadığı sürece final projesi kabul edilmeyecektir. 
+Final projesi için derste öğrenilen tüm pratik ve teorik bilgiler kullanılarak gelişmiş işlevsel bir uygulama yapmanız istenecektir. Bu uygulama tek bir amaca hizmet etmeli ve istikrarlı görsel ve yazılımsal bir dile sahip olmalıdır. Final projesi için ara sınav haftasından hemen sonra çalışmaya başlanması gerekmektedir. Sekizinci (8.) haftadan itibaren her derste final proje takibi için her öğrenciye ait bir form doldurulacaktır. Bu formdaki tüm ögeler tamamlanmadığı sürece final projesi kabul edilmeyecektir. 
 
 Projeniz herhangi bir konu veya alanla ilgili olabilir. Ne türden bir proje olacağı ile ilgili dersin beklentisi tamamen size ait ve ilgi alanınıza hitap eden bir fikir seçmenizdir. Şu sorular başlamanıza yardımcı olabilir:
 
-Yazılımınız ne işe yarayacak? Hangi özelliklere sahip olacak? Nasıl çalıştırılacak? 
-Hangi yeni becerileri edinmeniz gerekecek? Hangi konuları araştırmanız gerekecek?
-Yazılım dünyasında, çoğu şeyin uygulanması beklediğinizden daha uzun sürer. Bu nedenle, belirli bir süre içinde umduğunuzdan daha azını başarmak alışılmadık bir durum değildir. Projeniz için iyi bir sonuç olarak neyi düşünebilirsiniz? Daha iyi bir sonuç mu? En iyi sonuç?
+- Yazılımınız ne işe yarayacak? Hangi özelliklere sahip olacak? Nasıl çalıştırılacak? 
+- Hangi yeni becerileri edinmeniz gerekecek? Hangi konuları araştırmanız gerekecek?
+- Yazılım dünyasında, çoğu şeyin uygulanması beklediğinizden daha uzun sürer. Bu nedenle, belirli bir süre içinde umduğunuzdan daha azını başarmak alışılmadık bir durum değildir. 
+- Projeniz için iyi bir sonuç olarak neyi düşünebilirsiniz? Daha iyi bir sonuç mu? En iyi sonuç?
 
-Son derste her öğrenci projesini anlatan 30 saniyelik sözlü bir sunum gerçekleştirmelidir. 
+**Son derste her öğrenci projesini anlatan 30 saniyelik sözlü bir sunum gerçekleştirmelidir.** 
 
 Proje gereksinimleri aşağıdaki gibidir: 
 1- Projeyi açıklayan bir sayfalık bir yazı. Elden teslim edilecektir.
@@ -42,8 +60,7 @@ Proje gereksinimleri aşağıdaki gibidir:
 6- Proje üç parça ve en az üç dosyadan oluşmalıdır: style.css, index.html ve script.js. Bu dosyalar dışında bir de içerikler klasöründe multimedya dosyaları bulunabilir. Klasör yapısı düzenli olmalı ve GitHub üzerinden erişilebilmelidir.
 7- Projenizin yazılımında mutlaka satırların ne işe yaradığına dair yorumlar bulunmalıdır ve gerektiğinde bu yorumları proje sahibi açıklayabiliyor olmalıdır. 
 
-
-## Akademik Dürüstlük İlkesi
+## **Akademik Dürüstlük İlkesi**
 Bu dersteki tüm çalışmaların özü size ait olmalıdır. Aksi belirtilmedikçe, ders içi ödevlerde ve projelerde işbirliğine izin verilmez, ancak bu yardım bir başkasının sizin için çalışmanızı yapmasına indirgenmediği sürece sınıf arkadaşlarınızdan ve diğerlerinden yardım isteyebilirsiniz. Genel olarak, yardım isterken kendi çalışmanızı başkalarına gösterebilirsiniz, ancak siz ve onlar bu ilkenin diğer kısıtlamalarına saygı gösterdiğiniz sürece onlarınkini göremezsiniz.
 
 Pişmanlık maddesi. Makul olmayan bir eylemde bulunursanız ve bunu 72 saat içinde dcol@medipol.edu.tr adresine e-posta göndererek dikkate sunarsanız, sunulan çalışma için yetersiz veya başarısız bir not içerebilecek yerel yaptırımlar uygulanabilir. Tekrarlanan eylemler dışında konu disiplin cezası için sevk edilmeyecektir.
@@ -80,106 +97,65 @@ Aşağıda, makul görünen ve görünmeyen eylemleri (kapsamlı olmayan bir şe
 
 [Harvard University CS50 Dersinden](https://cs50.harvard.edu/x/2024/honesty/) [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Lisansı Dahilinde Referans Alınmıştır](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0)
 
-## Derse İlişkin Öğretim Modelleri
 
-## Haftalık Ders Konuları
-## 1. Hafta: Web Geliştirmeye Giriş
-- **Konular:**
-  - Web Geliştirmeye Genel Bakış
-  - HTML'e Giriş
-  - Temel HTML yapısı
-- **Aktiviteler:**
-  - Geliştirme ortamını kurma
-  - Basit bir HTML sayfası oluşturma
+Dersten önce izlenmeli: https://www.youtube.com/watch?v=QZwneRb-zqA
+## **Haftalık Ders Planı:**
 
-## 2. Hafta: HTML Temelleri
-- **Konular:**
-  - HTML elemanları ve öznitelikleri
-  - Listeler, bağlantılar ve resimler
-- **Aktiviteler:**
-  - Kişisel profil sayfası oluşturma
+### **Hafta 1: C Programlamaya Giriş**
 
-## 3. Hafta: CSS'e Giriş
-- **Konular:**
-  - CSS sözdizimi ve seçiciler
-  - Metin ve elemanları stilize etme
-- **Aktiviteler:**
-  - Kişisel profil sayfasını stilize etme
+- C diline genel bakış
+- Geliştirme ortamının kurulumu
+- İlk C programını yazma ve çalıştırma
+- Temel sözdizimi
+### **Hafta 2: C Temelleri**
 
-## 4. Hafta: İleri Düzey CSS
-- **Konular:**
-  - Kutu modeli
-  - Flexbox
-  - CSS Grid
-- **Aktiviteler:**
-  - Duyarlı bir düzen oluşturma
+- Değişkenler ve veri türleri
+- Operatörler ve ifadeler
+- Basit matematiksel işlemler
+### **Hafta 3: Formatlanmış Giriş/Çıkış**
 
-## 5. Hafta: JavaScript'e Giriş
-- **Konular:**
-  - JavaScript temelleri (değişkenler, veri tipleri, operatörler)
-  - Temel fonksiyonlar
-- **Aktiviteler:**
-  - Basit JavaScript fonksiyonları yazma
+- `printf` ve `scanf` fonksiyonlarının detayları
+- Formatlama türleri (%d, %f, %s vb.)
+### **Hafta 4: İfadeler**
 
-## 6. Hafta: JavaScript Kontrol Yapıları
-- **Konular:**
-  - Koşullu ifadeler (if, else, switch)
-  - Döngüler (for, while)
-- **Aktiviteler:**
-  - Basit bir etkileşimli web sayfası oluşturma
+- Aritmetik ve mantıksal ifadeler
+- Karşılaştırma operatörleri
+### **Hafta 5: Seçim Yapıları**
 
-## 7. Hafta: JavaScript Fonksiyonları ve Kapsam
-- **Konular:**
-  - Fonksiyon deklarasyonları ve ifadeleri
-  - Kapsam ve kapanışlar
-- **Aktiviteler:**
-  - Küçük bir hesap makinesi uygulaması oluşturma
+- `if`, `else if`, `else` ve `switch-case` yapıları
+- Koşullu ifadelerle akış kontrolü
+### **Hafta 6: Döngüler**
 
-## 8. Hafta: JavaScript Diziler ve Nesneler
-- **Konular:**
-  - Diziler ve dizi metodları
-  - Nesneler ve nesne metodları
-- **Aktiviteler:**
-  - Bir projede dizileri ve nesneleri manipüle etme
+- `for`, `while`, `do-while` döngüleri
+- Döngülerin iç içe kullanımı
+### **Hafta 7: Temel Türler ve Diziler**
 
-## 9. Hafta: DOM Manipülasyonu
-- **Konular:**
-  - Belge Nesne Modeli (DOM)
-  - DOM elemanlarını seçme ve değiştirme
-- **Aktiviteler:**
-  - Dinamik bir yapılacaklar listesi oluşturma
+- Temel veri türleri (int, float, char vb.)
+- Diziler ve dizilerle çalışma
+### **Hafta 8: Ara Sınav Projesi**
 
-## 10. Hafta: Olaylar ve Olay İşleme
-- **Konular:**
-  - Olay dinleyicileri
-  - Kullanıcı girdisini işleme
-- **Aktiviteler:**
-  - Yapılacaklar listesini olay işleme ile geliştirme
+- **Ara Sınav Projesi**: Bellek yönetimi ve dosya işlemleri içeren bir C projesi
+### **Hafta 9: Fonksiyonlar**
 
-## 11. Hafta: İleri Düzey JavaScript Kavramları
-- **Konular:**
-  - Asenkron JavaScript (geri çağırmalar, sözler)
-  - Fetch API
-- **Aktiviteler:**
-  - Bir API'den veri çekme ve görüntüleme
+- Fonksiyon tanımlama ve kullanımı
+- Parametre geçişi ve geri dönüş değerleri
+### **Hafta 10: İşaretçiler**
 
-## 12. Hafta: Git ve GitHub'a Giriş
-- **Konular:**
-  - Git ile sürüm kontrolü
-  - GitHub kullanarak işbirliği yapma
-- **Aktiviteler:**
-  - Bir GitHub deposu oluşturma ve kodu yükleme
+- İşaretçilerin temel kavramı
+- Bellekteki adresler ve işaretçilerle çalışma
+### **Hafta 11: İşaretçiler ve Diziler**
 
-## 13. Hafta: Final Projesi Planlama
-- **Konular:**
-  - Proje planlama ve wireframing
-  - Proje yapısını kurma
-- **Aktiviteler:**
-  - Final projesini planlama ve başlama
+- İşaretçiler ve diziler arasındaki ilişki
+- Çok boyutlu diziler ve işaretçilerle kullanım
+### **Hafta 12: String İşlemleri**
 
-## 14. Hafta: Final Projesi Geliştirme ve Sunum
-- **Konular:**
-  - Final projesini uygulama
-  - Test etme ve hata ayıklama
-- **Aktiviteler:**
-  - Final projesini tamamlama ve sunma
+- Karakter dizileri ve string işlemleri
+- String fonksiyonları (`strlen`, `strcpy`, `strcmp` vb.)
+### **Hafta 13: Veri Yapıları ve Yapılar (Structs)**
+
+- Yapılar (`struct`) ve `enum` veri türleri
+- Struct ve fonksiyonların birlikte kullanımı
+### **Hafta 14: Final Projesi Teslimi**
+
+- **Final Projesi**: Ders boyunca öğrenilen tüm konuları kapsayan büyük bir yazılım projesi
+- Proje Teslimi ve Sunumu

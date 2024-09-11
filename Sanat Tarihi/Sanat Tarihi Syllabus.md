@@ -1,25 +1,36 @@
-
 Sanat Tarihi Syllabus
-
 
 **Dersi veren:** Dr. Öğr. Üye. Doğa Çöl
 **Eposta**: dcol@medipol.edu.tr
 **Oda**: İletişim Fakültesi B413
 Görüşme Saatleri için eposta gönderiniz.
 **Ders** **saatleri**: 9-11 arası.
+## **Dersin Amacı**
 
-## Dersin Amacı
+Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanatı tarihsel dönemler içerisinde inceleyerek öğrencilerle birlikte bütüncül bir araştırma yapmayı amaçlamaktadır. Derste görsel sanatın tarihsel anlamda en kapsamlı temsillerinden olan resim üzerine odaklanılacaktır. Eserlerin kültürel bağlamları, tarih boyunca sanatın değişen ve evrimleşen edimsel ve işlevsel yönleri tartışılacaktır.
+## **Dersin Hedefleri**
 
-Bu ders, kültürel ve varoluşsal önemi üzerinden, bugünden başlayarak sanatı tarihsel dönemler içerisinde inceleyerek öğrencilerle birlikte bütüncül bir araştırma yapmayı amaçlamaktadır. Derste çeşitli sanat biçimleri, eserlerin kültürel bağlamları, tarih boyunca sanatın değişen ve evrimleşen edimsel ve işlevsel yönleri tartışılacaktır.
+1. Sanatın tarihsel dönemlerini ve bu dönemlerin kültürel bağlamlarını tanıma ve anlama.
+2. Sanat eserlerinin toplumsal ve kültürel işlevlerini analiz etme.
+3. Farklı dönemlerdeki sanatsal yaklaşımların evrimini karşılaştırma.
+4. Sanat tarihi analiz yöntemlerini kullanarak sanat eserlerini yorumlama.
+5. Sanat tarihinin farklı dönemlerinden sanatçıları, eserleri ve sanat akımlarını değerlendirme.
+## **Öğrenim Çıktıları**
 
-## Dersin Hedefleri
+Dersin sonunda öğrenciler:
+1. Sanat tarihinin temel dönemlerini ve bu dönemlerde üretilen sanat eserlerinin özelliklerini açıklayabilecektir.
+2. Farklı sanat akımlarını ve bu akımların sanat eserlerindeki etkilerini karşılaştırabilecektir.
+3. Bir sanat eserini tarihsel ve kültürel bağlamda analiz edebilecektir.
+4. Sanat eserlerinin toplumsal işlevlerini ve bu işlevlerin zaman içindeki değişimini değerlendirebilecektir.
+5. Görsel analiz ve eleştirel düşünme becerilerini geliştirerek, sanat eserlerini değerlendirme yeteneği kazanacaktır.
+## **Öğretim Modelleri**
 
-## Derse İlişkin Öğretim Modelleri
-
-## Haftalık Ders Konuları
+- **Anlatım**: Öğrencilere sanat eserlerinin tarihsel ve kültürel bağlamlarını açıklamak için kullanılacaktır.
+- **Tartışma**: Sanat eserleri ve akımları üzerinde sınıf içi tartışmalar düzenlenecektir.
+- **Görsel Analiz**: Öğrenciler, sanat eserlerini inceleyip analiz edecek ve sonuçlarını sınıf ortamında sunacaktır.
+## **Haftalık Ders Konuları**
 
 ### Ders 1 - Sanat Tarihi ve Tarihsel Araştırmaya Giriş
-
 - **Konular**: İnsanlık tarihi içinde sanatın önemi ve amacı.
 - **Okumalar**:
     - [Sanat nedir ve neden bakarız?](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/what-is-art-history-and-where-is-it-going)
@@ -32,13 +43,10 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, bugünden başlayarak sana
     - [Haritalar bize ne anlatır?](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/what-maps-tell-us)
     - [Batı heykelinde bedenin kısa tarihi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-the-body-in-western-sculpture)
     - [Batı resim sanatında bedenin kısa tarihi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-the-body-in-western-painting)
-
 ### Ders 2 - Ortaçağ'ın Sonu ve Gotik Sanat
-
 - **Konular**: Ortaçağın arkaplanı
 - **Okumalar**:
-    - [Gotik mimari](https://tr.khanacademy.org/humanities/medieval-world/gothic1)
-        
+    - [Gotik mimari](https://tr.khanacademy.org/humanities/medieval-world/gothic1)    
 - **Videolar**:
     - [Gotik Mimarinin Tanıtımı](https://tr.khanacademy.org/humanities/medieval-world/gothic1/v/gothic-architecture-an-introduction)
     - [Ortaçağ'a Giriş](https://tr.khanacademy.org/humanities/medieval-world/gothic1)
@@ -47,9 +55,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, bugünden başlayarak sana
     - [Karolenj Projesi](https://tr.khanacademy.org/humanities/medieval-world/carolingian1/v/the-carolingian-project)
     - [Milenyum Sonrası Hac ve Haçlı Seferleri](https://tr.khanacademy.org/humanities/medieval-world/early-medieval1/v/pilgrimages-and-crusades-after-the-millennium)
     - [Cennet nasıl görünür? Chartres ve Amiens'te Gotik Mimari](https://tr.khanacademy.org/humanities/medieval-world/gothic1/v/what-does-heaven-look-like-gothic-architecture-at-chartres-and-amiens)
-
 ### Ders 3 - Erken Rönesans İtalya
-
 - **Konular**: Giotto'dan Masaccio'ya Hristiyan sanatı, ikonografinin doğuşu
 - **Okumalar**:
     - [İtalya'da Erken Rönesans Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1)
@@ -61,10 +67,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, bugünden başlayarak sana
     - [Sanatta İsa'nın Hayatından Sahneler](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/standard-scenes-from-the-life-of-christ-in-art)
     - [Bağlamda Sunak Tabloları](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/altarpieces-in-context)
 - **Birinci Ödev Teslimi**
-    
-
 ### Ders 4 - Yüksek Rönesans İtalya
-
 - **Konular**: Leonardo da Vinci, Michelangelo ve Raphael, Hümanizm, geleneksel ideallerin yeniden keşfi, sanatsal deha
 - **Okumalar**:
     - [İtalya'da Yüksek Rönesans Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1)
@@ -88,7 +91,6 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, bugünden başlayarak sana
     - [Michelangelo: Sistine Şapeli Tavanı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-sistine-chapel)
     - [Michelangelo: Son Yargı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-last-judgment)
     - [Michelangelo: Medici Şapeli](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-medici-chapel)
-
 ### Ders 5 - Kuzey Rönesans
 - Konular: Albrecht Dürer, Jan van Eyck ve Hieronymus Bosch
 - Okumalar:
@@ -105,9 +107,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, bugünden başlayarak sana
     - [Hieronymus Bosch: Dünyevi Zevkler Bahçesi](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/bosch-garden-of-earthly-delights)
     - [Pieter Bruegel: Babil Kulesi](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/bruegel-tower-of-babel)
     - [Pieter Bruegel: Kar Avcıları](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/bruegel-hunters-in-the-snow)
-
 ### Ders 6 - Maniyerizm ve Geç Rönesans
-
 - **Konular**: Parmigianino, Bronzino ve El Greco
 - **Okumalar**:
     - [Maniyerizm](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1)
@@ -183,19 +183,17 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, bugünden başlayarak sana
 6. **Ara sınav**: Yedinci haftaya kadar tüm konuları içeren çoktan seçmeli sınav - 20 puan
 7. **Final Sınavı**: Tüm ders konuları hakkında çoktan seçmeli sınav - 20 puan
     
-**Derse Katılım:**
-
+## **Derse Katılım:**
 Öğrencilerin tüm derslere zamanında ve düzenli olarak katılmaları gerekmektedir. Devam ve katılım zorunluluğu, dersin başarı kriterlerinden biridir ve bu kuralın ihlali durumunda öğrenci, dersten başarısız sayılabilir. 
 
 İstanbul Medipol Üniversitesi İletişim Fakültesi Eğitim Öğretim Yönergesi İkinci Bölüm 7. Madde 3. ve 4. fıkralarında belirtildiği gibi
 (3)Derslere devam konusunda, İstanbul Medipol Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliğinin 26. Maddesinin 1. fıkrası olan “... devamsızlık sınırlarının belirlenmesi ile öğrencilerin devam durumlarının izlenmesi, ilgili öğretim üyesinin sorumluluğundadır. Ancak devam zorunluluğu, teorik dersler için %70, uygulamalı dersler için %80’den fazla olamaz. Öğretim elemanı tarafından devamsızlık sınırını aştığı belgelenen öğrenciler o dersin genel sınavına alınmaz.” hükmü uygulanır. Devamsızlığın hesaplanmasında, Üniversite ve **Üniversiteye bağlı birimlerin görevlendirmeleri dışında, sağlık raporu da dâhil olmak üzere öğrencinin mazereti dikkate alınmaz.**
 (4) Herhangi bir derse devam koşulunu yerine getirdikleri halde, başarısızlıkları nedeniyle kalan öğrenciler için tekrar alacakları derse devam şartı aranmaz. Bu durumdaki öğrenciler, çakışan derslere de kayıt yaptırabilirler. Ancak, öğrenci bu derslerin proje, laboratuvar, uygulama, ara sınav ve benzeri çalışmalarına katılmak ve yükümlülüklerini yerine getirmek zorundadır.
 (5) Devamsızlık oranı İstanbul Medipol Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliğinin 26. maddesinin 1. fıkrasında açıklanan devamsızlık sınırını aşınca o ders için öğrenciye F2 notu verilir ve öğrenci ilgili dersin dönem sonu genel sınavına giremez.
-
-### **Ödevlere ilişkin kurallar**
+## **Ödevlere ilişkin kurallar**
 **Teslim Tarihleri:**
 Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.
 **Düşünce Yazıları:**
 Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste konuşulan bir kavram, dönem, sanatçı veya eserle ilgili olmalıdır. Tamamen öğrenci tarafından yazılmalıdır. El yazısıyla yazılıp teslim edilmelidir.
-### Akademik dürüstlük:
+## **Akademik dürüstlük:**
 Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır.

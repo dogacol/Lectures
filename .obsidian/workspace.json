@@ -4,95 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ec1383c3d9cbba",
+        "id": "739520b77828a981",
         "type": "tabs",
         "children": [
           {
-            "id": "50f7d50538e5740b",
+            "id": "454c55556f5c639a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sanat Tarihi/Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35d82a7beba1e178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sanat Tarihi/Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b88e185baefc35e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94fd9f289d8a36f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kodlama 1/Referanslar/HTML'e Dair Bilmeniz Gereken Her Şey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88a229597f8f8c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kodlama 1/Referanslar/CSS'e Dair Bilmeniz Gereken Her Şey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7c2164d74966808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kodlama 1/Referanslar/CSS'e Dair Bilmeniz Gereken Her Şey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f88a3140a9b435d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -219,16 +138,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f88a3140a9b435d3",
+  "active": "454c55556f5c639a",
   "lastOpenFiles": [
-    "Sanat Tarihi/Syllabus.md",
+    "RTS Teknik Temeller/Syllabus.md",
+    "Ses Tasarımı/Syllabus.md",
+    "Web Design/Web Design Syllabus.md",
+    "Software Applications/Software Applications Syllabus.md",
+    "Ses Tasarımı",
+    "RTS Teknik Temeller",
+    "Software Applications",
+    "Web Design/Final Project.md",
+    "Sanat Tarihi/Sanat Tarihi Syllabus.md",
     "Kodlama 1/Kodlama 1 Syllabus.md",
-    "Kodlama 1/Referanslar/CSS'e Dair Bilmeniz Gereken Her Şey.md",
+    "Kodlama 1/Ara Sınav Projesi.md",
+    "README.md",
+    "Kodlama 1/Referanslar/C'ye Dair Bilmeniz Gereken Her Şey.md",
+    "Kodlama 1/Referanslar/JavaScript'e Dair Bilmeniz Gereken Her Şey.md",
     "Kodlama 1/Referanslar/HTML'e Dair Bilmeniz Gereken Her Şey.md",
     "Kodlama 1/Referanslar/GIT'e Dair Bilmeniz Gereken Her Şey.md",
+    "Kodlama 1/Referanslar/CSS'e Dair Bilmeniz Gereken Her Şey.md",
     "Kodlama 1/Referanslar",
-    "Kodlama 1/Referanslar/JavaScript'e Dair Bilmeniz Gereken Her Şey.md",
-    "Web Design/Web Design Syllabus.md",
     "Web Design",
     "Kodlama 1",
     "Sanat Tarihi"

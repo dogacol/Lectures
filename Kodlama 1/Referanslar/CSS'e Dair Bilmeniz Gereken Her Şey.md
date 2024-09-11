@@ -1,4 +1,4 @@
-
+https://github.com/adambard/learnxinyminutes-docs/tree/master/tr-tr
 ---
 dil: css
 katkıda bulunanlar:
