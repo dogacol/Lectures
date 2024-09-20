@@ -6,7 +6,6 @@ Görüşme Saatleri için eposta gönderiniz.
 ## **Dersin Amacı:**
 
 Bu ders öğrencilere algoritmik düşünmeyi ve problemleri verimli bir şekilde çözmeyi öğretir. Konular arasında soyutlama, algoritmalar, veri yapıları, kapsülleme, kaynak yönetimi, güvenlik, yazılım mühendisliği ve web programlama yer almaktadır. Diller arasında C, Python ve SQL'in yanı sıra HTML, CSS ve JavaScript bulunmaktadır. Sanat, beşeri bilimler, sosyal bilimler ve fen bilimlerinden esinlenen problem setleri bulunmaktadır. 
-
 ## **Ders Beklentileri ve Notlandırma:**
 
 Öğrencilerin dersten tam not alabilmesi için aşağıdaki gereksinimleri yerine getirmesi gerekmektedir:
@@ -80,79 +79,22 @@ Aşağıda, makul görünen ve görünmeyen eylemleri (kapsamlı olmayan bir şe
 Dersten önce izlenmeli: Türkçe https://www.youtube.com/watch?v=9SYkiZLBdLY veya İngilizce https://www.youtube.com/watch?v=QZwneRb-zqA  
 ## **Haftalık Ders Planı:**
 
+# Ders Akışı
 
-Bu ders, iletişim öğrencileri için uyarlanmış bir bilgisayar bilimleri dersidir. Programlama dilleri ve algoritma geliştirme becerileri ile dijital medya oluşturma ve analiz becerilerini bütünleştirir.
+| Sıra | Konular                                                                                                                                                                                                                                                                                                                                                                     | Ön Hazırlık                                                                                                                         |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Algoritmik Düşünmeye Giriş                                                                                                                                                                                                                                                                                                                                                  | Video                                                                                                                               |
+| 2    | Scratch. Bilgisayar Bilimleri. Algoritmik Düşünme. Problem Çözme: Girdiler, Çıktılar. Gösterim: Tekli, İkili, Ondalık, ASCII, Unicode, RGB. Soyutlama. Algoritmalar. Çalışma Süreleri. Sözde kod. Scratch: Fonksiyonlar, Argümanlar, Dönüş Değerleri; Değişkenler; Boolean İfadeleri, Koşullar; Döngüler; Olaylar; İş Parçacıkları.                                         | Video: CS50x Week 0. Okuma: Aksi belirtilmedikçe tüm sayfa numaraları C Programming: A Modern Approach kitabındandır. King s. 9-37. |
+| 3    | C. Kaynak Kodu. Makine Kodu. Derleyici. Doğruluk, Tasarım, Stil. Visual Studio Code. Sözdizimi Vurgulama. Kaçış Dizileri. Başlık Dosyaları. Kütüphaneler. Kılavuz Sayfaları. Türler. Koşullular. Değişkenler. Döngüler. Linux. Grafik Kullanıcı Arayüzü (GUI). Komut İstemi Arayüzü (CLI). Sabitler. Yorumlar. Sözde kod. Operatörler. Tamsayı Taşması. Kayan Nokta Hatası. | Video: CS50x Week 1 C. Okuma: King s. 37-241.                                                                                       |
+| 4    | Diziler. Ön işleme. Derleme. Birleştirme. Bağlama. Hata ayıklama. Diziler. Dizgiler. Komut Satırı Argümanları. Kriptografi.                                                                                                                                                                                                                                                 | Video: CS50x Week 2. King s. 257-377.                                                                                               |
+| 5    | Algoritmalar. Arama: Doğrusal Arama, İkili Arama. Sıralama: Kabarcık Sıralama, Seçim Sıralama, Birleştirme Sıralama. Asimptotik Gösterim. Özyineleme.                                                                                                                                                                                                                       | Video: CS50x Week 3. Okuma: King s. 413-627.                                                                                        |
+| 6    | Hafıza. İşaretçiler. Segmentasyon Hataları. Dinamik Bellek Tahsisi. Yığın. Yığın. Arabellek Taşması. Dosya I/O. Görüntüler.                                                                                                                                                                                                                                                 | Video: CS50x Week 4                                                                                                                 |
+| 7    | Veri Yapıları. Soyut Veri Türleri. Kuyruklar, Yığınlar. Bağlı Listeler. Ağaçlar, İkili Arama Ağaçları. Karma Tablolar. Denemeler.                                                                                                                                                                                                                                           | Video: CS50x Week 5.                                                                                                                |
+| 8    | Ara Sınav                                                                                                                                                                                                                                                                                                                                                                   | GitHub'dan teslim edilecek.                                                                                                         |
+| 9    | Python. İşlevler, Bağımsız Değişkenler, Dönüş Değerleri; Değişkenler; Boolean İfadeleri, Koşullar; Döngüler. Modüller, Paketler.                                                                                                                                                                                                                                            | Video: CS50x Week 6.                                                                                                                |
+| 10   | Yapay Zekâ. Prompt Mühendislik. Sistem İstemi. Kullanıcı İstemi. Üretken Yapay Zeka. Yapay Zeka. Karar Ağaçları. Minimaks. Makine Öğrenimi. Takviyeli Öğrenme. Keşfetmek ve İstismar Etmek. Derin Öğrenme. Sinir Ağları. Büyük Dil Modelleri. Transformatör Mimarisi. Halüsinasyonlar.                                                                                      | Video: CS50x 6.5.                                                                                                                   |
+| 11   | SQL: Tablolar; Türler; İfadeler; Kısıtlamalar; Dizinler; Anahtar Kelimeler, Fonksiyonlar; İşlemler. Yarış Koşulluları. SQL Enjeksiyon Saldırıları.                                                                                                                                                                                                                          | Video: CS50x Week 7.                                                                                                                |
+| 12   | HTML, CSS, JavaScript. İnternet: Yönlendiriciler; TCP/IP; DNS. HTTP: URL'ler, GET, POST. HTML: Etiketler; Nitelikler. Sunucular. CSS: Özellikler; Seçiciler. Çerçeveler. JavaScript: Değişkenler; Koşullar; Döngüler. Olaylar.                                                                                                                                              | Video: CS50x Week 8.                                                                                                                |
+| 13   | Flask. Rota. Dekoratörler. İstekler, Yanıtlar. Oturumlar. Çerezler.                                                                                                                                                                                                                                                                                                         | Video: CS50x Week 9                                                                                                                 |
+| 14   | Final                                                                                                                                                                                                                                                                                                                                                                       | Vİdeo: CS50x Week 10                                                                                                                |
 
-**Ders Hedefleri:**
-
-1. Bilgisayar bilimlerinin temel kavramlarını anlama ve uygulama.
-2. Algoritma oluşturma ve problem çözme yeteneği geliştirme.
-3. C, Python, HTML/CSS ve JavaScript dillerinde kod yazabilme.
-
-**Hafta 1:**
-
-Bilgisayar Bilimlerine Giriş, Scratch
-
-- Ödev: Scratch kullanarak interaktif bir hikaye veya oyun oluşturun
-
-**Hafta 2 – Hafta 3:**
-
-C dili: Temelleri, Diziler
-
-- Ödev: C kullanarak basit bir program yazın
-
-**Hafta 4:**
-
-C dili: Algoritmalar, Bellek Yönetimi
-
-- Ödev: Algoritma tasarımı
-
-**Hafta 5:**
-
-Veri Yapıları
-
-- Ödev: Veri yapılarını kullanarak bir C programı yazın
-
-**Hafta 6 – Hafta 7:**
-
-Python'a Giriş
-
-- Ödev: Python kullanarak basit bir analiz aracı oluşturun
-
-**Hafta 8:**
-
-HTML/CSS ve Web Programlama Girişi
-
-- Ödev: Bir HTML/CSS web sitesi oluşturun
-
-**Hafta 9:**
-
-JavaScript ve daha karmaşık web programlama
-
-- Ödev: JavaScript kullanarak interaktif bir web sitesi oluşturun
-
-**Hafta 10:**
-
-SQL ve Veritabanları
-
-- Ödev: SQL kullanarak veritabanı sorguları oluşturun
-
-**Hafta 11:**
-
-Bilgisayar Bilimleri ve İletişim: Uygulamalar ve Kullanım Alanları
-
-- Ödev: Bir iletişim veya medya projesi için teknoloji planı taslağı oluşturun
-
-**Hafta 12 – Hafta 14:**
-
-Final Projesi Çalışması
-
-- Final Projesi: İletişim veya medya odaklı bir bilgisayar bilimi projesi oluşturun
-
-**Değerlendirme Yapısı:**
-
-1. Sınıf Katılımı (Tartışmalar, Devam) – %20
-
-2. Ödevler – %30
-
-3. Final Projesi – %50

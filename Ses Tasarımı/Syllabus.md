@@ -6,7 +6,7 @@
 
 ## **Dersin Amacı**
 
-Bu ders, medya prodüksiyonu için ses tasarımı tekniklerine odaklanır. Öğrencilere dijital ses işleme programı **Reaper**'ı kullanarak ses tasarlama, sentezleme ve efekt ekleme öğretilir. Ayrıca, **sentezleyiciler** kullanarak çeşitli seslerin nasıl üretileceği ve sesin yaratıcı projelerde nasıl kullanılacağı ele alınır. Bu ders, özellikle film, televizyon ve dijital medya projeleri için ses tasarımının temellerini anlamak isteyen öğrenciler için tasarlanmıştır.
+Bu ders, medya prodüksiyonu için ses tasarımı tekniklerine odaklanır. Öğrencilere dijital ses işleme programı **Reaper**'ı kullanarak ses tasarlama, üretme ve efekt ekleme öğretilir. Ayrıca, **synthesizer** kullanarak çeşitli seslerin nasıl üretileceği ve sesin yaratıcı projelerde nasıl kullanılacağı ele alınır. Bu ders, özellikle film, televizyon ve dijital medya projeleri için ses tasarımının temellerini anlamak isteyen öğrenciler için tasarlanmıştır.
 
 ## **Dersin Hedefleri**
 
@@ -135,6 +135,3 @@ Bu ders teorik ve pratik ders anlatımı ile ses tasarımı projelerini bir aray
 
 ## **Kaynaklar**
 
-- **Yazılım**: Reaper DAW (Digital Audio Workstation)
-- **Sentezleyiciler**: Reaper’daki yerleşik sentezleyiciler ve ek VST (Virtual Studio Technology) eklentileri.
-- **Ek Kaynaklar**: Film müziği, ses tasarımı ve sentezleme üzerine çevrimiçi kaynaklar, video eğitimleri.

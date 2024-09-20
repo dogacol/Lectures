@@ -133,4 +133,12 @@ Students must adhere to the university’s academic integrity policy. Any form o
 
 - **Software**: Adobe Photoshop, Adobe Illustrator (available in university labs or via Adobe Creative Cloud subscription).
 - **Tutorials**: Adobe Help Center, YouTube tutorials, Skillshare, Udemy courses.
-- **Additional Learning Tools**: Adobe’s official documentation, Behance for design inspiration, and Dribbble for portfolio ideas.
+- **References**:
+1. Albers, Josef. _Interaction of Color._ New Haven: Yale University Press, 1963.
+2. Müller, Jens. _Logo Modernism._ Los Angeles: Taschen, 2015.
+3. Samara, Timothy. _Making and Breaking the Grid: A Graphic Design Layout Workshop._ Beverly, MA: Rockport Publishers, 2005.
+4. White, Alexander W. _The Elements of Graphic Design: Space, Unity, Page Architecture, and Type._ New York: Allworth Press, 2002.
+5. Lupton, Ellen. _Thinking with Type: A Critical Guide for Designers, Writers, Editors, and Students._ 2nd ed. New York: Princeton Architectural Press, 2010.
+6. Berger, John. _Ways of Seeing._ London: British Broadcasting Corporation and Penguin Books, 1972.
+7. Young, Doyald. _Fonts & Logos: Font Analysis, Logotype Design, Typography._ 1st ed. Delphi Press, 1999.
+

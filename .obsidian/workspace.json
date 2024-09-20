@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "739520b77828a981",
+        "id": "ebc79a21d4cb0e41",
         "type": "tabs",
         "children": [
           {
-            "id": "454c55556f5c639a",
+            "id": "026b9fc332c44f60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34cd1b1221a25bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md",
-                "mode": "source",
+                "file": "Web Design/Web Design Syllabus.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09a842912b11353d",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md",
+                "file": "Web Design/Web Design Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md",
+                "file": "Web Design/Web Design Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kodlama 1/Kodlama 1 Syllabus.md"
+                "file": "Web Design/Web Design Syllabus.md"
               }
             }
           }
@@ -160,23 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34cd1b1221a25bb3",
+  "active": "026b9fc332c44f60",
   "lastOpenFiles": [
-    "Kodlama 2/Final Projesi.md",
+    "Software Applications/Software Applications Syllabus.md",
+    "Web Design/Web Design Syllabus.md",
+    "Web Design/Final Project.md",
+    "Ses Tasarımı/Syllabus.md",
+    "RTS Teknik Temeller/Syllabus.md",
+    "Sanat Tarihi/Sanat Tarihi Syllabus.md",
     "Kodlama 1/Kodlama 1 Syllabus.md",
+    "Kodlama 2/Final Projesi.md",
     "Kodlama 2",
     "Kodlama 1/Referanslar/C'ye Dair Bilmeniz Gereken Her Şey.md",
     "Kodlama 1/Ara Sınav Projesi.md",
     "Kodlama 1/Referanslar/JavaScript'e Dair Bilmeniz Gereken Her Şey.md",
-    "RTS Teknik Temeller/Syllabus.md",
-    "Ses Tasarımı/Syllabus.md",
-    "Web Design/Web Design Syllabus.md",
-    "Software Applications/Software Applications Syllabus.md",
     "Ses Tasarımı",
     "RTS Teknik Temeller",
     "Software Applications",
-    "Web Design/Final Project.md",
-    "Sanat Tarihi/Sanat Tarihi Syllabus.md",
     "README.md",
     "Kodlama 1/Referanslar/HTML'e Dair Bilmeniz Gereken Her Şey.md",
     "Kodlama 1/Referanslar/GIT'e Dair Bilmeniz Gereken Her Şey.md",

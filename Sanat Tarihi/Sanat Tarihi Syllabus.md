@@ -33,9 +33,7 @@ Dersin sonunda öğrenciler:
 ### Ders 1 - Sanat Tarihi ve Tarihsel Araştırmaya Giriş
 - **Konular**: İnsanlık tarihi içinde sanatın önemi ve amacı.
 - **Okumalar**:
-    - [Sanat nedir ve neden bakarız?](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/what-is-art-history-and-where-is-it-going)
-    - [Görsel analiz nasıl yapılır?](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/why-look-at-art)
-    - [Sanat tarihi analizi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/introduction-to-art-historical-analysis)        
+    -     Gombrich. Sanat ve Sanatçılar, s. 15.
 - **Videolar**:
     - [Batı kültürünün kısa tarihi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-western-culture)
     - [Tarihlerin önemi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/common-questions-about-dates)
@@ -46,7 +44,8 @@ Dersin sonunda öğrenciler:
 ### Ders 2 - Ortaçağ'ın Sonu ve Gotik Sanat
 - **Konular**: Ortaçağın arkaplanı
 - **Okumalar**:
-    - [Gotik mimari](https://tr.khanacademy.org/humanities/medieval-world/gothic1)    
+    - Bölüm 8: _Döküm Potasında Batı Sanatı_ (Sayfa 157)
+	- Bölüm 9: _Yeryüzü Kilisesi_ (Sayfa 171)
 - **Videolar**:
     - [Gotik Mimarinin Tanıtımı](https://tr.khanacademy.org/humanities/medieval-world/gothic1/v/gothic-architecture-an-introduction)
     - [Ortaçağ'a Giriş](https://tr.khanacademy.org/humanities/medieval-world/gothic1)
@@ -58,7 +57,8 @@ Dersin sonunda öğrenciler:
 ### Ders 3 - Erken Rönesans İtalya
 - **Konular**: Giotto'dan Masaccio'ya Hristiyan sanatı, ikonografinin doğuşu
 - **Okumalar**:
-    - [İtalya'da Erken Rönesans Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1)
+    - Bölüm 12: _Gerçekliğin Ele Geçirilmesi_ (Sayfa 223)
+	- Bölüm 13: _Gelenek ve Yenilik: İtalya'da XV. Yüzyıl Sonları_ (Sayfa 247)
 - **Videolar**:
     - [Erken Rönesans'a Giriş](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/introduction-to-the-early-renaissance)
     - [Altın zemin panel resmi](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/gold-ground-panel-painting)
@@ -70,7 +70,8 @@ Dersin sonunda öğrenciler:
 ### Ders 4 - Yüksek Rönesans İtalya
 - **Konular**: Leonardo da Vinci, Michelangelo ve Raphael, Hümanizm, geleneksel ideallerin yeniden keşfi, sanatsal deha
 - **Okumalar**:
-    - [İtalya'da Yüksek Rönesans Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1)
+    - Bölüm 15: _Ulaşılan Uyum: Toskana ve Roma, XVI. Yüzyıl Başları_ (Sayfa 287)
+	- Bölüm 16: _Işık ve Renk: Venedik ve Kuzey İtalya_ (Sayfa 325)
 - Videolar:
     - [Yüksek Rönesans Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/high-renaissance-art)
     - [Yüksek Rönesans'a Doğru](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/toward-the-high-renaissance-an-introduction)
@@ -94,7 +95,7 @@ Dersin sonunda öğrenciler:
 ### Ders 5 - Kuzey Rönesans
 - Konular: Albrecht Dürer, Jan van Eyck ve Hieronymus Bosch
 - Okumalar:
-    - [Kuzey Rönesans Sanatı]([https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1))
+    Bölüm 17: _Rönesans'ın Yayılışı: Almanya ve Felemenk_ (Sayfa 341)
 - Videolar:
     - [Kuzey Rönesans](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/the-northern-renaissance)
     - [15. Yüzyılda Burgonya'ya Giriş](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/introduction-to-burgundy-in-the-15th-century)
@@ -110,7 +111,7 @@ Dersin sonunda öğrenciler:
 ### Ders 6 - Maniyerizm ve Geç Rönesans
 - **Konular**: Parmigianino, Bronzino ve El Greco
 - **Okumalar**:
-    - [Maniyerizm](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1)
+    - Bölüm 18: _Sanatın Bunalımı: Avrupa XVI. Yüzyıl Sonları_ (Sayfa 361)
 - Videolar:
     - [Maniyerizm: Bronzino](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1/v/mannerism-bronzino)
     - [Jacopo Pontormo: Mezar](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1/v/jacopo-pontormo-entombment)
@@ -122,7 +123,8 @@ Dersin sonunda öğrenciler:
 ### Ders 7 - Barok Sanatı: Felemenk ve Fransa
 - **Konular**: Rembrandt, Vermeer ve Poussin
 - **Okumalar**:
-    - [Hollanda ve Fransa'da Barok Sanatı](https://tr.khanacademy.org/humanities/baroque-art1
+    - Bölüm 19: _Görüntü ve Görüntüler: Katolik Avrupa XVII. Yüzyıl İlk Yarısı_ (Sayfa 387)
+	- Bölüm 20: _Doğanın Aynası: Hollanda XVII. Yüzyıl_ (Sayfa 413)
 - **Videolar**:
     - [Hollanda Altın Çağı](https://tr.khanacademy.org/humanities/baroque-art1/v/the-dutch-golden-age)
     - [Rembrandt: Dr. Nicolaes Tulp'un Anatomi Dersi](https://tr.khanacademy.org/humanities/baroque-art1/v/rembrandt-anatomy-lesson-of-dr-tulp)
@@ -140,7 +142,7 @@ Dersin sonunda öğrenciler:
 ### Ders 9 - 18. Yüzyıl: Rokoko ve Neoklasizm
 - **Konular**: Watteau, Fragonard ve David
 - **Okumalar**:
-    - [Rokoko ve Aydınlanma](https://tr.khanacademy.org/humanities/rococo1)  
+    - Bölüm 23: _Akıl Çağı: İngiltere ve Fransa XVIII. Yüzyıl_ (Sayfa 457)
 - **Videolar**:
     - [Rokoko Sanatı](https://tr.khanacademy.org/humanities/rococo1/v/a-beginners-guide-to-rococo-art)
     - [Neoklasizm: Bir Giriş](https://tr.khanacademy.org/humanities/rococo1/v/neoclassicism-an-introduction)
@@ -149,28 +151,33 @@ Dersin sonunda öğrenciler:
 ### Ders 10 - İngiliz Sanatı ve Portre
 - **Konular**: Gainsborough, Reynolds ve Hogarth
 - **Okumalar**:
-    - [İngiliz Sanatı ve Portre](https://tr.khanacademy.org/humanities/british-art1)
+    - Bölüm 23: _Akıl Çağı: İngiltere ve Fransa XVIII. Yüzyıl_ (Sayfa 457)****
 - **Videolar**:
     - [İngiltere'de Portre](https://tr.khanacademy.org/humanities/british-art1/v/portraiture-in-britain)    
 ### Ders 11 - Neoklasizm ve Romantizm
 - Konular: Canova, Goya ve Turner
 - Okumalar:
-    - [Neoklasizm ve Romantizm](https://tr.khanacademy.org/humanities/neoclassicism-romanticism1)
+    - Bölüm 24: _Gelenekten Kopuş: İngiltere, Amerika ve Fransa XVIII. Yüzyıl Sonları ve XIX. Yüzyıl Başları_ (Sayfa 475)
 - Videolar:
     - [Neoklasizm ve Romantizm](https://tr.khanacademy.org/humanities/neoclassicism-romanticism1/v/neoclassicism-and-romanticism)
 ### Ders 12 - Devrim Çağı Sanatı
 - Konular: Fransız Devrimi ve Sanat
 - Okumalar:
-    - [Devrim Sanatı](https://tr.khanacademy.org/humanities/revolution1)   
+    - Bölüm 25: _Sürekli Devrim: XIX. Yüzyıl_ (Sayfa 499)
 - Videolar:
     - [Fransız Devrimi ve Sanatı](https://tr.khanacademy.org/humanities/revolution1/v/art-and-the-french-revolution)
 - Dördüncü Ödev Teslimi
-### Ders 13 - 18.yy’da Sanat ve Toplum
+### Ders 13 - 19.yy’da Sanat ve Toplum
 - Konular: Sanatın toplumsal rolü ve etkisi
+- Okumalar: 
+	- Bölüm 26, _Yeni Ölçüler Peşinde: XIX. Yüzyıl Sonları_
 - Videolar:
     - [18. Yüzyılda Sanat ve Toplum](https://tr.khanacademy.org/humanities/revolution1/v/art-and-society-in-the-18th-century)
-### Ders 14 - 19. Yüzyılın Başlangıcı ve Sonuçlar
+### Ders 14 - 20. Yüzyılın Başlangıcı ve Sonuçlar
 - Konular: Sanat ve moderniteye geçiş
+- Okumalar: 
+	- Bölüm 27: _Deneysel Sanat: XX. Yüzyılın İlk Yarısı_ (Sayfa 557)
+	- Bölüm 28: _Sonu Olmayan Öykü: Modernizmin Zaferi_ (Sayfa 599)
 - Videolar:
     - [Modern Sanatın Doğuşu](https://tr.khanacademy.org/humanities/modern-art1/v/the-birth-of-modern-art)
 ### Ders 15 - Final Sınavı

@@ -9,7 +9,7 @@
 
 ## **Dersin Amacı**
 
-Bu ders, radyo, televizyon ve sinema üretiminin teknik temellerine teorik bir bakış sunar. **Steven Ascher'in The Filmmaker’s Handbook** kitabı ana kaynak olarak kullanılacaktır. Ders boyunca dijital ve film sistemleri, ses kaydı, aydınlatma, lens kullanımı, video kurgusu ve post-prodüksiyon gibi temel kavramlar ele alınacak ve tartışılacaktır.
+Bu ders, radyo, televizyon ve sinema üretiminin teknik temellerine teorik bir bakış sunar. Steven Ascher'in The Filmmaker’s Handbook ve Bordwell, Thompson ve Smith'in Film Sanatı kitapları iki ana kaynak olarak kullanılacaktır. Ders boyunca dijital ve film sistemleri, ses kaydı, aydınlatma, lens kullanımı, video kurgusu ve post-prodüksiyon gibi temel kavramlar ele alınacak ve tartışılacaktır. Öğrenciler film estetiğine dair tüm temel kavramları belirleyip daha sonra uygulamalarda kullanabileceklerdir.
 
 ## **Dersin Hedefleri**
 
