@@ -5,60 +5,40 @@ Görüşme Saatleri için eposta gönderiniz.
 **Ders** **saatleri**: 9-11 arası.
 ## **Dersin Amacı:**
 
-Bu ders, öğrencilerin algoritmik düşünmeyi öğrenmelerini ve problemleri verimli bir şekilde çözmelerini sağlamayı hedeflemektedir. Programlama sanatına giriş niteliğinde olan ders; soyutlama, algoritmalar, veri yapıları, bellek yönetimi, güvenlik ve yazılım mühendisliği gibi konuları kapsar. Bu ders iki dönemlik tüm bir dersin ilk bölümüdür. İlk bölüm, Güz döneminde, **C** programlama dili öğretilir. Dersin sonunda öğrenciler, öğrendikleri tüm becerileri kullanarak C dili ile bir yazılım tasarlayacaklardır.
+Bu ders öğrencilere algoritmik düşünmeyi ve problemleri verimli bir şekilde çözmeyi öğretir. Konular arasında soyutlama, algoritmalar, veri yapıları, kapsülleme, kaynak yönetimi, güvenlik, yazılım mühendisliği ve web programlama yer almaktadır. Diller arasında C, Python ve SQL'in yanı sıra HTML, CSS ve JavaScript bulunmaktadır. Sanat, beşeri bilimler, sosyal bilimler ve fen bilimlerinden esinlenen problem setleri bulunmaktadır. 
 
 ## **Ders Beklentileri ve Notlandırma:**
 
 Öğrencilerin dersten tam not alabilmesi için aşağıdaki gereksinimleri yerine getirmesi gerekmektedir:
 
-Öğrencilerden aşağıdaki görevleri yerine getirmeleri beklenmektedir:
-
-1. **10 tane ders içi ödev - 40 puan
-2. **Ara Sınav Projesi - 20 puan
-3. **Final projesi** - 40 puan
-	- Proje ilerleme takibi (20 puan)
-	- Projenin GitHub Üzerinden Teslimi ve değerlendirilmesi (20 puan)
-
 **Notlandırma:** Proje, **doğruluk** ve **stil** ekseninde değerlendirilecektir.
 
-1. Ders içi ödevler (en az 10 tane) – 40 puan
-2. Ara Sınav Projesi – 20 puan
-3. Final Projesi – 40 puan
-    - Final proje ilerleme takibi (20 puan)
-    - Projenin GitHub üzerinden teslimi (20 puan)
-
+1. Ara Sınav, İlk 5 Problem Seti - 40 puan 
+	- Her ders sonunda o haftanın problem seti teslim edilecektir.
+2.  Final Haftasına Kadar Son 5 Problem Seti - 60 puan
+	- Her ders sonunda o haftanın pseti teslim edilecektir.
 **Toplam: 100 puan**
 
-### Ders İçi Ödevler (en az 10 adet) - 40 puan 
-Öğrenciler her derse önceden hazırlık yaparak gelmelidir. Her hafta için ön hazırlık koşulları haftalık ders konuları içerisinde yer almaktadır. Her haftanın konusuyla ilgili ders içi küçük projeler yapılacaktır. Bu projelerin amacı yaparak öğrenme olanağı sunmak içindir. Yabancı bir dil öğrenmeye benzer bir şekilde yazılım dilleri de yaparak öğrenildiğinde daha kolay ve zevkli hale gelir. 
-### Ara Sınav Projesi - 20 puan
-Ara Sınav Projesi için C dilinde bir **Öğrenci Notlandırma Sistemi** tasarlayın ve uygulayın. Bu proje, temel C kavramlarını, değişkenleri, formatlanmış giriş/çıkış işlemlerini, koşullu mantığı, döngüleri ve dizileri anlamanızı test edecektir. Program, birden fazla öğrencinin bilgilerini kabul edip, her öğrencinin not ortalamasını hesaplamalı ve nihai harf notunu belirlemelidir. Proje, 1-7. haftalar boyunca işlenen tüm konuları içerir.
+### Problem Setleri 
+Problem setleri her ders içerisinde yapılacaktır. Problem setlerini derste bitirebileceğinizden emin olmak için önceki hafta ders sonrası çalışmaya başlamalısınız. Her öğrenci derste problem setlerini nasıl yaptığını açıklayacaklardır. Açıklayamayan öğrencilerin ödevleri kabul edilmeyecektir. 
+### İlk 5 Pset - 20 puan 
+#### Ara Sınava Kadar Teslim Edilecek
 
-- Projenin detaylı açıklaması öğrencilere GitHub ve Mebis üzerinden dağıtıla
-- **Projenin Git ve GitHub ile sürüm kontrolü**: Proje, Git kullanılarak yönetilmeli ve GitHub'a yüklenmelidir.
-- **Projenin GitHub üzerinden teslim edilmesi**: Proje tamamlandıktan sonra GitHub reposunun bağlantısı dersin öğretim üyesiyle paylaşılmalıdır.
-- **README.md dosyası**: Proje reposunda bir README.md dosyası olmalı, proje hakkında kısa bir açıklama içermelidir.
-### Final Projesi - 40 puan
-Final projesi için derste öğrenilen tüm pratik ve teorik bilgiler kullanılarak gelişmiş işlevsel bir uygulama yapmanız istenecektir. Bu uygulama tek bir amaca hizmet etmeli ve istikrarlı görsel ve yazılımsal bir dile sahip olmalıdır. Final projesi için ara sınav haftasından hemen sonra çalışmaya başlanması gerekmektedir. Sekizinci (8.) haftadan itibaren her derste final proje takibi için her öğrenciye ait bir form doldurulacaktır. Bu formdaki tüm ögeler tamamlanmadığı sürece final projesi kabul edilmeyecektir. 
+CS50 sitesinde bulunan beş (5) problem seti GitHub Classroom üzerinden teslim edilmiş olmalıdır. 
+https://cs50.harvard.edu/x/2024/psets/0/
+https://cs50.harvard.edu/x/2024/psets/1/
+https://cs50.harvard.edu/x/2024/psets/2/
+https://cs50.harvard.edu/x/2024/psets/3/
+https://cs50.harvard.edu/x/2024/psets/4/
+### Son 5 Pset - 20 Puan
+#### Finale Kadar Teslim Edilecek
 
-Projeniz herhangi bir konu veya alanla ilgili olabilir. Ne türden bir proje olacağı ile ilgili dersin beklentisi tamamen size ait ve ilgi alanınıza hitap eden bir fikir seçmenizdir. Şu sorular başlamanıza yardımcı olabilir:
-
-- Yazılımınız ne işe yarayacak? Hangi özelliklere sahip olacak? Nasıl çalıştırılacak? 
-- Hangi yeni becerileri edinmeniz gerekecek? Hangi konuları araştırmanız gerekecek?
-- Yazılım dünyasında, çoğu şeyin uygulanması beklediğinizden daha uzun sürer. Bu nedenle, belirli bir süre içinde umduğunuzdan daha azını başarmak alışılmadık bir durum değildir. 
-- Projeniz için iyi bir sonuç olarak neyi düşünebilirsiniz? Daha iyi bir sonuç mu? En iyi sonuç?
-
-**Son derste her öğrenci projesini anlatan 30 saniyelik sözlü bir sunum gerçekleştirmelidir.** 
-
-Proje gereksinimleri aşağıdaki gibidir: 
-1- Projeyi açıklayan bir sayfalık bir yazı. Elden teslim edilecektir.
-2- Projenizin bulunduğu GitHub kullanıcı adı ve linki teslim edilen kağıtta bulunmalıdır. 
-3- Elden teslim edilen proje tanıtımı aynı zamanda GitHub reposunda README.md dosyasında yer almalıdır. 
-	`README.md dosyanız en az birkaç paragraf uzunluğunda olmalı ve projenizin ne olduğunu, proje için yazdığınız dosyaların her birinin ne içerdiğini ve ne yaptığını ve belirli tasarım seçimlerini tartıştıysanız, bunları neden yaptığınızı açıklamalıdır. Projenizi eksiksiz bir şekilde belgeleyen bir README.md yazmak için yeterli zaman ve enerji ayırdığınızdan emin olun. Bununla gurur duyun! Projenizi ve işlevselliğinin tüm yönlerini açıklamak için 750 kelimelik bir README.md muhtemelen yeterli olacaktır. Bu eşiğe ulaşamıyorsanız, bu muhtemelen projenizin yeterince karmaşık olmadığı anlamına gelir.`
-4- Her projenin kendine özgü bir adı olmalıdır.
-5- Her proje net bir amaca hizmet etmeli, ve tasarımı bu amacı tamamıyla yansıtmalıdır.
-6- Proje üç parça ve en az üç dosyadan oluşmalıdır: style.css, index.html ve script.js. Bu dosyalar dışında bir de içerikler klasöründe multimedya dosyaları bulunabilir. Klasör yapısı düzenli olmalı ve GitHub üzerinden erişilebilmelidir.
-7- Projenizin yazılımında mutlaka satırların ne işe yaradığına dair yorumlar bulunmalıdır ve gerektiğinde bu yorumları proje sahibi açıklayabiliyor olmalıdır. 
+CS50 sitesinde bulunan beş (5) problem seti GitHub Classroom üzerinden teslim edilmiş olmalıdır. 
+https://cs50.harvard.edu/x/2024/psets/5/
+https://cs50.harvard.edu/x/2024/psets/6/
+https://cs50.harvard.edu/x/2024/psets/7/
+https://cs50.harvard.edu/x/2024/psets/8/
+https://cs50.harvard.edu/x/2024/psets/9/
 
 ## **Akademik Dürüstlük İlkesi**
 Bu dersteki tüm çalışmaların özü size ait olmalıdır. Aksi belirtilmedikçe, ders içi ödevlerde ve projelerde işbirliğine izin verilmez, ancak bu yardım bir başkasının sizin için çalışmanızı yapmasına indirgenmediği sürece sınıf arkadaşlarınızdan ve diğerlerinden yardım isteyebilirsiniz. Genel olarak, yardım isterken kendi çalışmanızı başkalarına gösterebilirsiniz, ancak siz ve onlar bu ilkenin diğer kısıtlamalarına saygı gösterdiğiniz sürece onlarınkini göremezsiniz.
@@ -97,65 +77,82 @@ Aşağıda, makul görünen ve görünmeyen eylemleri (kapsamlı olmayan bir şe
 
 [Harvard University CS50 Dersinden](https://cs50.harvard.edu/x/2024/honesty/) [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Lisansı Dahilinde Referans Alınmıştır](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0)
 
-
-Dersten önce izlenmeli: https://www.youtube.com/watch?v=QZwneRb-zqA
+Dersten önce izlenmeli: Türkçe https://www.youtube.com/watch?v=9SYkiZLBdLY veya İngilizce https://www.youtube.com/watch?v=QZwneRb-zqA  
 ## **Haftalık Ders Planı:**
 
-### **Hafta 1: C Programlamaya Giriş**
 
-- C diline genel bakış
-- Geliştirme ortamının kurulumu
-- İlk C programını yazma ve çalıştırma
-- Temel sözdizimi
-### **Hafta 2: C Temelleri**
+Bu ders, iletişim öğrencileri için uyarlanmış bir bilgisayar bilimleri dersidir. Programlama dilleri ve algoritma geliştirme becerileri ile dijital medya oluşturma ve analiz becerilerini bütünleştirir.
 
-- Değişkenler ve veri türleri
-- Operatörler ve ifadeler
-- Basit matematiksel işlemler
-### **Hafta 3: Formatlanmış Giriş/Çıkış**
+**Ders Hedefleri:**
 
-- `printf` ve `scanf` fonksiyonlarının detayları
-- Formatlama türleri (%d, %f, %s vb.)
-### **Hafta 4: İfadeler**
+1. Bilgisayar bilimlerinin temel kavramlarını anlama ve uygulama.
+2. Algoritma oluşturma ve problem çözme yeteneği geliştirme.
+3. C, Python, HTML/CSS ve JavaScript dillerinde kod yazabilme.
 
-- Aritmetik ve mantıksal ifadeler
-- Karşılaştırma operatörleri
-### **Hafta 5: Seçim Yapıları**
+**Hafta 1:**
 
-- `if`, `else if`, `else` ve `switch-case` yapıları
-- Koşullu ifadelerle akış kontrolü
-### **Hafta 6: Döngüler**
+Bilgisayar Bilimlerine Giriş, Scratch
 
-- `for`, `while`, `do-while` döngüleri
-- Döngülerin iç içe kullanımı
-### **Hafta 7: Temel Türler ve Diziler**
+- Ödev: Scratch kullanarak interaktif bir hikaye veya oyun oluşturun
 
-- Temel veri türleri (int, float, char vb.)
-- Diziler ve dizilerle çalışma
-### **Hafta 8: Ara Sınav Projesi**
+**Hafta 2 – Hafta 3:**
 
-- **Ara Sınav Projesi**: Bellek yönetimi ve dosya işlemleri içeren bir C projesi
-### **Hafta 9: Fonksiyonlar**
+C dili: Temelleri, Diziler
 
-- Fonksiyon tanımlama ve kullanımı
-- Parametre geçişi ve geri dönüş değerleri
-### **Hafta 10: İşaretçiler**
+- Ödev: C kullanarak basit bir program yazın
 
-- İşaretçilerin temel kavramı
-- Bellekteki adresler ve işaretçilerle çalışma
-### **Hafta 11: İşaretçiler ve Diziler**
+**Hafta 4:**
 
-- İşaretçiler ve diziler arasındaki ilişki
-- Çok boyutlu diziler ve işaretçilerle kullanım
-### **Hafta 12: String İşlemleri**
+C dili: Algoritmalar, Bellek Yönetimi
 
-- Karakter dizileri ve string işlemleri
-- String fonksiyonları (`strlen`, `strcpy`, `strcmp` vb.)
-### **Hafta 13: Veri Yapıları ve Yapılar (Structs)**
+- Ödev: Algoritma tasarımı
 
-- Yapılar (`struct`) ve `enum` veri türleri
-- Struct ve fonksiyonların birlikte kullanımı
-### **Hafta 14: Final Projesi Teslimi**
+**Hafta 5:**
 
-- **Final Projesi**: Ders boyunca öğrenilen tüm konuları kapsayan büyük bir yazılım projesi
-- Proje Teslimi ve Sunumu
+Veri Yapıları
+
+- Ödev: Veri yapılarını kullanarak bir C programı yazın
+
+**Hafta 6 – Hafta 7:**
+
+Python'a Giriş
+
+- Ödev: Python kullanarak basit bir analiz aracı oluşturun
+
+**Hafta 8:**
+
+HTML/CSS ve Web Programlama Girişi
+
+- Ödev: Bir HTML/CSS web sitesi oluşturun
+
+**Hafta 9:**
+
+JavaScript ve daha karmaşık web programlama
+
+- Ödev: JavaScript kullanarak interaktif bir web sitesi oluşturun
+
+**Hafta 10:**
+
+SQL ve Veritabanları
+
+- Ödev: SQL kullanarak veritabanı sorguları oluşturun
+
+**Hafta 11:**
+
+Bilgisayar Bilimleri ve İletişim: Uygulamalar ve Kullanım Alanları
+
+- Ödev: Bir iletişim veya medya projesi için teknoloji planı taslağı oluşturun
+
+**Hafta 12 – Hafta 14:**
+
+Final Projesi Çalışması
+
+- Final Projesi: İletişim veya medya odaklı bir bilgisayar bilimi projesi oluşturun
+
+**Değerlendirme Yapısı:**
+
+1. Sınıf Katılımı (Tartışmalar, Devam) – %20
+
+2. Ödevler – %30
+
+3. Final Projesi – %50
