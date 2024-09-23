@@ -35,12 +35,9 @@ Dersin sonunda öğrenciler:
 - **Okumalar**:
     -     Gombrich. Sanat ve Sanatçılar, s. 15.
 - **Videolar**:
-    - [Batı kültürünün kısa tarihi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-western-culture)
+    - [**Batı kültürünün kısa tarihi**: ](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-western-culture)
     - [Tarihlerin önemi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/common-questions-about-dates)
     - [Beş büyük dünya dini](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/five-major-world-religions)
-    - [Haritalar bize ne anlatır?](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/what-maps-tell-us)
-    - [Batı heykelinde bedenin kısa tarihi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-the-body-in-western-sculpture)
-    - [Batı resim sanatında bedenin kısa tarihi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-the-body-in-western-painting)
 ### Ders 2 - Ortaçağ'ın Sonu ve Gotik Sanat
 - **Konular**: Ortaçağın arkaplanı
 - **Okumalar**:

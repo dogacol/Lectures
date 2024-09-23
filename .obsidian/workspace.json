@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sanat Tarihi/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "RTS Teknik Temeller/Film Sanatı Çeviri Projesi.md"
               }
             }
           }
@@ -146,14 +144,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "026b9fc332c44f60",
+  "active": "dd16ea1aa4af553f",
   "lastOpenFiles": [
-    "Web Design/Syllabus.md",
+    "Sanat Tarihi/Syllabus.md",
+    "RTS Teknik Temeller/Film Sanatı Çeviri Projesi.md",
     "README.md",
+    "Web Design/Syllabus.md",
     "Software Applications/Syllabus.md",
     "Kodlama 1/Kodlama 1 Syllabus.md",
     "RTS Teknik Temeller/Syllabus.md",
-    "Sanat Tarihi/Syllabus.md",
     "Ses Tasarımı/Syllabus.md",
     "Kodlama 1/Ara Sınav Projesi.md",
     "Web Design/Final Project.md",
