@@ -1,3 +1,4 @@
+# Web Design Syllabus
 
 **Dersi veren**: Dr. Öğr. Üye. Doğa Çöl  
 **E-posta**: dcol@medipol.edu.tr  

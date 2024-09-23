@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Design/Web Design Syllabus.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Design/Web Design Syllabus.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Design/Web Design Syllabus.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Design/Web Design Syllabus.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,22 +148,23 @@
   },
   "active": "026b9fc332c44f60",
   "lastOpenFiles": [
-    "Software Applications/Software Applications Syllabus.md",
-    "Web Design/Web Design Syllabus.md",
-    "Web Design/Final Project.md",
-    "Ses Tasarımı/Syllabus.md",
-    "RTS Teknik Temeller/Syllabus.md",
-    "Sanat Tarihi/Sanat Tarihi Syllabus.md",
+    "Web Design/Syllabus.md",
+    "README.md",
+    "Software Applications/Syllabus.md",
     "Kodlama 1/Kodlama 1 Syllabus.md",
+    "RTS Teknik Temeller/Syllabus.md",
+    "Sanat Tarihi/Syllabus.md",
+    "Ses Tasarımı/Syllabus.md",
+    "Kodlama 1/Ara Sınav Projesi.md",
+    "Web Design/Final Project.md",
+    "lectures.html",
     "Kodlama 2/Final Projesi.md",
     "Kodlama 2",
     "Kodlama 1/Referanslar/C'ye Dair Bilmeniz Gereken Her Şey.md",
-    "Kodlama 1/Ara Sınav Projesi.md",
     "Kodlama 1/Referanslar/JavaScript'e Dair Bilmeniz Gereken Her Şey.md",
     "Ses Tasarımı",
     "RTS Teknik Temeller",
     "Software Applications",
-    "README.md",
     "Kodlama 1/Referanslar/HTML'e Dair Bilmeniz Gereken Her Şey.md",
     "Kodlama 1/Referanslar/GIT'e Dair Bilmeniz Gereken Her Şey.md",
     "Kodlama 1/Referanslar/CSS'e Dair Bilmeniz Gereken Her Şey.md",

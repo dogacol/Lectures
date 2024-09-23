@@ -1,5 +1,4 @@
 
-
 # **Software Applications Syllabus**
 
 **Dersi veren**: Dr. Öğr. Üye. Doğa Çöl  

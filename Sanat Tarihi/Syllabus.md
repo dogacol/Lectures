@@ -1,4 +1,4 @@
-Sanat Tarihi Syllabus
+## Sanat Tarihi Syllabus
 
 **Dersi veren:** Dr. Öğr. Üye. Doğa Çöl
 **Eposta**: dcol@medipol.edu.tr

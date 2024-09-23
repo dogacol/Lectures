@@ -1,3 +1,5 @@
+# Ses Tasarımı ve Efekt Syllabus
+
 **Dersi Veren**: Dr. Öğr. Üye. Doğa Çöl  
 **E-posta**: dcol@medipol.edu.tr  
 **Oda**: İletişim Fakültesi B413  
