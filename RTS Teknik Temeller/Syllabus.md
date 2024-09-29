@@ -46,12 +46,12 @@ Bu ders tamamen teorik bir içerik sunmaktadır. Öğrenciler, haftalık ders an
 - **Konular**: Prodüksiyon öncesi hazırlık, film ve dijital çekim seçenekleri, sensör boyutu ve film formatları.
 - **Okuma**: **Bölüm 2**: "Before You Begin Production".
 
-### **Hafta 3: Video Görüntüsü
+### **Hafta 3: Video Görüntüsü**
 
 - **Konular**: Kamera ayarları, kayıt ortamları, dijital kayıt seçenekleri.
 - **Okuma**: **Bölüm 3**: "The Video Camcorder". **Bölüm 4**: "The Lens". **Bölüm 5**: "The Video Image".
 
-### **Hafta 4: Film Görüntüsü
+### **Hafta 4: Film Görüntüsü**
 
 - **Konular**: Film kameralarının özellikleri, perde hızı ve film stokları. Renk sıcaklığı, filtre kullanımı, lens ve ışık yönetimi. Renk sıcaklığı, filtre kullanımı, lens ve ışık yönetimi.
 - **Okuma**: **Bölüm 6**: "The Film Camera". **Bölüm 7**: "The Film Image". **Bölüm 8**: "Color and Filters".
@@ -61,12 +61,12 @@ Bu ders tamamen teorik bir içerik sunmaktadır. Öğrenciler, haftalık ders an
 - **Konular**: Çekim kompozisyonu, çekim seçimi, kamera hareketleri.
 - **Okuma**: **Bölüm 9**: "Shooting the Movie".
 - 
-### **Hafta 6: Ses Kaydı
+### **Hafta 6: Ses Kaydı**
 
 - **Konular**: Ses, ses nasıl kaydedilir, analog ses kaydı, dijital ses kaydı, ses kayıt cihazları, mikrofon, ses bağlantıları.
 - **Okuma**: **Bölüm 10**: "Sound Recording Systems". **Bölüm 11*: "Sound Recording Techniques".
 
-### **Hafta 7: Işık
+### **Hafta 7: Işık**
 
 - **Konular**: Işık, ışık ekipmanları, ışık yerleşimi ve kontrast kontrolü.
 - **Okuma**: **Bölüm 12**: "Lighting".
@@ -88,22 +88,22 @@ Bu ders tamamen teorik bir içerik sunmaktadır. Öğrenciler, haftalık ders an
 
 - **Konular**: NLE (Non-Linear Editing) sistemleri, dijital kurgunun bileşenleri, ses ve video düzenleme.
 - **Okuma**: **Bölüm 14**: "Editing Digital Video"
-### **Hafta 11: Dijital Renk ve CGI
+### **Hafta 11: Dijital Renk ve CGI**
 
 - **Konular**: Video efektleri, jenerik, grafik, formatlar, 24p, video çıktısı, EDL ve online kurgu.
 - **Okuma**: **Bölüm 14**: "Editing Digital Video". 
 
-### **Hafta 12: Ses Kurgusu ve Mixi
+### **Hafta 12: Ses Kurgusu ve Mixi**
 
 - **Konular**: NLE (Non-Linear Editing) sistemleri, dijital kurgunun bileşenleri, ses ve video düzenleme.
 - **Okuma**: **Bölüm 15**: "Sound Editing and Mixing".
 
-### **Hafta 13: Yapım ve Dağıtım
+### **Hafta 13: Yapım ve Dağıtım**
 
 - **Konular**: Proje geliştirme, maddi kaynak, bütçe, hukuki problemler, dağıtım ve pazarlama.
 - **Okuma**: **Bölüm 17**: "Producing and Distributing the Movie".
 
-### **Hafta 14: Pratiğe Geçiş
+### **Hafta 14: Pratiğe Geçiş**
 
 - **Konular**: Genel tekrar ve teoriği pratiğe dökme.
 
