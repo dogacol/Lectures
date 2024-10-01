@@ -44,24 +44,15 @@ Dersin sonunda öğrenciler:
 	- Bölüm 9: _Yeryüzü Kilisesi_ (Sayfa 171)
 - **Videolar**:
     - [Gotik Mimarinin Tanıtımı](https://tr.khanacademy.org/humanities/medieval-world/gothic1/v/gothic-architecture-an-introduction)
-    - [Ortaçağ'a Giriş](https://tr.khanacademy.org/humanities/medieval-world/gothic1)
-    - [Ayasofya'nın Uzun Tarihi](https://tr.khanacademy.org/humanities/medieval-world/byzantine1/v/the-long-history-of-hagia-sophia)
-    - [Anglo-Sakson Hazinesi: Sutton Hoo](https://tr.khanacademy.org/humanities/medieval-world/early-medieval1/v/sutton-hoo)
-    - [Karolenj Projesi](https://tr.khanacademy.org/humanities/medieval-world/carolingian1/v/the-carolingian-project)
-    - [Milenyum Sonrası Hac ve Haçlı Seferleri](https://tr.khanacademy.org/humanities/medieval-world/early-medieval1/v/pilgrimages-and-crusades-after-the-millennium)
-    - [Cennet nasıl görünür? Chartres ve Amiens'te Gotik Mimari](https://tr.khanacademy.org/humanities/medieval-world/gothic1/v/what-does-heaven-look-like-gothic-architecture-at-chartres-and-amiens)
+    - [Fransa'da Gotik Sanat](https://tr.khanacademy.org/humanities/medieval-world/gothic-art/gothic-art-in-france/v/birth-of-the-gothic-abbot-suger-and-the-ambulatory-in-the-basilica-of-st-denis-1140-44)
 ### Ders 3 - Erken Rönesans İtalya
 - **Konular**: Giotto'dan Masaccio'ya Hristiyan sanatı, ikonografinin doğuşu
 - **Okumalar**:
     - Bölüm 12: _Gerçekliğin Ele Geçirilmesi_ (Sayfa 223)
 	- Bölüm 13: _Gelenek ve Yenilik: İtalya'da XV. Yüzyıl Sonları_ (Sayfa 247)
-- **Videolar**:
+- **Videolar**: 
     - [Erken Rönesans'a Giriş](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/introduction-to-the-early-renaissance)
-    - [Altın zemin panel resmi](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/gold-ground-panel-painting)
-    - [Tempera](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/tempera)
-    - [Konservatörün Gözüyle: Gaddi, Aziz Julian](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/the-conservators-eye-gaddi-saint-julian)
-    - [Sanatta İsa'nın Hayatından Sahneler](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/standard-scenes-from-the-life-of-christ-in-art)
-    - [Bağlamda Sunak Tabloları](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/altarpieces-in-context)
+    - [İtalya'da Geç Dönem Gotik Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy)
 - **Birinci Ödev Teslimi**
 ### Ders 4 - Yüksek Rönesans İtalya
 - **Konular**: Leonardo da Vinci, Michelangelo ve Raphael, Hümanizm, geleneksel ideallerin yeniden keşfi, sanatsal deha
