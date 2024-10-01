@@ -73,12 +73,8 @@ Dersin sonunda öğrenciler:
 - **Okumalar**:
     - Bölüm 18: _Sanatın Bunalımı: Avrupa XVI. Yüzyıl Sonları_ (Sayfa 361)
 - Videolar:
-    - [Maniyerizm: Bronzino](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1/v/mannerism-bronzino)
-    - [Jacopo Pontormo: Mezar](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1/v/jacopo-pontormo-entombment)
-    - [Parmigianino: Uzun Boyunlu Madonna](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1/v/parmigianino-madonna-of-the-long-neck)
-    - [Sofonisba Anguissola: Kendi Portresi](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1/v/sofonisba-anguissola-self-portrait)
-    - [Benvenuto Cellini: Medusa'nın Başı ile Perseus](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1/v/benvenuto-cellini-perseus-with-the-head-of-medusa)
-    - [Giambologna: Sabine Kadının Kaçırılması](https://tr.khanacademy.org/humanities/renaissance-reformation/mannerism1/v/giambologna-abduction-of-a-sabine-woman)
+    - [Maniyerizm: Bronzino](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/pontormo/v/parmigianino-madonna-of-the-long-neck-1530-33)
+   
 - **İkinci Ödev Teslimi**
 ### Ders 7 - Barok Sanatı: Felemenk ve Fransa
 - **Konular**: Rembrandt, Vermeer ve Poussin
@@ -86,16 +82,7 @@ Dersin sonunda öğrenciler:
     - Bölüm 19: _Görüntü ve Görüntüler: Katolik Avrupa XVII. Yüzyıl İlk Yarısı_ (Sayfa 387)
 	- Bölüm 20: _Doğanın Aynası: Hollanda XVII. Yüzyıl_ (Sayfa 413)
 - **Videolar**:
-    - [Hollanda Altın Çağı](https://tr.khanacademy.org/humanities/baroque-art1/v/the-dutch-golden-age)
-    - [Rembrandt: Dr. Nicolaes Tulp'un Anatomi Dersi](https://tr.khanacademy.org/humanities/baroque-art1/v/rembrandt-anatomy-lesson-of-dr-tulp)
-    - [Rembrandt: Gece Devriyesi](https://tr.khanacademy.org/humanities/baroque-art1/v/rembrandt-the-night-watch)
-    - [Rembrandt: Homer'in Büstü ile Aristoteles](https://tr.khanacademy.org/humanities/baroque-art1/v/rembrandt-aristotle-homer)
-    - [Rembrandt: Kendi Portresi](https://tr.khanacademy.org/humanities/baroque-art1/v/rembrandt-self-portrait-1659)
-    - [Vermeer: Terazi Tutan Kadın](https://tr.khanacademy.org/humanities/baroque-art1/v/johannes-vermeer-woman-holding-a-balance)
-    - [Vermeer: İnci Küpeli Kız](https://tr.khanacademy.org/humanities/baroque-art1/v/johannes-vermeer-girl-with-a-pearl-earring)
-    - [Vermeer: Resim Sanatı](https://tr.khanacademy.org/humanities/baroque-art1/v/johannes-vermeer-the-art-of-painting)
-    - [Poussin: Et in Arcadia Ego](https://tr.khanacademy.org/humanities/baroque-art1/v/nicolas-poussin-et-in-arcadia-ego)
-    - [Poussin: Aziz John'un Patmos'ta Manzara](https://tr.khanacademy.org/humanities/baroque-art1/v/nicolas-poussin-landscape-with-saint-john-on-patmos)
+    - [Hollanda Altın Çağı](https://tr.khanacademy.org/humanities/renaissance-reformation/baroque-art1)
 
 ###  8. Hafta - Ara Sınav
 
@@ -104,8 +91,7 @@ Dersin sonunda öğrenciler:
 - **Okumalar**:
     - Bölüm 23: _Akıl Çağı: İngiltere ve Fransa XVIII. Yüzyıl_ (Sayfa 457)
 - **Videolar**:
-    - [Rokoko Sanatı](https://tr.khanacademy.org/humanities/rococo1/v/a-beginners-guide-to-rococo-art)
-    - [Neoklasizm: Bir Giriş](https://tr.khanacademy.org/humanities/rococo1/v/neoclassicism-an-introduction)
+    - [Rokoko Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/rococo-neoclassicism)
 - **Üçüncü Ödev Teslimi**
 
 ### Ders 10 - İngiliz Sanatı ve Portre
@@ -113,33 +99,32 @@ Dersin sonunda öğrenciler:
 - **Okumalar**:
     - Bölüm 23: _Akıl Çağı: İngiltere ve Fransa XVIII. Yüzyıl_ (Sayfa 457)****
 - **Videolar**:
-    - [İngiltere'de Portre](https://tr.khanacademy.org/humanities/british-art1/v/portraiture-in-britain)    
-### Ders 11 - Neoklasizm ve Romantizm
+    - [İngiltere'de Portre](https://tr.khanacademy.org/humanities/renaissance-reformation/britain-18c)   
+### Ders 11 - Romantizm
 - Konular: Canova, Goya ve Turner
-- Okumalar:
-    - Bölüm 24: _Gelenekten Kopuş: İngiltere, Amerika ve Fransa XVIII. Yüzyıl Sonları ve XIX. Yüzyıl Başları_ (Sayfa 475)
-- Videolar:
-    - [Neoklasizm ve Romantizm](https://tr.khanacademy.org/humanities/neoclassicism-romanticism1/v/neoclassicism-and-romanticism)
-### Ders 12 - Devrim Çağı Sanatı
-- Konular: Fransız Devrimi ve Sanat
 - Okumalar:
     - Bölüm 25: _Sürekli Devrim: XIX. Yüzyıl_ (Sayfa 499)
 - Videolar:
-    - [Fransız Devrimi ve Sanatı](https://tr.khanacademy.org/humanities/revolution1/v/art-and-the-french-revolution)
+    - [Romantizm](https://tr.khanacademy.org/humanities/becoming-modern/romanticism)
+### Ders 12 -  Realizm (Gerçekçilik), Empresyonizm (İzlenimcilik) ve Post-Empresyonizm
+- Konular: Fransız Devrimi ve Sanat
+- Okumalar:
+    - Bölüm 26, _Yeni Ölçüler Peşinde: XIX. Yüzyıl Sonları_ (Sayfa 535)
+- Videolar:
+    - [Realizm, Empresyonizm ve Post-Empresyonizm](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france)
 - Dördüncü Ödev Teslimi
-### Ders 13 - 19.yy’da Sanat ve Toplum
+### Ders 13 - Modernizm
 - Konular: Sanatın toplumsal rolü ve etkisi
 - Okumalar: 
-	- Bölüm 26, _Yeni Ölçüler Peşinde: XIX. Yüzyıl Sonları_
+	- Bölüm 27, _Deneysel Sanat: XX. yüzyılın ilk yarısı_ (Sayfa 557)
 - Videolar:
-    - [18. Yüzyılda Sanat ve Toplum](https://tr.khanacademy.org/humanities/revolution1/v/art-and-society-in-the-18th-century)
-### Ders 14 - 20. Yüzyılın Başlangıcı ve Sonuçlar
+    - [Modernizm](https://tr.khanacademy.org/humanities/art-1010)
+### Ders 14 - Pop Art
 - Konular: Sanat ve moderniteye geçiş
 - Okumalar: 
-	- Bölüm 27: _Deneysel Sanat: XX. Yüzyılın İlk Yarısı_ (Sayfa 557)
-	- Bölüm 28: _Sonu Olmayan Öykü: Modernizmin Zaferi_ (Sayfa 599)
+	- Bölüm 28, _Sonu Olmayan Öykü: Modernizmin zaferi_ (Sayfa 599)
 - Videolar:
-    - [Modern Sanatın Doğuşu](https://tr.khanacademy.org/humanities/modern-art1/v/the-birth-of-modern-art)
+    - [Pop Art](https://tr.khanacademy.org/humanities/art-1010/xdc974a79:pop-art)
 ### Ders 15 - Final Sınavı
 Ödevler ve Sınavlar
 1. **Birinci Düşünce Yazısı** - 3. derste teslim edilecek - 10 puan
