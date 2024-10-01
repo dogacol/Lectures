@@ -51,7 +51,7 @@ Dersin sonunda öğrenciler:
     - Bölüm 12: _Gerçekliğin Ele Geçirilmesi_ (Sayfa 223)
 	- Bölüm 13: _Gelenek ve Yenilik: İtalya'da XV. Yüzyıl Sonları_ (Sayfa 247)
 - **Videolar**: 
-    - [Erken Rönesans'a Giriş](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/v/introduction-to-the-early-renaissance)
+    - [Erken Rönesans'a Giriş](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1)
     - [İtalya'da Geç Dönem Gotik Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy)
 - **Birinci Ödev Teslimi**
 ### Ders 4 - Yüksek Rönesans İtalya
@@ -60,41 +60,14 @@ Dersin sonunda öğrenciler:
     - Bölüm 15: _Ulaşılan Uyum: Toskana ve Roma, XVI. Yüzyıl Başları_ (Sayfa 287)
 	- Bölüm 16: _Işık ve Renk: Venedik ve Kuzey İtalya_ (Sayfa 325)
 - Videolar:
-    - [Yüksek Rönesans Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/high-renaissance-art)
-    - [Yüksek Rönesans'a Doğru](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/toward-the-high-renaissance-an-introduction)
-    - [Leonardo da Vinci: Anatomi Uzmanı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/leonardo-anatomist)
-    - [Leonardo da Vinci: Vitruvian Adam](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/leonardo-vitruvian-man)
-    - [Leonardo da Vinci: Kayalıklar Bakiresi](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/leonardo-virgin-of-the-rocks)
-    - [Leonardo da Vinci: Son Akşam Yemeği](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/leonardo-last-supper)
-    - [Leonardo da Vinci: Mona Lisa](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/leonardo-mona-lisa)
-    - [Michelangelo: Pietà](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-pieta)
-    - [Michelangelo: Davut](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-david)
-    - [Raphael: Bakire'nin Evliliği](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/raphael-marriage-of-the-virgin)
-    - [Raphael: İspinozlu Madonna](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/raphael-madonna-of-the-goldfinch)
-    - [Raphael: Atina Okulu](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/raphael-school-of-athens)
-    - [Raphael: Papa Julius II'nin Portresi](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/raphael-portrait-of-pope-julius-ii)
-    - [Raphael: Galatea](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/raphael-galatea)
-    - [Michelangelo: Musa](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-moses)
-    - [Michelangelo: Köleler](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-slaves)
-    - [Michelangelo: Sistine Şapeli Tavanı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-sistine-chapel)
-    - [Michelangelo: Son Yargı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-last-judgment)
-    - [Michelangelo: Medici Şapeli](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren1/v/michelangelo-medici-chapel)
+    - [Yüksek Rönesans Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome)
 ### Ders 5 - Kuzey Rönesans
 - Konular: Albrecht Dürer, Jan van Eyck ve Hieronymus Bosch
 - Okumalar:
     Bölüm 17: _Rönesans'ın Yayılışı: Almanya ve Felemenk_ (Sayfa 341)
 - Videolar:
-    - [Kuzey Rönesans](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/the-northern-renaissance)
-    - [15. Yüzyılda Burgonya'ya Giriş](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/introduction-to-burgundy-in-the-15th-century)
-    - [Burgonya ve Burgonya Hollanda'sı](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/burgundy-and-the-burgundian-netherlands)
-    - [Reform ve Karşı Reform: Martin Luther](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/martin-luther)
-    - [Reform ve Karşı Reform: Protestanlığın Çeşitleri](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/varieties-of-protestantism)
-    - [Reform ve Karşı Reform: Karşı Reform](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/the-counter-reformation)
-    - [Albrecht Dürer: Adem ve Havva](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/durer-adam-and-eve)
-    - [Albrecht Dürer: Melencolia I](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/durer-melencolia-i)
-    - [Hieronymus Bosch: Dünyevi Zevkler Bahçesi](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/bosch-garden-of-earthly-delights)
-    - [Pieter Bruegel: Babil Kulesi](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/bruegel-tower-of-babel)
-    - [Pieter Bruegel: Kar Avcıları](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-ren1/v/bruegel-hunters-in-the-snow)
+    - [Kuzey Rönesans](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1)
+    - [Kuzey Rönesans ve Sonrası](https://tr.khanacademy.org/humanities/renaissance-reformation/northern)
 ### Ders 6 - Maniyerizm ve Geç Rönesans
 - **Konular**: Parmigianino, Bronzino ve El Greco
 - **Okumalar**:
