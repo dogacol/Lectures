@@ -51,7 +51,6 @@ Tüm okumalar Bordell ve Thompson'ın Film Sanatı kitabından olacaktır.
 
 - **Konular**: Çekim kompozisyonu, çekim seçimi, kamera hareketleri.
 - **Okuma**: **Bölüm 3**: Çekim: Sinematografi, s. 167
-- 
 ### **Hafta 6: Film Stili - Kurgu**
 
 - **Konular**: kesme, bağlama, devamlılık, klasik Hollywood kurgusu
@@ -74,27 +73,27 @@ Tüm okumalar Bordell ve Thompson'ın Film Sanatı kitabından olacaktır.
 ### **Hafta 9: Karşılaştırmalı Radyo, Televizyon ve Sinema**
 
 - **Konular**: Radyo, televizyon ve sinemanın teknik temelleri, anlatı yapıları ve stil farkları
-- **Okuma**: 
 
-**Hafta 10: Radyo ve Radyo Programları**
+
+### **Hafta 10: Radyo ve Radyo Programları**
 
 - **Konular**: Radyo program yapım süreçleri, ses kullanımı, farklı radyo formatlarının incelenmesi
-- **Okuma**: 
+- **Okuma**: Kılıç, N. (2020). Tematik Radyo Yayıncılığı. Iğdır Üniversitesi Sosyal Bilimler Dergisi(23), 281-302.
 
 ### **Hafta 11: Kurmaca Dışı Film ve Televizyon** 
 
 - **Konular**: Belgesel film yapımı, televizyon haberleri, deneysel medya
-- **Okuma**:
+- **Okuma**: Arık, E. (2011). GÖSTERİ ÇAĞI’NDA TELEVİZYON HABERCİLİĞİ. Kocaeli Üniversitesi İletişim Fakültesi Araştırma Dergisi(11), 83-103.
 
 ### **Hafta 12: Televizyon**
 
 - **Konular**: Televizyon dizileri, formatları, dramatik yapılar ve anlatı stilleri
-- **Okuma**: 
+- **Okuma**: Gezgin, S. (2018). Televizyon 4.0. TRT Akademi, 3(6), 580-589.
 
 ### **Hafta 13: Dijital Platformlar**
 
 - **Konular**: Dijital medya, streaming platformlarının yapısı, içerik üretimi ve dağıtım
-- **Okuma**:
+- **Okuma**: Çağıl, F., & Masdar Kara, F. (2019). Dijital Dönüşüm Bağlamında Türkiye’de Dizi Sektörü ve Geleceği. ARTS: Artuklu Sanat Ve Beşeri Bilimler Dergisi(1), 8-18. https://doi.org/10.46372/arts.570181
 
 ### **Hafta 14: Pratiğe Geçiş**
 
