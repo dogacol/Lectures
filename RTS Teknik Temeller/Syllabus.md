@@ -5,71 +5,62 @@
 **E-posta**: dcol@medipol.edu.tr  
 **Oda**: İletişim Fakültesi B413  
 **Görüşme Saatleri**: Randevu için e-posta gönderiniz.  
-**Ders Saatleri**: Pazartesi 9:00 - 11:00
+**Ders Saatleri**: Perşembe 12:00 - 14:30
 
 ## **Dersin Amacı**
 
-Bu ders, radyo, televizyon ve sinema üretiminin teknik temellerine teorik bir bakış sunar. Steven Ascher'in The Filmmaker’s Handbook ve Bordwell, Thompson ve Smith'in Film Sanatı kitapları iki ana kaynak olarak kullanılacaktır. Ders boyunca dijital ve film sistemleri, ses kaydı, aydınlatma, lens kullanımı, video kurgusu ve post-prodüksiyon gibi temel kavramlar ele alınacak ve tartışılacaktır. Öğrenciler film estetiğine dair tüm temel kavramları belirleyip daha sonra uygulamalarda kullanabileceklerdir.
+Bu ders, radyo, televizyon ve sinema üretiminin teknik temellerine teorik bir bakış sunar. Bordwell, Thompson ve Smith'in Film Sanatı kitabı ana kaynak olarak kullanılacaktır. Ders boyunca film biçimi, film stili, film türleri ve filmlerin eleştirel analizi konuları ele alınacaktır. Öğrenciler film estetiğine dair tüm temel kavramları belirleyip daha sonra uygulamalarda kullanabileceklerdir.
 
-## **Dersin Hedefleri**
-
-Dersin sonunda öğrenciler:
-
-1. Dijital ve film sistemlerinin temel özelliklerini teorik olarak kavrayacaktır.
-2. Kamera, ses, aydınlatma ve lens kullanımı hakkında teknik bilgi edinecektir.
-3. Kurgu ve post-prodüksiyon süreçlerini teorik olarak anlayacaktır.
-4. Film yapımında kullanılan farklı formatlar, çözünürlük ve sıkıştırma tekniklerini açıklayabilecektir.
 
 ## **Öğrenim Çıktıları**
 
 Dersi tamamlayan öğrenciler:
 
-1. Film, radyo ve televizyon prodüksiyonunun teknik yönlerini teorik olarak öğrenmiş olacaktır.
-2. Dijital ve analog sistemler arasındaki farkları anlayacaktır.
-3. Ses kaydı ve video kurgusu gibi süreçler hakkında bilgi sahibi olacaktır.
-4. Filmin çekim ve post-prodüksiyon aşamalarını planlayabilecek düzeyde bilgi edinecektir.
-
-## **Dersin Yapısı**
-
-Bu ders tamamen teorik bir içerik sunmaktadır. Öğrenciler, haftalık ders anlatımları ve okuma ödevleri ile konuları kavrayacaktır. Her hafta verilen teorik kavramlara yönelik tartışmalar ve değerlendirmeler yapılacaktır.
-
+1. Sinema ve Televizyon'un biçimsel ve biçemsel ögelerini araştırmalarda ve projelerde uygular.
+2. Sinemanın teknik temellerinin radyo ve televizyon ile karşılaştırmalı analizini yapar.
+3. Film yapımının temel süreçlerini anlar ve uygulamalı projelerde bu bilgileri uygular. 
+4. Çeşitli film türlerini ele alır ve bunların kritik analizini yaparak sinematik özelliklerini değerlendirir.
+5. Televizyon ve film arasındaki farkları inceler ve bu medya biçimlerini karşılaştırmalı olarak analiz eder.
+6. İnternet ve dijital medyanın film ve televizyon üzerindeki etkilerini eleştirel bir bakış açısıyla değerlendirir.
 
 ## **Haftalık Program**
 
-### **Hafta 1: Dijital ve Film Sistemlerine Giriş**
+Tüm okumalar Bordell ve Thompson'ın Film Sanatı kitabından olacaktır. 
 
-- **Konular**: Dijital video sistemleri, video formatları, sıkıştırma, yüksek çözünürlüklü dijital formatlar.
-- **Okuma**: **Bölüm 1**: "Introduction to Digital and Film Systems".
+### **Hafta 1: Film Sanatı ve Film Fapımı**
 
-### **Hafta 2: Prodüksiyona Başlamadan Önce**
+- **Konular**: Sanat olarak film, film endüstrisi, yaratıcılık ve teknoloji
+- **Okuma**: Film Sanatı, **Bölüm 1**: Film Sanatı Film Yapımı, s. 2
 
-- **Konular**: Prodüksiyon öncesi hazırlık, film ve dijital çekim seçenekleri, sensör boyutu ve film formatları.
-- **Okuma**: **Bölüm 2**: "Before You Begin Production".
+### **Hafta 2: Film Biçimi**
 
-### **Hafta 3: Video Görüntüsü**
+- **Konular**: Film biçiminin önemi
+- **Okuma**: **Bölüm 2**: Film Biçiminin Önemi, s. 56
 
-- **Konular**: Kamera ayarları, kayıt ortamları, dijital kayıt seçenekleri.
-- **Okuma**: **Bölüm 3**: "The Video Camcorder". **Bölüm 4**: "The Lens". **Bölüm 5**: "The Video Image".
+### **Hafta 3: Anlatı**
 
-### **Hafta 4: Film Görüntüsü**
+- **Konular**: biçimsel bir sistem olarak anlatı, trope, anlatı gelenekleri, senaryo, kahramanın yolculuğu
+- **Okuma**: **Bölüm 3**: Biçimsel Bir Sistem Olarak Anlatı, s. 78
 
-- **Konular**: Film kameralarının özellikleri, perde hızı ve film stokları. Renk sıcaklığı, filtre kullanımı, lens ve ışık yönetimi. Renk sıcaklığı, filtre kullanımı, lens ve ışık yönetimi.
-- **Okuma**: **Bölüm 6**: "The Film Camera". **Bölüm 7**: "The Film Image". **Bölüm 8**: "Color and Filters".
+### **Hafta 4: Film Stili - Mizansen**
 
-### **Hafta 5: Film Çekimi**
+- **Konular**: film stili, çekim, mizansen
+- **Okuma**: **Bölüm 3**: Çekim: Mizansen, s. 118
+
+### **Hafta 5: Film Stili - Sinematografi**
 
 - **Konular**: Çekim kompozisyonu, çekim seçimi, kamera hareketleri.
-- **Okuma**: **Bölüm 9**: "Shooting the Movie".
+- **Okuma**: **Bölüm 3**: Çekim: Sinematografi, s. 167
 - 
-### **Hafta 6: Ses Kaydı**
+### **Hafta 6: Film Stili - Kurgu**
 
-- **Konular**: Ses, ses nasıl kaydedilir, analog ses kaydı, dijital ses kaydı, ses kayıt cihazları, mikrofon, ses bağlantıları.
-- **Okuma**: **Bölüm 10**: "Sound Recording Systems". **Bölüm 11*: "Sound Recording Techniques".
+- **Konular**: kesme, bağlama, devamlılık, klasik Hollywood kurgusu
+- **Okuma**: **Bölüm 3**: Çekimi Çekime Bağlamak: Kurgu, s. 223
 
-### **Hafta 7: Işık**
+### **Hafta 7: Film Stili - Ses**
 
-- **Konular**: Işık, ışık ekipmanları, ışık yerleşimi ve kontrast kontrolü.
-- **Okuma**: **Bölüm 12**: "Lighting".
+- **Konular**: ses kaydı, ses kurgusu, ses köprüsü, diyalog, müzik, diegetik ses
+- **Okuma**: **Bölüm 3**: Sinemada Ses, s. 269
 
 ---
 
@@ -80,40 +71,41 @@ Bu ders tamamen teorik bir içerik sunmaktadır. Öğrenciler, haftalık ders an
 
 ---
 
-### **Hafta 9: Görüntü ve Diyalog Kurgusu**
+### **Hafta 9: Karşılaştırmalı Radyo, Televizyon ve Sinema**
 
-- **Konular**: Diyalog kurgusu, kurgu teorisi, film kurgu süreçleri.
-- **Okuma**: **Bölüm 13**: "Picture and Dialogue Editing". 
-### **Hafta 10: Dijital Video Kurgusu** 
+- **Konular**: Radyo, televizyon ve sinemanın teknik temelleri, anlatı yapıları ve stil farkları
+- **Okuma**: 
 
-- **Konular**: NLE (Non-Linear Editing) sistemleri, dijital kurgunun bileşenleri, ses ve video düzenleme.
-- **Okuma**: **Bölüm 14**: "Editing Digital Video"
-### **Hafta 11: Dijital Renk ve CGI**
+**Hafta 10: Radyo ve Radyo Programları**
 
-- **Konular**: Video efektleri, jenerik, grafik, formatlar, 24p, video çıktısı, EDL ve online kurgu.
-- **Okuma**: **Bölüm 14**: "Editing Digital Video". 
+- **Konular**: Radyo program yapım süreçleri, ses kullanımı, farklı radyo formatlarının incelenmesi
+- **Okuma**: 
 
-### **Hafta 12: Ses Kurgusu ve Mixi**
+### **Hafta 11: Kurmaca Dışı Film ve Televizyon** 
 
-- **Konular**: NLE (Non-Linear Editing) sistemleri, dijital kurgunun bileşenleri, ses ve video düzenleme.
-- **Okuma**: **Bölüm 15**: "Sound Editing and Mixing".
+- **Konular**: Belgesel film yapımı, televizyon haberleri, deneysel medya
+- **Okuma**:
 
-### **Hafta 13: Yapım ve Dağıtım**
+### **Hafta 12: Televizyon**
 
-- **Konular**: Proje geliştirme, maddi kaynak, bütçe, hukuki problemler, dağıtım ve pazarlama.
-- **Okuma**: **Bölüm 17**: "Producing and Distributing the Movie".
+- **Konular**: Televizyon dizileri, formatları, dramatik yapılar ve anlatı stilleri
+- **Okuma**: 
+
+### **Hafta 13: Dijital Platformlar**
+
+- **Konular**: Dijital medya, streaming platformlarının yapısı, içerik üretimi ve dağıtım
+- **Okuma**:
 
 ### **Hafta 14: Pratiğe Geçiş**
 
 - **Konular**: Genel tekrar ve teoriği pratiğe dökme.
-
 
 ---
 
 ### **Hafta 15: Genel Sınav (Ders Yok)**
 
 - **Değerlendirme**: 8-13. haftalarda işlenen teorik konular üzerine yazılı sınav yapılacaktır.
-- Bu hafta ders yok.
+
 
 ---
 
@@ -125,13 +117,11 @@ Bu ders tamamen teorik bir içerik sunmaktadır. Öğrenciler, haftalık ders an
 - **Genel Sınav** (8-14. Haftalar): %60
 	- **Quizler**: %20
 	- **Yazılı Sınav**: %20
+
 ## **Katılım ve Devam**
 
-- Derse devamlılık ve aktif katılım zorunludur. Tartışmalar, teorik bilgi derinlemesine öğrenilmesini sağlayacaktır.
-## **Akademik Dürüstlük**
+- Derse devamlılık ve aktif katılım zorunludur.
 
-Öğrenciler üniversitenin akademik dürüstlük politikasına uymak zorundadır. Herhangi bir kopya, intihal veya başkasının çalışmasını sunmak, disiplin cezasına ve dersin başarısızlıkla sonuçlanmasına neden olacaktır.
 ## **Kaynaklar**
 
-Ascher, S. (2013). The Filmmaker's Handbook: A Comprehensive Guide for the Digital Age.
-Ascher, S. (?). Sinemacının (Filmci?) El Kitabı: Dijital Çağ İçin Kapsamlı Bir Rehber. Çeviri: Doğa Çöl.
+Bordwell, D. & Thompson, K. (2011). Film Sanatı.
