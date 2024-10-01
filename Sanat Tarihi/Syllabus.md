@@ -4,7 +4,7 @@
 **Eposta**: dcol@medipol.edu.tr
 **Oda**: İletişim Fakültesi B413
 Görüşme Saatleri için eposta gönderiniz.
-**Ders** **saatleri**: 9-11 arası.
+**Ders** **saatleri**: Perşembe 9-11 arası.
 ## **Dersin Amacı**
 
 Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanatı tarihsel dönemler içerisinde inceleyerek öğrencilerle birlikte bütüncül bir araştırma yapmayı amaçlamaktadır. Derste görsel sanatın tarihsel anlamda en kapsamlı temsillerinden olan resim üzerine odaklanılacaktır. Eserlerin kültürel bağlamları, tarih boyunca sanatın değişen ve evrimleşen edimsel ve işlevsel yönleri tartışılacaktır.

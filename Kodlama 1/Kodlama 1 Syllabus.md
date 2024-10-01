@@ -2,7 +2,7 @@
 **Eposta**: dcol@medipol.edu.tr
 **Oda**: İletişim Fakültesi B413
 Görüşme Saatleri için eposta gönderiniz.
-**Ders** **saatleri**: 9-11 arası.
+**Ders** **saatleri**: Pazartesi 9-11 arası.
 ## **Dersin Amacı:**
 
 Bu ders öğrencilere algoritmik düşünmeyi ve problemleri verimli bir şekilde çözmeyi öğretir. Konular arasında soyutlama, algoritmalar, veri yapıları, kapsülleme, kaynak yönetimi, güvenlik, yazılım mühendisliği ve web programlama yer almaktadır. Diller arasında C, Python ve SQL'in yanı sıra HTML, CSS ve JavaScript bulunmaktadır. Sanat, beşeri bilimler, sosyal bilimler ve fen bilimlerinden esinlenen problem setleri bulunmaktadır. 
