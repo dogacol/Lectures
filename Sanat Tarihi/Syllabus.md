@@ -18,11 +18,11 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanatı tarihsel d
 ## **Öğrenim Çıktıları**
 
 Dersin sonunda öğrenciler:
-1. Sanat tarihinin temel dönemlerini ve bu dönemlerde üretilen sanat eserlerinin özelliklerini açıklayabilecektir.
-2. Farklı sanat akımlarını ve bu akımların sanat eserlerindeki etkilerini karşılaştırabilecektir.
-3. Bir sanat eserini tarihsel ve kültürel bağlamda analiz edebilecektir.
-4. Sanat eserlerinin toplumsal işlevlerini ve bu işlevlerin zaman içindeki değişimini değerlendirebilecektir.
-5. Görsel analiz ve eleştirel düşünme becerilerini geliştirerek, sanat eserlerini değerlendirme yeteneği kazanacaktır.
+1. Sanat tarihinin temel dönemlerini ve bu dönemlerde üretilen sanat eserlerinin özelliklerini açıklar.
+2. Farklı sanat akımlarını ve bu akımların sanat eserlerindeki etkilerini karşılaştırır.
+3. Bir sanat eserini tarihsel ve kültürel bağlamda analiz eder.
+4. Sanat eserlerinin toplumsal işlevlerini ve bu işlevlerin zaman içindeki değişimini değerlendirir.
+5. Görsel analiz ve eleştirel düşünme becerilerini geliştirerek, sanat eserlerini değerlendirme yeteneği kazanır.
 ## **Öğretim Modelleri**
 
 - **Anlatım**: Öğrencilere sanat eserlerinin tarihsel ve kültürel bağlamlarını açıklamak için kullanılacaktır.
@@ -38,7 +38,7 @@ Dersin sonunda öğrenciler:
     - [**Batı kültürünün kısa tarihi**: ](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-western-culture)
     - [Tarihlerin önemi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/common-questions-about-dates)
 ### Ders 2 - Ortaçağ'ın Sonu ve Gotik Sanat
-- **Konular**: Ortaçağın arkaplanı
+- **Konular**: Ortaçağın tarihsel ve sanatsal arkaplanı
 - **Okumalar**:
     - Bölüm 8: _Döküm Potasında Batı Sanatı_ (Sayfa 157)
 	- Bölüm 9: _Yeryüzü Kilisesi_ (Sayfa 171)
@@ -87,7 +87,7 @@ Dersin sonunda öğrenciler:
 ###  8. Hafta - Ara Sınav
 
 ### Ders 9 - 18. Yüzyıl: Rokoko ve Neoklasizm
-- **Konular**: Watteau, Fragonard ve David
+- **Konular**: Watteau, Fragonard ve Boucher
 - **Okumalar**:
     - Bölüm 23: _Akıl Çağı: İngiltere ve Fransa XVIII. Yüzyıl_ (Sayfa 457)
 - **Videolar**:
@@ -101,26 +101,26 @@ Dersin sonunda öğrenciler:
 - **Videolar**:
     - [İngiltere'de Portre](https://tr.khanacademy.org/humanities/renaissance-reformation/britain-18c)   
 ### Ders 11 - Romantizm
-- Konular: Canova, Goya ve Turner
+- Konular: Goya, Caspar David Friedrich ve Delacroix
 - Okumalar:
     - Bölüm 25: _Sürekli Devrim: XIX. Yüzyıl_ (Sayfa 499)
 - Videolar:
     - [Romantizm](https://tr.khanacademy.org/humanities/becoming-modern/romanticism)
 ### Ders 12 -  Realizm (Gerçekçilik), Empresyonizm (İzlenimcilik) ve Post-Empresyonizm
-- Konular: Fransız Devrimi ve Sanat
+- Konular: Monet, Degas, Cezanne
 - Okumalar:
     - Bölüm 26, _Yeni Ölçüler Peşinde: XIX. Yüzyıl Sonları_ (Sayfa 535)
 - Videolar:
     - [Realizm, Empresyonizm ve Post-Empresyonizm](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france)
 - Dördüncü Ödev Teslimi
 ### Ders 13 - Modernizm
-- Konular: Sanatın toplumsal rolü ve etkisi
+- Konular: Picasso, Dali, van Gogh, Pollock, Rothko, Duchamp, Matisse
 - Okumalar: 
 	- Bölüm 27, _Deneysel Sanat: XX. yüzyılın ilk yarısı_ (Sayfa 557)
 - Videolar:
     - [Modernizm](https://tr.khanacademy.org/humanities/art-1010)
 ### Ders 14 - Pop Art
-- Konular: Sanat ve moderniteye geçiş
+- Konular: Warhol, Lichtenstein, Hamilton
 - Okumalar: 
 	- Bölüm 28, _Sonu Olmayan Öykü: Modernizmin zaferi_ (Sayfa 599)
 - Videolar:
