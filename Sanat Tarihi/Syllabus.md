@@ -37,7 +37,6 @@ Dersin sonunda öğrenciler:
 - **Videolar**:
     - [**Batı kültürünün kısa tarihi**: ](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-western-culture)
     - [Tarihlerin önemi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/common-questions-about-dates)
-    - [Beş büyük dünya dini](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/five-major-world-religions)
 ### Ders 2 - Ortaçağ'ın Sonu ve Gotik Sanat
 - **Konular**: Ortaçağın arkaplanı
 - **Okumalar**:
