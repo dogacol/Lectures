@@ -1,11 +1,11 @@
 
 # **Software Applications Syllabus**
 
-**Dersi veren**: Dr. Öğr. Üye. Doğa Çöl  
-**E-posta**: dcol@medipol.edu.tr  
-**Oda**: İletişim Fakültesi B413  
-**Görüşme Saatleri**: Randevu için e-posta gönderiniz.  
-**Ders Saatleri**: Pazartesi 9:00 - 11:00
+**Instructor**: Doga Col, Asst. Prof., PhD  
+**E-mail**: dcol@medipol.edu.tr  
+**Office**: School of Communication B413  
+**Office Hours**: E-mail for office hours.
+**Lecture Hours**: Wednesdays 9 - 11 am
 
 ## **Course Overview**
 
@@ -34,14 +34,11 @@ Students completing this course will:
 
 This course includes lectures, practical demonstrations, and project-based learning. Weekly assignments will help students apply what they have learned in real-world scenarios. Peer collaboration and feedback are encouraged to foster a supportive learning environment.
 
-## **Prerequisites**
-
-- Basic computer literacy.
-- No prior experience with Photoshop or Illustrator is required, but a creative mindset is beneficial.
-
 ## **Weekly Schedule**
 
 ### **Adobe Photoshop Module (Weeks 1-7)**
+
+[Photoshop User Guide](https://helpx.adobe.com/photoshop/user-guide.html)
 
 ### **Week 1: Introduction to Adobe Photoshop**
 - **Topics**: Overview of the Photoshop interface, tools, and workspace customization.
@@ -80,6 +77,8 @@ This course includes lectures, practical demonstrations, and project-based learn
 ---
 
 ### **Adobe Illustrator Module (Weeks 9-14)**
+
+[Illustrator User Guide](https://helpx.adobe.com/illustrator/user-guide.html)
 
 ### **Week 9: Introduction to Adobe Illustrator**
 - **Topics**: Overview of the Illustrator interface, artboards, vector vs. raster graphics.
@@ -126,12 +125,12 @@ This course includes lectures, practical demonstrations, and project-based learn
 
 ## **Academic Integrity**
 
-Students must adhere to the university’s academic integrity policy. Any form of cheating or plagiarism will result in disciplinary action and possible failure of the course.
+Students must adhere to the university’s academic integrity policy. Any form of cheating or plagiarism will result in disciplinary action and failure of the course.
 
 ## **Resources**
 
-- **Software**: Adobe Photoshop, Adobe Illustrator (available in university labs or via Adobe Creative Cloud subscription).
-- **Tutorials**: Adobe Help Center, YouTube tutorials, Skillshare, Udemy courses.
+- **Software**: Adobe Photoshop, Adobe Illustrator (available in university labs or via [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) subscription).
+- **Tutorials**: [Adobe Creative Cloud "Learn" Tutorials](https://www.adobe.com/learn)
 - **References**:
 1. Albers, Josef. _Interaction of Color._ New Haven: Yale University Press, 1963.
 2. Müller, Jens. _Logo Modernism._ Los Angeles: Taschen, 2015.
@@ -140,4 +139,3 @@ Students must adhere to the university’s academic integrity policy. Any form o
 5. Lupton, Ellen. _Thinking with Type: A Critical Guide for Designers, Writers, Editors, and Students._ 2nd ed. New York: Princeton Architectural Press, 2010.
 6. Berger, John. _Ways of Seeing._ London: British Broadcasting Corporation and Penguin Books, 1972.
 7. Young, Doyald. _Fonts & Logos: Font Analysis, Logotype Design, Typography._ 1st ed. Delphi Press, 1999.
-
