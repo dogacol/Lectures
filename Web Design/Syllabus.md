@@ -1,24 +1,14 @@
 # Web Design Syllabus
 
-**Dersi veren**: Dr. Öğr. Üye. Doğa Çöl  
-**E-posta**: dcol@medipol.edu.tr  
-**Oda**: İletişim Fakültesi B413  
-**Görüşme Saatleri**: Randevu için e-posta gönderiniz.  
-**Ders Saatleri**: Pazartesi 9:00 - 11:00
+**Instructor**: Doga Col, Asst. Prof., PhD  
+**E-mail**: dcol@medipol.edu.tr  
+**Office**: İletişim Fakültesi B413  
+**Office Hours**: Randevu için e-posta gönderiniz.  
+**Lectures**: Mondays 9 - 11 am
 
 ## **Course Overview**
 
 This course introduces students to the essential tools and practices of web development. Students will gain a foundational understanding of how the web works, practice coding with HTML, CSS, and JavaScript, and begin developing real, functional websites. By the end of this course, students will be able to build basic web pages and have a strong foundation for more advanced web development.
-
-## **Course Objectives**
-
-By the end of this course, students will be able to:
-1. Explain the role and responsibilities of a web developer.
-2. Create basic web pages using HTML, CSS, and JavaScript.
-3. Utilize Git for version control and project management.
-4. Understand and apply design principles like the box model, flexbox, and clean code.
-5. Build and design interactive web applications using JavaScript.
-6. Troubleshoot common errors and effectively debug code.
 
 ## **Learning Outcomes**
 
@@ -121,7 +111,10 @@ Students must adhere to the university’s academic integrity policy. Cheating o
 
 ## **Resources**
 
-- **Text Editors**: VS Code.
-- **GitHub**: For project repositories.
-- **Additional Learning Tools**: The Odin Project, Mozilla Developer Network (MDN), W3Schools.
+- **Text Editors**: [VS Code](https://code.visualstudio.com/).
+- [**GitHub**](https://github.com/): For project repositories.
+- **Additional Learning Tools**: 
+  - [The Odin Project](https://www.theodinproject.com/) 
+  - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/)
+  - [W3Schools](https://www.w3schools.com/).
 
