@@ -37,7 +37,7 @@ This course includes lectures, practical coding exercises, and project-based lea
 
 ### **Week 2: HTML Foundations I**
 - **Topics**: HTML structure, elements, and tags, working with text.
-- **Assignments**: Project: Create a basic recipe webpage.
+- **Assignments**: Project: Create a [basic recipe webpage](https://www.theodinproject.com/lessons/foundations-recipes).
 - **To do list before class**: 
   - Sign up on Github here until next class: https://github.com/
   - Read these: https://www.theodinproject.com/lessons/foundations-computer-basics and https://www.theodinproject.com/lessons/foundations-how-does-the-web-work and https://www.brytdesigns.com/html-css-javascript-whats-the-difference
@@ -45,23 +45,28 @@ This course includes lectures, practical coding exercises, and project-based lea
 
 ### **Week 3: HTML Foundations II**
 - **Topics**: Lists, links, images, and HTML boilerplate structure.
-- **Assignments**: Continue working on the recipe webpage, applying new HTML techniques.
+- **Assignments**: Continue working on the [recipe webpage](https://www.theodinproject.com/lessons/foundations-recipes), applying new HTML techniques. 
+- **To do list before class**: 
 
 ### **Week 4: CSS Foundations I**
 - **Topics**: Introduction to CSS, selectors, properties, and values. Understanding the cascade and the basics of CSS styling.
 - **Assignments**: Apply basic CSS to the recipe project.
+- **To do list before class**: 
 
 ### **Week 5: CSS Foundations II**
 - **Topics**: Inspecting HTML and CSS, the box model, block and inline elements, margins, padding, and borders.
 - **Project**: Enhance the recipe project with box model properties.
+- **To do list before class**: 
 
 ### **Week 6: Flexbox I**
 - **Topics**: Introduction to Flexbox, axis-based alignment, growing and shrinking elements, responsive design.
 - **Project**: Create a simple landing page using Flexbox.
+- **To do list before class**: 
 
 ### **Week 7: Flexbox II**
 - **Topics**: Advanced flexbox techniques, alignment, and responsiveness. Working on layouts.
 - **Assignments**: Finalize the landing page project with responsive design principles.
+- **To do list before class**: 
 
 ### **Week 8: Midterm Assignment Submission (No Class)**  
 - **Assignment**: Complete and submit your Landing Page project.  
@@ -70,22 +75,27 @@ This course includes lectures, practical coding exercises, and project-based lea
 ### **Week 9: JavaScript Basics I**
 - **Topics**: Introduction to JavaScript, variables, operators, and data types.
 - **Assignments**: Begin working on simple problem-solving exercises using JavaScript.
+- **To do list before class**: 
 
 ### **Week 10: JavaScript Basics II**
 - **Topics**: Conditionals, loops, and basic functions in JavaScript. Introduction to DOM manipulation.
 - **Project**: Create a simple interactive Rock Paper Scissors game.
+- **To do list before class**: 
 
 ### **Week 11: JavaScript and Clean Code**
 - **Topics**: Best practices for clean and maintainable code, refactoring, and code review.
 - **Assignments**: Refactor the Rock Paper Scissors project with clean code principles.
+- **To do list before class**: 
 
 ### **Week 12: DOM Manipulation**
 - **Topics**: Interacting with HTML elements using JavaScript, handling events, basic DOM manipulation.
 - **Project**: Build a simple interactive Etch-a-Sketch using DOM manipulation.
+- **To do list before class**: 
 
 ### **Week 13: JavaScript Objects**
 - **Topics**: Introduction to JavaScript objects, creating and manipulating objects.
 - **Project**: Design a basic calculator application using objects.
+- **To do list before class**: 
 
 ### **Week 14: Final Assignment Submission (No Class)**  
 - **Assignment**: Submit your completed project.  
