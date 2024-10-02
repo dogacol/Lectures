@@ -2,8 +2,8 @@
 
 **Instructor**: Doga Col, Asst. Prof., PhD  
 **E-mail**: dcol@medipol.edu.tr  
-**Office**: İletişim Fakültesi B413  
-**Office Hours**: Randevu için e-posta gönderiniz.  
+**Office**: School of Communication B413  
+**Office Hours**: E-mail for office hours.  
 **Lectures**: Mondays 9 - 11 am
 
 ## **Course Overview**
