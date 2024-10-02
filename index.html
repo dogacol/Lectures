@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecture Notes</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+        }
+        .navbar a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navbar">
+        <a href="#" onclick="loadMarkdown('Kodlama 1/Kodlama 1 Syllabus.md')">Kodlama 1</a>
+        <a href="#" onclick="loadMarkdown('Kodlama 2/Final Projesi.md')">Kodlama 2</a>
+        <a href="#" onclick="loadMarkdown('RTS Teknik Temeller/Syllabus.md')">RTS Teknik Temeller</a>
+        <a href="#" onclick="loadMarkdown('Sanat Tarihi/Syllabus.md')">Sanat Tarihi</a>
+        <a href="#" onclick="loadMarkdown('Ses Tasarımı/Syllabus.md')">Ses Tasarımı</a>
+        <a href="#" onclick="loadMarkdown('Software Applications/Syllabus.md')">Software Applications</a>
+        <a href="#" onclick="loadMarkdown('Web Design/Syllabus.md')">Web Design</a>
+    </div>
+
+    <div id="content" class="content">
+        <!-- Markdown content will appear here -->
+    </div>
+
+    <script>
+        function loadMarkdown(file) {
+            fetch(file)
+                .then(response => response.text())
+                .then(text => {
+                    document.getElementById('content').innerHTML = marked(text);
+                })
+                .catch(error => console.error('Error loading markdown file:', error));
+        }
+    </script>
+
+</body>
+</html>
