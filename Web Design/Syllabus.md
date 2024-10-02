@@ -88,10 +88,10 @@ This course includes lectures, practical coding exercises, and project-based lea
 
 ## **Assessment and Grading**
 
-- **Weekly Assignments and Exercises**: 30%  
-- **Projects**: 40%  
-- **Midterm Project (Landing Page)**: 15%  
-- **Final Project**: 15%
+- **Attendance**: 10%  
+- **In-Class Projects**: 40%  
+- **Midterm Project (Landing Page)**: 25%  
+- **Final Project**: 25%
 
 ### **Projects**:
 1. **Recipe Website** (HTML/CSS) – Week 2-5
