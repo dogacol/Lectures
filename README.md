@@ -1,5 +1,5 @@
 # Lectures
 
-You can find all the lectures notes I have available here.
+You can find all the lectures notes and syllabi here.
 
- Elimdeki tüm ders notlarına buradan ulaşabilirsiniz.
+Tüm ders notlarına ve izlencelere buradan ulaşabilirsiniz.
