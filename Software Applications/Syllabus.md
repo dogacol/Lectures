@@ -1,7 +1,7 @@
 
 # **Software Applications Syllabus**
 
-**Instructor**: Doga Col, Asst. Prof., PhD  
+**Instructor**: Doga Col, Asst. Prof., PhD
 **E-mail**: dcol@medipol.edu.tr  
 **Office**: School of Communication B413  
 **Office Hours**: E-mail for office hours.
