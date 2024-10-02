@@ -3,19 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Lectures</title>
+    <!-- Include marked.js for Markdown parsing -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        /* Optional: Add some basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #content {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+        a {
+            margin-right: 15px;
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
+    <h1>Lecture Syllabi</h1>
+    <!-- Navigation Links -->
     <nav>
-        <a href="#" onclick="loadMarkdown('Kodlama%201/Kodlama%201%20Syllabus.md'); return false;">Kodlama 1</a>
-        <a href="#" onclick="loadMarkdown('Kodlama%202/Final%20Projesi.md'); return false;">Kodlama 2</a>
-        <a href="#" onclick="loadMarkdown('RTS%20Teknik%20Temeller/Syllabus.md'); return false;">RTS Teknik Temeller</a>
-        <a href="#" onclick="loadMarkdown('Sanat%20Tarihi/Syllabus.md'); return false;">Sanat Tarihi</a>
-        <a href="#" onclick="loadMarkdown('Ses%20Tasarımı/Syllabus.md'); return false;">Ses Tasarımı</a>
-        <a href="#" onclick="loadMarkdown('Software%20Applications/Syllabus.md'); return false;">Software Applications</a>
-        <a href="#" onclick="loadMarkdown('Web%20Design/Syllabus.md'); return false;">Web Design</a>
+        <a href="#" onclick="loadMarkdown('Kodlama-1/Kodlama-1-Syllabus.md'); return false;">Kodlama 1</a>
+        <a href="#" onclick="loadMarkdown('Kodlama-2/Final-Projesi.md'); return false;">Kodlama 2</a>
+        <a href="#" onclick="loadMarkdown('RTS-Teknik-Temeller/Syllabus.md'); return false;">RTS Teknik Temeller</a>
+        <a href="#" onclick="loadMarkdown('Sanat-Tarihi/Syllabus.md'); return false;">Sanat Tarihi</a>
+        <a href="#" onclick="loadMarkdown('Ses-Tasarimi/Syllabus.md'); return false;">Ses Tasarımı</a>
+        <a href="#" onclick="loadMarkdown('Software-Applications/Syllabus.md'); return false;">Software Applications</a>
+        <a href="#" onclick="loadMarkdown('Web-Design/Syllabus.md'); return false;">Web Design</a>
     </nav>
+
+    <!-- Content Area -->
+    <div id="content">Click on a link above to load the syllabus.</div>
+
+    <!-- JavaScript to Load Markdown Files -->
     <script>
         function loadMarkdown(file) {
             fetch(file)
@@ -26,10 +54,19 @@
                     return response.text();
                 })
                 .then(text => {
-                    document.getElementById('content').innerHTML = marked(text);
+                    // Convert Markdown to HTML using marked.js
+                    document.getElementById('content').innerHTML = marked.parse(text);
                 })
-                .catch(error => console.error('Error loading markdown file:', error));
+                .catch(error => {
+                    console.error('Error loading markdown file:', error);
+                    document.getElementById('content').innerHTML = '<p style="color:red;">Failed to load content. Please try again later.</p>';
+                });
         }
+
+        // Optional: Load the first syllabus by default
+        window.onload = function() {
+            loadMarkdown('Kodlama-1/Kodlama-1-Syllabus.md');
+        };
     </script>
 </body>
 </html>
