@@ -38,6 +38,10 @@ This course includes lectures, practical coding exercises, and project-based lea
 ### **Week 2: HTML Foundations I**
 - **Topics**: HTML structure, elements, and tags, working with text.
 - **Assignments**: Project: Create a basic recipe webpage.
+- **To do list before class**: 
+  - Sign up on Github here until next class: https://github.com/
+  - Read these: https://www.theodinproject.com/lessons/foundations-computer-basics and https://www.theodinproject.com/lessons/foundations-how-does-the-web-work and https://www.brytdesigns.com/html-css-javascript-whats-the-difference
+  - Watch: https://www.youtube.com/watch?v=salY_Sm6mv4
 
 ### **Week 3: HTML Foundations II**
 - **Topics**: Lists, links, images, and HTML boilerplate structure.
