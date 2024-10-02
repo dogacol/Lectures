@@ -7,15 +7,15 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-    <div id="content"></div>
-    <a href="#" onclick="loadMarkdown('Kodlama 1/Kodlama 1 Syllabus.md'); return false;">Kodlama 1</a>
-    <a href="#" onclick="loadMarkdown('Kodlama 2/Final Projesi.md'); return false;">Kodlama 2</a>
-    <a href="#" onclick="loadMarkdown('RTS Teknik Temeller/Syllabus.md'); return false;">RTS Teknik Temeller</a>
-    <a href="#" onclick="loadMarkdown('Sanat Tarihi/Syllabus.md'); return false;">Sanat Tarihi</a>
-    <a href="#" onclick="loadMarkdown('Ses Tasarımı/Syllabus.md'); return false;">Ses Tasarımı</a>
-    <a href="#" onclick="loadMarkdown('Software Applications/Syllabus.md'); return false;">Software Applications</a>
-    <a href="#" onclick="loadMarkdown('Web Design/Syllabus.md'); return false;">Web Design</a>
-
+    <nav>
+        <a href="#" onclick="loadMarkdown('Kodlama%201/Kodlama%201%20Syllabus.md'); return false;">Kodlama 1</a>
+        <a href="#" onclick="loadMarkdown('Kodlama%202/Final%20Projesi.md'); return false;">Kodlama 2</a>
+        <a href="#" onclick="loadMarkdown('RTS%20Teknik%20Temeller/Syllabus.md'); return false;">RTS Teknik Temeller</a>
+        <a href="#" onclick="loadMarkdown('Sanat%20Tarihi/Syllabus.md'); return false;">Sanat Tarihi</a>
+        <a href="#" onclick="loadMarkdown('Ses%20Tasarımı/Syllabus.md'); return false;">Ses Tasarımı</a>
+        <a href="#" onclick="loadMarkdown('Software%20Applications/Syllabus.md'); return false;">Software Applications</a>
+        <a href="#" onclick="loadMarkdown('Web%20Design/Syllabus.md'); return false;">Web Design</a>
+    </nav>
     <script>
         function loadMarkdown(file) {
             fetch(file)
