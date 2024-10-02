@@ -47,26 +47,32 @@ This course includes lectures, practical demonstrations, and project-based learn
 ### **Week 2: Working with Layers**
 - **Topics**: Understanding layers, layer order, and blending modes.
 - **Assignments**: Create a multi-layered image composition using layer blending modes.
+- **Tutorial**: [Orientation](https://www.adobe.com/learn/photoshop/paths/photo-editing/photoshop/series/photography/orientation/photoshop/in-app/introduction-to-the-workspace?learnIn=1)
 
 ### **Week 3: Selections and Masking**
 - **Topics**: Using selection tools (lasso, magic wand, and quick selection), and creating layer masks.
 - **Assignments**: Select and isolate objects from a photo, then combine them into a new scene using masks.
+- **Tutorial**: [Photo Editing Essentials](https://www.adobe.com/learn/photoshop/paths/photo-editing/photoshop/series/photography/learn-photo-editing-essentials/photoshop/web/crop-straighten-to-improve-composition?learnIn=1), [Selection and masking techniques](https://www.adobe.com/learn/photoshop/paths/photo-editing/photoshop/series/photography/learn-select-and-mask/photoshop/in-app/select-part-of-an-object-and-change-the-color?learnIn=1), [Layer masking essentials](https://www.adobe.com/learn/photoshop/paths/photo-editing/photoshop/series/photography/learn-layer-masking-essentials/photoshop/web/layer-mask?learnIn=1)
 
 ### **Week 4: Photo Retouching and Adjustment Layers**
 - **Topics**: Retouching photos, removing imperfections, using adjustment layers for color correction and exposure.
 - **Assignments**: Retouch an old or damaged photograph and adjust its colors for a more polished look.
+- **Tutorial**: [Adjust Color](https://www.adobe.com/learn/photoshop/paths/photo-editing/photoshop/series/photography/adjust-color-low/photoshop/in-app/adjust-color-vibrance-in-a-portrait-photo?learnIn=1), [Photo Retouching Essentials](https://www.adobe.com/learn/photoshop/paths/photo-retouching/photoshop/series/photography/learn-photo-retouching-essentials/photoshop/web/spot-healing-retouch-imperfections?learnIn=1), [Remove objects from photos](https://www.adobe.com/learn/photoshop/paths/photo-retouching/photoshop/series/photography/remove-objects-from-photos/photoshop/in-app/remove-spots-and-small-objects?learnIn=1). [Generative AI Essentials](https://www.adobe.com/learn/photoshop/paths/photo-retouching/photoshop/series/generative-ai-essentials/photoshop/web/discover-generative-fill?learnIn=1)
 
 ### **Week 5: Filters and Special Effects**
 - **Topics**: Using filters, liquify, and other special effects for creative photo manipulation.
 - **Assignments**: Apply filters and effects to create an abstract or surreal piece of digital art.
+- **Tutorials**: [Selection Essentials](https://www.adobe.com/learn/photoshop/paths/photo-editing/photoshop/series/photography/learn-selection-essentials/photoshop/web/select-subject-one-click?learnIn=1), [Generative Fill techniques](https://www.adobe.com/learn/photoshop/paths/photo-retouching/photoshop/series/generative-fill-techniques/photoshop/web/make-selections-generative-fill?learnIn=1), [Duotone](https://www.adobe.com/learn/photoshop/web/add-duotone-color-effect?learnIn=1)
 
 ### **Week 6: Typography in Photoshop**
 - **Topics**: Adding and manipulating text, working with text layers, and using layer styles.
 - **Assignments**: Create a poster or advertisement using creative typography and visual effects.
+- **Tutorials**: [Place text behind an object](https://www.adobe.com/learn/photoshop/in-app/place-text-behind-an-object?learnIn=1), [Colorful roller skates poster](https://www.adobe.com/learn/photoshop/in-app/create-a-colorful-roller-skates-poster?learnIn=1), [Overlapping text](https://www.adobe.com/learn/photoshop/in-app/create-overlapping-text?learnIn=1)
 
 ### **Week 7: Advanced Compositing**
 - **Topics**: Combining multiple images into seamless compositions, using smart objects.
 - **Project**: Begin working on the midterm photography manipulation project.
+- **Tutorials**: [Photo compositing essentials](https://www.adobe.com/learn/photoshop/paths/photo-compositing/photoshop/series/photography/learn-photo-compositing-essentials/photoshop/web/combine-images-into-one-composite?learnIn=1), [Photo composites](https://www.adobe.com/learn/photoshop/paths/photo-compositing/photoshop/series/photography/make-photo-composites/photoshop/in-app/add-an-image?learnIn=1), [Composite with blending modes](https://www.adobe.com/learn/photoshop/web/composite-image-with-blend-modes?learnIn=1), [Match color in a composite](https://www.adobe.com/learn/photoshop/web/match-color-tones-composite?learnIn=1), [Remove objects](https://www.adobe.com/learn/photoshop/web/remove-unwanted-objects-generative-fill?learnIn=1), [Remove spots and imperfections](https://www.adobe.com/learn/photoshop/in-app/remove-spots-and-small-objects?learnIn=1)
 
 ---
 
@@ -102,14 +108,14 @@ This course includes lectures, practical demonstrations, and project-based learn
 
 ---
 
-### **Week 14: Final Project Submission 
+### **Week 14: Final Project Submission** 
 - **Assignment**: Submit your Illustrator-based vector design project.  
 
 ---
 
 ## **Assessment and Grading**
 
-- **Weekly Assignments and Exercises**: 30%  
+- **Attendance**: 30%  
 - **Projects**: 40%  
 - **Midterm Project (Photography Manipulation)**: 15%  
 - **Final Project (Illustrator Design)**: 15%
@@ -131,6 +137,8 @@ Students must adhere to the university’s academic integrity policy. Any form o
 
 - **Software**: Adobe Photoshop, Adobe Illustrator (available in university labs or via [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) subscription).
 - **Tutorials**: [Adobe Creative Cloud "Learn" Tutorials](https://www.adobe.com/learn)
+  - [Photo Editing Path Photoshop](https://www.adobe.com/learn/photoshop/paths/photo-editing?learnIn=1)
+  - [Branding and Identity Design Path Illustrator](https://www.adobe.com/learn/illustrator/paths/branding-and-identity?learnIn=1)
 - **References**:
 1. Albers, Josef. _Interaction of Color._ New Haven: Yale University Press, 1963.
 2. Müller, Jens. _Logo Modernism._ Los Angeles: Taschen, 2015.
