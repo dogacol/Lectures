@@ -110,12 +110,20 @@ Tüm okumalar Bordell ve Thompson'ın Film Sanatı kitabından olacaktır.
 
 ## **Değerlendirme ve Notlandırma**
 
-- **Ara Sınav** (1-7. Haftalar): %40
-	- **Quizler**: %20
-	- **Yazılı Sınav**: %20
-- **Genel Sınav** (8-14. Haftalar): %60
-	- **Quizler**: %20
-	- **Yazılı Sınav**: %20
+Ödevler ve Sınavlar
+1. **Birinci Düşünce Yazısı** - 3. derste teslim edilecek - 10 puan
+2. **İkinci Düşünce Yazısı** - 6. derste teslim edilecek - 10 puan
+3. **Üçüncü Düşünce Yazısı** - 9. derste teslim edilecek - 10 puan
+4. **Dördüncü Düşünce Yazısı -** 12. derste teslim edilecek - 10 puan
+5. **Ders içi quizler**: Her hafta ders başında yapılacaktır. - 20 puan
+6. **Ara sınav**: Yedinci haftaya kadar tüm konuları içeren çoktan seçmeli sınav - 20 puan
+7. **Final Sınavı**: Tüm ders konuları hakkında çoktan seçmeli sınav - 20 puan
+
+## **Ödevlere ilişkin kurallar**
+**Teslim Tarihleri:**
+Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.
+**Düşünce Yazıları:**
+Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste ilgili haftaya kadar olan kendi seçeceğiniz bir film içinde kullanılan bir filmik öge hakkındaki anladıklarınızı açıklamanızı ve filmden örnekler vermenizi istiyorum. Düşünce yazıları ders notları ya da başka kişilerin değil sadece sizin gözlemleriniz olmalıdır. 
 
 ## **Katılım ve Devam**
 
