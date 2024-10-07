@@ -24,7 +24,7 @@ Problem setleri her ders içerisinde yapılacaktır. Problem setlerini derste bi
 #### Ara Sınava Kadar Teslim Edilecek
 
 CS50 sitesinde bulunan beş (5) problem seti GitHub Classroom üzerinden teslim edilmiş olmalıdır. 
-- https://cs50.harvard.edu/x/2024/psets/0/
+- _https://cs50.harvard.edu/x/2024/psets/0/_
 - https://cs50.harvard.edu/x/2024/psets/1/
 - https://cs50.harvard.edu/x/2024/psets/2/
 - https://cs50.harvard.edu/x/2024/psets/3/
