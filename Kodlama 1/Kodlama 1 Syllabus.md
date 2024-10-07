@@ -24,20 +24,20 @@ Problem setleri her ders içerisinde yapılacaktır. Problem setlerini derste bi
 #### Ara Sınava Kadar Teslim Edilecek
 
 CS50 sitesinde bulunan beş (5) problem seti GitHub Classroom üzerinden teslim edilmiş olmalıdır. 
-https://cs50.harvard.edu/x/2024/psets/0/
-https://cs50.harvard.edu/x/2024/psets/1/
-https://cs50.harvard.edu/x/2024/psets/2/
-https://cs50.harvard.edu/x/2024/psets/3/
-https://cs50.harvard.edu/x/2024/psets/4/
+- https://cs50.harvard.edu/x/2024/psets/0/
+- https://cs50.harvard.edu/x/2024/psets/1/
+- https://cs50.harvard.edu/x/2024/psets/2/
+- https://cs50.harvard.edu/x/2024/psets/3/
+- https://cs50.harvard.edu/x/2024/psets/4/
 ### Son 5 Pset - 20 Puan
 #### Finale Kadar Teslim Edilecek
 
 CS50 sitesinde bulunan beş (5) problem seti GitHub Classroom üzerinden teslim edilmiş olmalıdır. 
-https://cs50.harvard.edu/x/2024/psets/5/
-https://cs50.harvard.edu/x/2024/psets/6/
-https://cs50.harvard.edu/x/2024/psets/7/
-https://cs50.harvard.edu/x/2024/psets/8/
-https://cs50.harvard.edu/x/2024/psets/9/
+- https://cs50.harvard.edu/x/2024/psets/5/
+- https://cs50.harvard.edu/x/2024/psets/6/
+- https://cs50.harvard.edu/x/2024/psets/7/
+- https://cs50.harvard.edu/x/2024/psets/8/
+- https://cs50.harvard.edu/x/2024/psets/9/
 
 ## **Akademik Dürüstlük İlkesi**
 Bu dersteki tüm çalışmaların özü size ait olmalıdır. Aksi belirtilmedikçe, ders içi ödevlerde ve projelerde işbirliğine izin verilmez, ancak bu yardım bir başkasının sizin için çalışmanızı yapmasına indirgenmediği sürece sınıf arkadaşlarınızdan ve diğerlerinden yardım isteyebilirsiniz. Genel olarak, yardım isterken kendi çalışmanızı başkalarına gösterebilirsiniz, ancak siz ve onlar bu ilkenin diğer kısıtlamalarına saygı gösterdiğiniz sürece onlarınkini göremezsiniz.
