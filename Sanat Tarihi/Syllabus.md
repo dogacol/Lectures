@@ -1,20 +1,14 @@
 ## Sanat Tarihi Syllabus
 
-**Dersi veren:** Dr. Öğr. Üye. Doğa Çöl
-**Eposta**: dcol@medipol.edu.tr
-**Oda**: İletişim Fakültesi B413
-Görüşme Saatleri için eposta gönderiniz.
-**Ders** **saatleri**: Perşembe 9-11 arası.
+**Dersi veren:** Dr. Öğr. Üye. Doğa Çöl<br>
+**Eposta**: dcol@medipol.edu.tr<br>
+**Oda**: İletişim Fakültesi B413<br>
+Görüşme Saatleri için eposta gönderiniz.<br>
+**Ders saatleri**: Perşembe 9-11 arası.<br>
+
 ## **Dersin Amacı**
 
-Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanatı tarihsel dönemler içerisinde inceleyerek öğrencilerle birlikte bütüncül bir araştırma yapmayı amaçlamaktadır. Derste görsel sanatın tarihsel anlamda en kapsamlı temsillerinden olan resim üzerine odaklanılacaktır. Eserlerin kültürel bağlamları, tarih boyunca sanatın değişen ve evrimleşen edimsel ve işlevsel yönleri tartışılacaktır.
-## **Dersin Hedefleri**
-
-1. Sanatın tarihsel dönemlerini ve bu dönemlerin kültürel bağlamlarını tanıma ve anlama.
-2. Sanat eserlerinin toplumsal ve kültürel işlevlerini analiz etme.
-3. Farklı dönemlerdeki sanatsal yaklaşımların evrimini karşılaştırma.
-4. Sanat tarihi analiz yöntemlerini kullanarak sanat eserlerini yorumlama.
-5. Sanat tarihinin farklı dönemlerinden sanatçıları, eserleri ve sanat akımlarını değerlendirme.
+Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini tarihsel dönemler içerisinde inceleyerek öğrencilerle birlikte bütüncül bir araştırma yapmayı amaçlamaktadır. Derste görsel sanatın tarihsel anlamda en kapsamlı temsillerinden olan resim üzerine odaklanılacaktır. Eserlerin kültürel bağlamları, tarih boyunca sanatın değişen ve evrimleşen edimsel ve işlevsel yönleri tartışılacaktır.
 ## **Öğrenim Çıktıları**
 
 Dersin sonunda öğrenciler:
@@ -33,9 +27,9 @@ Dersin sonunda öğrenciler:
 ### Ders 1 - Sanat Tarihi ve Tarihsel Araştırmaya Giriş
 - **Konular**: İnsanlık tarihi içinde sanatın önemi ve amacı.
 - **Okumalar**:
-    -     Gombrich. Sanat ve Sanatçılar, s. 15.
+    - Gombrich. Sanat ve Sanatçılar, s. 15.
 - **Videolar**:
-    - [**Batı kültürünün kısa tarihi**: ](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-western-culture)
+    - [Batı kültürünün kısa tarihi: ](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-western-culture)
     - [Tarihlerin önemi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/common-questions-about-dates)
 ### Ders 2 - Ortaçağ'ın Sonu ve Gotik Sanat
 - **Konular**: Ortaçağın tarihsel ve sanatsal arkaplanı
@@ -144,8 +138,8 @@ Dersin sonunda öğrenciler:
 (5) Devamsızlık oranı İstanbul Medipol Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliğinin 26. maddesinin 1. fıkrasında açıklanan devamsızlık sınırını aşınca o ders için öğrenciye F2 notu verilir ve öğrenci ilgili dersin dönem sonu genel sınavına giremez.
 ## **Ödevlere ilişkin kurallar**
 **Teslim Tarihleri:**
-Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.
+Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.<br>
 **Düşünce Yazıları:**
-Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste konuşulan bir kavram, dönem, sanatçı veya eserle ilgili olmalıdır. Tamamen öğrenci tarafından yazılmalıdır. El yazısıyla yazılıp teslim edilmelidir.
+Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste konuşulan bir kavram, dönem, sanatçı veya eserle ilgili olmalıdır. Tamamen öğrenci tarafından yazılmalıdır. Derste teslim edilmelidir.
 ## **Akademik dürüstlük:**
 Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır.
