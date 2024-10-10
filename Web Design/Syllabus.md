@@ -46,7 +46,7 @@ This course includes lectures, practical coding exercises, and project-based lea
 ### **Week 3: HTML Foundations II**
 - **Topics**: Lists, links, images, and HTML boilerplate structure.
 - **Assignments**: Continue working on the [recipe webpage](https://www.theodinproject.com/lessons/foundations-recipes), applying new HTML techniques. 
-- **To do list before class**: 
+- **To do list before class**: Read: [HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
 
 ### **Week 4: CSS Foundations I**
 - **Topics**: Introduction to CSS, selectors, properties, and values. Understanding the cascade and the basics of CSS styling.
