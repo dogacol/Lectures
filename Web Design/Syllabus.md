@@ -31,74 +31,119 @@ This course includes lectures, practical coding exercises, and project-based lea
 
 ## **Weekly Schedule**
 
-### **Week 1: Introduction to Web Development**
+---
+
+**Week 1: Introduction to Web Development**
+
 - **Topics**: How the web works, role of a web developer, overview of HTML, CSS, JavaScript.
 - **Assignments**: Setting up tools (text editor, Git), Introduction to Command Line.
+- **Reading**: [Introduction to Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
 
-### **Week 2: HTML Foundations I**
+---
+
+**Week 2: HTML Foundations I**
+
 - **Topics**: HTML structure, elements, and tags, working with text.
-- **Assignments**: Project: Create a [basic recipe webpage](https://www.theodinproject.com/lessons/foundations-recipes).
-- **To do list before class**: 
-  - Sign up on Github here until next class: https://github.com/
-  - Read these: https://www.theodinproject.com/lessons/foundations-computer-basics and https://www.theodinproject.com/lessons/foundations-how-does-the-web-work and https://www.brytdesigns.com/html-css-javascript-whats-the-difference
-  - Watch: https://www.youtube.com/watch?v=salY_Sm6mv4
+- **Assignments**: Project: Create a basic recipe webpage.
+- **To do list before class**:
+  - Sign up on Github here until next class: [GitHub](https://github.com/)
+  - Read these: 
+    - [Computer Basics](https://www.theodinproject.com/lessons/foundations-computer-basics)
+    - [How Does the Web Work](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
+    - [HTML, CSS, JavaScript - What's the Difference?](https://www.brytdesigns.com/html-css-javascript-whats-the-difference)
+  - Watch: [YouTube: How the Web Works](https://www.youtube.com/watch?v=salY_Sm6mv4)
 
-### **Week 3: HTML Foundations II**
+---
+
+**Week 3: HTML Foundations II**
+
 - **Topics**: Lists, links, images, and HTML boilerplate structure.
-- **Assignments**: Continue working on the [recipe webpage](https://www.theodinproject.com/lessons/foundations-recipes), applying new HTML techniques. 
-- **To do list before class**: Read: [HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+- **Assignments**: Continue working on the recipe webpage, applying new HTML techniques.
+- **Reading**: [HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-foundations)
 
-### **Week 4: CSS Foundations I**
+---
+
+**Week 4: CSS Foundations I**
+
 - **Topics**: Introduction to CSS, selectors, properties, and values. Understanding the cascade and the basics of CSS styling.
 - **Assignments**: Apply basic CSS to the recipe project.
-- **To do list before class**: 
+- **Reading**: [CSS Foundations](https://www.theodinproject.com/lessons/foundations-css-foundations)
 
-### **Week 5: CSS Foundations II**
+---
+
+**Week 5: CSS Foundations II**
+
 - **Topics**: Inspecting HTML and CSS, the box model, block and inline elements, margins, padding, and borders.
 - **Project**: Enhance the recipe project with box model properties.
-- **To do list before class**: 
+- **Reading**: [CSS Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
 
-### **Week 6: Flexbox I**
+---
+
+**Week 6: Flexbox I**
+
 - **Topics**: Introduction to Flexbox, axis-based alignment, growing and shrinking elements, responsive design.
 - **Project**: Create a simple landing page using Flexbox.
-- **To do list before class**: 
+- **Reading**: [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-flexbox)
 
-### **Week 7: Flexbox II**
+---
+
+**Week 7: Flexbox II**
+
 - **Topics**: Advanced flexbox techniques, alignment, and responsiveness. Working on layouts.
 - **Assignments**: Finalize the landing page project with responsive design principles.
-- **To do list before class**: 
 
-### **Week 8: Midterm Assignment Submission (No Class)**  
-- **Assignment**: Complete and submit your Landing Page project.  
-- No class this week.
+---
 
-### **Week 9: JavaScript Basics I**
+**Week 8: Midterm Assignment Submission (No Class)**
+
+- **Assignment**: Complete and submit your Landing Page project.
+
+---
+
+**Week 9: JavaScript Basics I**
+
 - **Topics**: Introduction to JavaScript, variables, operators, and data types.
 - **Assignments**: Begin working on simple problem-solving exercises using JavaScript.
-- **To do list before class**: 
+- **Reading**: [JavaScript Basics](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/javascript-basics)
 
-### **Week 10: JavaScript Basics II**
+---
+
+**Week 10: JavaScript Basics II**
+
 - **Topics**: Conditionals, loops, and basic functions in JavaScript. Introduction to DOM manipulation.
 - **Project**: Create a simple interactive Rock Paper Scissors game.
-- **To do list before class**: 
+- **Reading**: [JavaScript Conditionals and Loops](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/conditionals-and-loops)
 
-### **Week 11: JavaScript and Clean Code**
+---
+
+**Week 11: JavaScript and Clean Code**
+
 - **Topics**: Best practices for clean and maintainable code, refactoring, and code review.
 - **Assignments**: Refactor the Rock Paper Scissors project with clean code principles.
-- **To do list before class**: 
+- **Reading**: [Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)
 
-### **Week 12: DOM Manipulation**
+---
+
+**Week 12: DOM Manipulation**
+
 - **Topics**: Interacting with HTML elements using JavaScript, handling events, basic DOM manipulation.
 - **Project**: Build a simple interactive Etch-a-Sketch using DOM manipulation.
-- **To do list before class**: 
+- **Reading**: [DOM Manipulation](https://www.theodinproject.com/lessons/foundations-dom-manipulation)
 
-### **Week 13: JavaScript Objects**
+---
+
+**Week 13: JavaScript Objects**
+
 - **Topics**: Introduction to JavaScript objects, creating and manipulating objects.
 - **Project**: Design a basic calculator application using objects.
-- **To do list before class**: 
+- **Reading**: [JavaScript Objects](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/objects)
 
-### **Week 14: Final Assignment Submission (No Class)**  
-- **Assignment**: Submit your completed project.  
+---
+
+**Week 14: Final Assignment Submission (No Class)**
+
+- **Assignment**: Submit your completed project.
+
 
 ## **Assessment and Grading**
 
