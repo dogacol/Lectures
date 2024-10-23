@@ -49,7 +49,7 @@ Dersin sonunda öğrenciler:
     - [İtalya'da Geç Dönem Gotik Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy)
 - **Birinci Ödev Teslimi**
 ### Ders 4 - Yüksek Rönesans İtalya
-- **Konular**: Leonardo da Vinci, Michelangelo ve Raphael, Hümanizm, geleneksel ideallerin yeniden keşfi, sanatsal deha
+- **Konular**: Sandro Botticelli, Leonardo da Vinci, Michelangelo ve Raphael, Hümanizm, geleneksel ideallerin yeniden keşfi, sanatsal deha
 - **Okumalar**:
     - Bölüm 15: _Ulaşılan Uyum: Toskana ve Roma, XVI. Yüzyıl Başları_ (Sayfa 287)
 	- Bölüm 16: _Işık ve Renk: Venedik ve Kuzey İtalya_ (Sayfa 325)
