@@ -67,7 +67,7 @@ This course includes lectures, practical coding exercises, and project-based lea
 
 - **Topics**: Introduction to CSS, selectors, properties, and values. Understanding the cascade and the basics of CSS styling.
 - **Assignments**: Apply basic CSS to the recipe project.
-- **Reading**: [CSS Foundations](https://www.theodinproject.com/lessons/foundations-css-foundations)
+- **Reading**: [CSS Foundations](https://www.theodinproject.com/lessons/foundations-intro-to-css)
 
 ---
 
