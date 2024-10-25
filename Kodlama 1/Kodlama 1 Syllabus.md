@@ -11,8 +11,8 @@ Görüşme Saatleri için eposta gönderiniz.
 ## İçindekiler:
 - [Dersin Amacı](#dersin-amacı)
 - [Ders Beklentileri ve Notlandırma](#ders-beklentileri-ve-notlandırma)
-  - [Ara Sınav Projesi](#ara-sınav-projesi)
-  - [Final Projesi](#final-projesi)
+  - [Ara Sınav Projesi](#ara-sınav-projesi---7-hafta-duyurulacaktır---40-puan)
+  - [Final Projesi](#final-projesi---13-hafta-duyurulacaktır---60-puan)
 - [Akademik Dürüstlük İlkesi](#akademik-dürüstlük-ilkesi)
   - [Makul](#makul)
   - [Makul Olmayan](#makul-olmayan)
