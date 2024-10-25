@@ -18,6 +18,7 @@ Bu ders öğrencilere algoritmik düşünmeyi ve problemleri verimli bir şekild
    - GitHub üzerinden teslim edilecek: [link](https://classroom.github.com/a/fBZNzq9V)
 2. Final Haftasına - 13. Hafta duyurulacaktır - 60 puan
    - GitHub üzerinden teslim edilecek: [link](https://classroom.github.com/a/GSTj_U4P)
+  
 **Toplam: 100 puan**
 
 ### ## **Akademik Dürüstlük İlkesi**
