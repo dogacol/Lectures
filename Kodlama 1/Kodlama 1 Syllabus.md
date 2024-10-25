@@ -1,10 +1,25 @@
 # Kodlama 1 Syllabus
 
+
 **Dersi veren:** Dr. Öğr. Üye. Doğa Çöl
 **Eposta**: dcol@medipol.edu.tr
 **Oda**: İletişim Fakültesi B413
 Görüşme Saatleri için eposta gönderiniz.
 **Ders** **saatleri**: Pazartesi 9-11 arası.
+
+
+## İçindekiler:
+- [Dersin Amacı](#dersin-amacı)
+- [Ders Beklentileri ve Notlandırma](#ders-beklentileri-ve-notlandırma)
+  - [Ara Sınav Projesi](#ara-sınav-projesi)
+  - [Final Projesi](#final-projesi)
+- [Akademik Dürüstlük İlkesi](#akademik-dürüstlük-ilkesi)
+  - [Makul](#makul)
+  - [Makul Olmayan](#makul-olmayan)
+- [Haftalık Ders Planı](#haftalık-ders-planı)
+- [Ders Akışı](#ders-akışı)
+
+
 ## **Dersin Amacı:**
 
 Bu ders öğrencilere algoritmik düşünmeyi ve problemleri verimli bir şekilde çözmeyi öğretir. Konular arasında soyutlama, algoritmalar, veri yapıları, kapsülleme, kaynak yönetimi, güvenlik, yazılım mühendisliği ve web programlama yer almaktadır. Diller arasında C, Python ve SQL'in yanı sıra HTML, CSS ve JavaScript bulunmaktadır. Sanat, beşeri bilimler, sosyal bilimler ve fen bilimlerinden esinlenen problem setleri bulunmaktadır. 
@@ -21,7 +36,7 @@ Bu ders öğrencilere algoritmik düşünmeyi ve problemleri verimli bir şekild
   
 **Toplam: 100 puan**
 
-### ## **Akademik Dürüstlük İlkesi**
+### **Akademik Dürüstlük İlkesi**
 Bu dersteki tüm çalışmaların özü size ait olmalıdır. Aksi belirtilmedikçe, ders içi ödevlerde ve projelerde işbirliğine izin verilmez, ancak bu yardım bir başkasının sizin için çalışmanızı yapmasına indirgenmediği sürece sınıf arkadaşlarınızdan ve diğerlerinden yardım isteyebilirsiniz. Genel olarak, yardım isterken kendi çalışmanızı başkalarına gösterebilirsiniz, ancak siz ve onlar bu ilkenin diğer kısıtlamalarına saygı gösterdiğiniz sürece onlarınkini göremezsiniz.
 
 Pişmanlık maddesi. Makul olmayan bir eylemde bulunursanız ve bunu 72 saat içinde dcol@medipol.edu.tr adresine e-posta göndererek dikkate sunarsanız, sunulan çalışma için yetersiz veya başarısız bir not içerebilecek yerel yaptırımlar uygulanabilir. Tekrarlanan eylemler dışında konu disiplin cezası için sevk edilmeyecektir.
