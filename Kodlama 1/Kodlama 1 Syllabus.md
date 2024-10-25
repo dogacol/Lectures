@@ -29,9 +29,9 @@ Bu ders öğrencilere algoritmik düşünmeyi ve problemleri verimli bir şekild
 
 **Notlandırma:** Proje, **doğruluk** ve **stil** ekseninde değerlendirilecektir.
 
-1. Ara Sınav Projesi - 7. Hafta duyurulacaktır. - 40 puan
+1. #### Ara Sınav Projesi - 7. Hafta duyurulacaktır. - 40 puan
    - GitHub üzerinden teslim edilecek: [link](https://classroom.github.com/a/fBZNzq9V)
-2. Final Haftasına - 13. Hafta duyurulacaktır - 60 puan
+2. #### Final Projesi - 13. Hafta duyurulacaktır - 60 puan
    - GitHub üzerinden teslim edilecek: [link](https://classroom.github.com/a/GSTj_U4P)
   
 **Toplam: 100 puan**
