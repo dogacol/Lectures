@@ -1,3 +1,5 @@
+# Kodlama 1 Syllabus
+
 **Dersi veren:** Dr. Öğr. Üye. Doğa Çöl
 **Eposta**: dcol@medipol.edu.tr
 **Oda**: İletişim Fakültesi B413
@@ -12,34 +14,13 @@ Bu ders öğrencilere algoritmik düşünmeyi ve problemleri verimli bir şekild
 
 **Notlandırma:** Proje, **doğruluk** ve **stil** ekseninde değerlendirilecektir.
 
-1. Ara Sınav, İlk 5 Problem Seti - 40 puan 
-	- Her ders sonunda o haftanın problem seti teslim edilecektir.
-2.  Final Haftasına Kadar Son 5 Problem Seti - 60 puan
-	- Her ders sonunda o haftanın pseti teslim edilecektir.
+1. Ara Sınav Projesi - 7. Hafta duyurulacaktır. - 40 puan
+   - GitHub üzerinden teslim edilecek: [link](https://classroom.github.com/a/fBZNzq9V)
+2. Final Haftasına - 13. Hafta duyurulacaktır - 60 puan
+   - GitHub üzerinden teslim edilecek: [link](https://classroom.github.com/a/GSTj_U4P)
 **Toplam: 100 puan**
 
-### Problem Setleri 
-Problem setleri her ders içerisinde yapılacaktır. Problem setlerini derste bitirebileceğinizden emin olmak için önceki hafta ders sonrası çalışmaya başlamalısınız. Her öğrenci derste problem setlerini nasıl yaptığını açıklayacaklardır. Açıklayamayan öğrencilerin ödevleri kabul edilmeyecektir. 
-### İlk 5 Pset - 20 puan 
-#### Ara Sınava Kadar Teslim Edilecek
-
-CS50 sitesinde bulunan beş (5) problem seti GitHub Classroom üzerinden teslim edilmiş olmalıdır. 
-- _https://cs50.harvard.edu/x/2024/psets/0/_
-- https://cs50.harvard.edu/x/2024/psets/1/
-- https://cs50.harvard.edu/x/2024/psets/2/
-- https://cs50.harvard.edu/x/2024/psets/3/
-- https://cs50.harvard.edu/x/2024/psets/4/
-### Son 5 Pset - 20 Puan
-#### Finale Kadar Teslim Edilecek
-
-CS50 sitesinde bulunan beş (5) problem seti GitHub Classroom üzerinden teslim edilmiş olmalıdır. 
-- https://cs50.harvard.edu/x/2024/psets/5/
-- https://cs50.harvard.edu/x/2024/psets/6/
-- https://cs50.harvard.edu/x/2024/psets/7/
-- https://cs50.harvard.edu/x/2024/psets/8/
-- https://cs50.harvard.edu/x/2024/psets/9/
-
-## **Akademik Dürüstlük İlkesi**
+### ## **Akademik Dürüstlük İlkesi**
 Bu dersteki tüm çalışmaların özü size ait olmalıdır. Aksi belirtilmedikçe, ders içi ödevlerde ve projelerde işbirliğine izin verilmez, ancak bu yardım bir başkasının sizin için çalışmanızı yapmasına indirgenmediği sürece sınıf arkadaşlarınızdan ve diğerlerinden yardım isteyebilirsiniz. Genel olarak, yardım isterken kendi çalışmanızı başkalarına gösterebilirsiniz, ancak siz ve onlar bu ilkenin diğer kısıtlamalarına saygı gösterdiğiniz sürece onlarınkini göremezsiniz.
 
 Pişmanlık maddesi. Makul olmayan bir eylemde bulunursanız ve bunu 72 saat içinde dcol@medipol.edu.tr adresine e-posta göndererek dikkate sunarsanız, sunulan çalışma için yetersiz veya başarısız bir not içerebilecek yerel yaptırımlar uygulanabilir. Tekrarlanan eylemler dışında konu disiplin cezası için sevk edilmeyecektir.
@@ -97,4 +78,3 @@ Dersten önce izlenmeli: Türkçe https://www.youtube.com/watch?v=9SYkiZLBdLY ve
 | 12   | HTML, CSS, JavaScript. İnternet: Yönlendiriciler; TCP/IP; DNS. HTTP: URL'ler, GET, POST. HTML: Etiketler; Nitelikler. Sunucular. CSS: Özellikler; Seçiciler. Çerçeveler. JavaScript: Değişkenler; Koşullar; Döngüler. Olaylar.                                                                                                                                              | Video: CS50x Week 8.                                                                                                                |
 | 13   | Flask. Rota. Dekoratörler. İstekler, Yanıtlar. Oturumlar. Çerezler.                                                                                                                                                                                                                                                                                                         | Video: CS50x Week 9                                                                                                                 |
 | 14   | Final                                                                                                                                                                                                                                                                                                                                                                       | Vİdeo: CS50x Week 10                                                                                                                |
-
