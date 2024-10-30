@@ -177,3 +177,12 @@ Students must adhere to the university’s academic integrity policy. Cheating o
   - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/)
   - [W3Schools](https://www.w3schools.com/).
 
+## **References:
+Albers, Josef. Interaction of Color. New Haven: Yale University Press, 1963.
+Müller, Jens. Logo Modernism. Los Angeles: Taschen, 2015.
+Samara, Timothy. Making and Breaking the Grid: A Graphic Design Layout Workshop. Beverly, MA: Rockport Publishers, 2005.
+White, Alexander W. The Elements of Graphic Design: Space, Unity, Page Architecture, and Type. New York: Allworth Press, 2002.
+Lupton, Ellen. Thinking with Type: A Critical Guide for Designers, Writers, Editors, and Students. 2nd ed. New York: Princeton Architectural Press, 2010.
+Berger, John. Ways of Seeing. London: British Broadcasting Corporation and Penguin Books, 1972.
+Young, Doyald. Fonts & Logos: Font Analysis, Logotype Design, Typography. 1st ed. Delphi Press, 1999.
+
