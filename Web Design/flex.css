@@ -52,15 +52,15 @@ body {
     object-fit: cover;
 }
 
-#footer {
+
+
+.wrapper {
+    min-height: 100%;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    background-color: white;
-    text-align: center;
-    padding: 10px;
-    position: fixed-center;
-    bottom: 0;
+    justify-content: center;
+    grid-template-rows: auto 1fr auto;
 }
 
 #nav-footer {
