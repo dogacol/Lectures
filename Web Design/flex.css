@@ -1,0 +1,18 @@
+.container {
+    display: flex; 
+    justify-content: center;
+    
+}
+
+.transition {
+object-fit: contain;
+transition-duration: 0.3s;
+transition-timing-function: ease-in-out;
+transition-delay: 0s;
+transition-behavior: normal;
+transition-property: all;
+}
+
+.img-container {
+display: flex;
+}
