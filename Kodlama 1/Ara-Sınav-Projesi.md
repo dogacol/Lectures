@@ -1,5 +1,5 @@
 # Kodlama 1 Ara Sınav
-#lectures #coding #midterm
+  
 
 **Orta Dönem Proje Talimatı: “Adam Asmaca Oyunu”**
 
@@ -42,7 +42,7 @@ Bu projede, klasik “Adam Asmaca” oyununu C programlama dilinde uygulamanız 
 
 **Teslimat Bilgileri:**
 
-	* 	**Son Teslim Tarihi:** Ara Sınav Haftası Son Günü 24.11.2024
+	* 	**Son Teslim Tarihi:** Ara Sınav Haftası Son Günü
 	* 	**Teslim Edilecekler:**
 	* 	Tüm kaynak kodları içeren .c ve varsa .h dosyaları.
 	* 	Programın derlenmesi ve çalıştırılması için gerekli talimatları içeren bir README dosyası.
