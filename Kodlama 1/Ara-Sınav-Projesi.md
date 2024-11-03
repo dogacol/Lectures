@@ -18,7 +18,7 @@ Bu projede, klasik “Adam Asmaca” oyununu C programlama dilinde uygulamanız 
    - Doğru tahminlerde, ilgili harf(ler) doğru pozisyonda gösterilir.
    - Yanlış tahminlerde, oyuncunun kalan hakkı bir azaltılır ve uygun bir mesaj gösterilir.
 
-3.* **Kullanıcı Arayüzü:**
+3. **Kullanıcı Arayüzü:**
    - Oyunun durumu her turda güncellenmeli ve oyuncuya gösterilmelidir.
    - Kalan tahmin hakkı ve daha önce tahmin edilen harfler görüntülenmelidir.
 
