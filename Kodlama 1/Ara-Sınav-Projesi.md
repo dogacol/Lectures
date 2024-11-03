@@ -13,7 +13,7 @@ Bu projede, klasik “Adam Asmaca” oyununu C programlama dilinde uygulamanız 
    - Kelime listesi en az 10 farklı kelimeden oluşmalıdır.
 
 2. ****Oyun Akışı:****
-   - Oyuncuya, kelimenin uzunluğuna göre boşluklar (*_) gösterilmelidir.
+   - Oyuncuya, kelimenin uzunluğuna göre boşluklar (*_*) gösterilmelidir.
    - Oyuncu, her turda bir harf tahmin eder.
    - Doğru tahminlerde, ilgili harf(ler) doğru pozisyonda gösterilir.
    - Yanlış tahminlerde, oyuncunun kalan hakkı bir azaltılır ve uygun bir mesaj gösterilir.
