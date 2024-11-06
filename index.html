@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>Academic Papers - Doğa Çöl</title>
+    <title>Lectures</title>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&display=swap" rel="stylesheet">
     <link rel="icon" href="images/website images/favicon.ico" type="image/x-icon">
     <style>
@@ -76,7 +76,7 @@
 </head>
 <body>
     <div class="content">
-        <h1>Academic Papers</h1>
+        <h1>Lectures</h1>
         <div id="folders"></div>
         <div id="files" style="display: none;"></div>
         <div id="file-content" class="file-content"></div>
@@ -101,7 +101,8 @@
             .then(response => response.json())
             .then(data => {
                 data.forEach(item => {
-                    if (item.type === 'dir') {
+                    // Filter out hidden directories and those that start with a dot (e.g., .obsidian, .git)
+                    if (item.type === 'dir' && !item.name.startsWith('.')) {
                         const folderLink = document.createElement('div');
                         folderLink.classList.add('folder-link');
                         folderLink.textContent = item.name;
