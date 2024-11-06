@@ -79,4 +79,4 @@ Your final project will be evaluated on the following:
 
 ### **Deadline**
 
-- The final project must be submitted no later than **[insert due date]**.
+- TBD.
