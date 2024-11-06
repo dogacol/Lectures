@@ -2,71 +2,162 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lectures</title>
-    <!-- Include marked.js for Markdown parsing -->
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Academic Papers - Doğa Çöl</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="images/website images/favicon.ico" type="image/x-icon">
     <style>
-        /* Optional: Add some basic styling */
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
+            font-family: 'Cormorant Garamond', serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 20px;
+            margin: 0;
+            line-height: 1.5;
         }
-        #content {
-            margin-top: 20px;
+        .content {
+            max-width: 100%;
             padding: 10px;
-            border: 1px solid #ddd;
+            text-align: left;
         }
-        a {
-            margin-right: 15px;
-            text-decoration: none;
-            color: #007BFF;
+        h1 {
+            font-size: 1.5em;
+            margin-bottom: 20px;
         }
-        a:hover {
+        .folder-link, .file-link {
+            font-size: 1.3em;
+            margin: 10px 0;
+            cursor: pointer;
+            color: #333;
             text-decoration: underline;
+        }
+        .folder-link:hover, .file-link:hover {
+            color: #000;
+        }
+        .file-content {
+            font-size: 1.2em;
+            color: #333;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            width: 60%;
+            max-width: 800px;
+            display: none;
+            line-height: 1.5;
+        }
+
+        .footer {
+            font-size: 0.9em;
+            color: #000000;
+            text-align: center;
+            padding: 10px 0;
+            background-color: #f0f0f0;
+            margin-top: 50px;
+        }
+        .back-button {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .back-button button {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            font-size: 1em;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .back-button button:hover {
+            background-color: #555;
         }
     </style>
 </head>
 <body>
-    <h1>Lecture Syllabi</h1>
-    <!-- Navigation Links -->
-    <nav>
-        <a href="#" onclick="loadMarkdown('Kodlama-1/Kodlama-1-Syllabus.md'); return false;">Kodlama 1</a>
-        <a href="#" onclick="loadMarkdown('Kodlama-2/Final-Projesi.md'); return false;">Kodlama 2</a>
-        <a href="#" onclick="loadMarkdown('RTS-Teknik-Temeller/Syllabus.md'); return false;">RTS Teknik Temeller</a>
-        <a href="#" onclick="loadMarkdown('Sanat-Tarihi/Syllabus.md'); return false;">Sanat Tarihi</a>
-        <a href="#" onclick="loadMarkdown('Ses-Tasarimi/Syllabus.md'); return false;">Ses Tasarımı</a>
-        <a href="#" onclick="loadMarkdown('Software-Applications/Syllabus.md'); return false;">Software Applications</a>
-        <a href="#" onclick="loadMarkdown('Web-Design/Syllabus.md'); return false;">Web Design</a>
-    </nav>
+    <div class="content">
+        <h1>Academic Papers</h1>
+        <div id="folders"></div>
+        <div id="files" style="display: none;"></div>
+        <div id="file-content" class="file-content"></div>
+    </div>
+    <div class="back-button">
+        <button onclick="goToIndex()">&#8592; Back</button>
+    </div>
 
-    <!-- Content Area -->
-    <div id="content">Click on a link above to load the syllabus.</div>
+    <div class="footer">
+        &copy; 2024 Doğa Çöl
+    </div>
 
-    <!-- JavaScript to Load Markdown Files -->
+    <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
     <script>
-        function loadMarkdown(file) {
-            fetch(file)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Network response was not ok ' + response.statusText);
+        const foldersContainer = document.getElementById('folders');
+        const filesContainer = document.getElementById('files');
+        const fileContentDiv = document.getElementById('file-content');
+        const repoUrl = "https://api.github.com/repos/dogacol/Academic-Papers/contents";
+
+        // Fetch the top-level directory to list folders
+        fetch(repoUrl)
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(item => {
+                    if (item.type === 'dir') {
+                        const folderLink = document.createElement('div');
+                        folderLink.classList.add('folder-link');
+                        folderLink.textContent = item.name;
+                        folderLink.onclick = () => loadFolderContents(item.name);
+                        foldersContainer.appendChild(folderLink);
                     }
-                    return response.text();
-                })
-                .then(text => {
-                    // Convert Markdown to HTML using marked.js
-                    document.getElementById('content').innerHTML = marked.parse(text);
-                })
-                .catch(error => {
-                    console.error('Error loading markdown file:', error);
-                    document.getElementById('content').innerHTML = '<p style="color:red;">Failed to load content. Please try again later.</p>';
                 });
+            })
+            .catch(error => console.error('Error fetching directory list:', error));
+
+        // Load the contents of a selected folder
+        function loadFolderContents(folderName) {
+            const folderUrl = `${repoUrl}/${folderName}`;
+
+            // Clear the previous files and hide the file content area
+            filesContainer.innerHTML = '';
+            filesContainer.style.display = 'block';
+            fileContentDiv.style.display = 'none';
+
+            fetch(folderUrl)
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(file => {
+                        if (file.name.endsWith('.md')) {
+                            const fileLink = document.createElement('div');
+                            fileLink.classList.add('file-link');
+                            fileLink.textContent = file.name.replace(/-/g, ' ').replace('.md', '');
+                            fileLink.onclick = () => loadFileContent(folderName, file.name);
+                            filesContainer.appendChild(fileLink);
+                        }
+                    });
+                })
+                .catch(error => console.error('Error fetching folder contents:', error));
         }
 
-        // Optional: Load the first syllabus by default
-        window.onload = function() {
-            loadMarkdown('Kodlama-1/Kodlama-1-Syllabus.md');
-        };
+        // Load and display the content of a .md file
+        function loadFileContent(folderName, fileName) {
+            const fileUrl = `https://raw.githubusercontent.com/dogacol/Academic-Papers/main/${folderName}/${fileName}`;
+
+            fetch(fileUrl)
+                .then(response => response.text())
+                .then(markdown => {
+                    const converter = new showdown.Converter();
+                    const htmlContent = converter.makeHtml(markdown);
+                    fileContentDiv.innerHTML = htmlContent;
+                    fileContentDiv.style.display = 'block';
+                })
+                .catch(error => console.error('Error fetching file content:', error));
+        }
+
+        function goToIndex() {
+            // Hide files and file content, showing only the folder view
+            filesContainer.style.display = 'none';
+            fileContentDiv.style.display = 'none';
+            foldersContainer.style.display = 'block';
+        }
     </script>
 </body>
 </html>
