@@ -1,7 +1,7 @@
 ### Midterm Project: Main Page Development
 
 **Overview**  
-For your midterm project, you’ll be creating the main page of your final website project. This will serve as the homepage, setting the foundation for the full, multi-page site you’ll complete by the end of the course. Focus on the core structure and essential styling, applying HTML, CSS, and basic JavaScript as outlined below.
+For your midterm project, you’ll be creating the main page of your final website project. This will serve as the homepage, setting the foundation for the full, multi-page site you’ll complete by the end of the course. Focus on the core structure and essential styling, applying HTML and CSS as outlined below.
 
 ---
 
@@ -19,10 +19,7 @@ For your midterm project, you’ll be creating the main page of your final websi
    - **Basic Styling:** Add fundamental styles, including a color scheme, typography, and spacing. Focus on maintaining a clean, readable design.
    - **Hover Effects/Transitions:** Include at least one CSS hover effect (e.g., on a button or link).
 
-#### 3. **Interactivity (JavaScript)**
-   - **Simple Interaction (Optional):** If you want to go beyond the basics, you can add one small interactive feature. For example, you might use JavaScript to show a welcome message or respond to a button click.
-
-#### 4. **Version Control (Git/GitHub)**
+#### 3. **Version Control (Git/GitHub)**
    - **Git Repository:** Track your development using Git, committing your progress with descriptive messages.
    - **GitHub Repository:** Push your code to a GitHub repository and submit the link for grading.
 
@@ -57,10 +54,7 @@ Your midterm project will be evaluated on the following:
    - **Version Control (10%)**
       - Clear and meaningful commit history.
 
-   - **Basic Interactivity (10%)**
-      - Any JavaScript feature added (optional).
-
-   - **Overall Presentation (10%)**
+   - **Overall Presentation (20%)**
       - Clean, organized layout with attention to basic design principles.
 
 ---
