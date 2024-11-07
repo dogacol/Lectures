@@ -115,9 +115,8 @@ Tüm okumalar Bordell ve Thompson'ın Film Sanatı kitabından olacaktır.
 2. **İkinci Düşünce Yazısı** - 6. derste teslim edilecek - 10 puan
 3. **Üçüncü Düşünce Yazısı** - 9. derste teslim edilecek - 10 puan
 4. **Dördüncü Düşünce Yazısı -** 12. derste teslim edilecek - 10 puan
-5. **Ders içi quizler**: Her hafta ders başında yapılacaktır. - 20 puan
-6. **Ara sınav**: Yedinci haftaya kadar tüm konuları içeren çoktan seçmeli sınav - 20 puan
-7. **Final Sınavı**: Tüm ders konuları hakkında çoktan seçmeli sınav - 20 puan
+5. **Ara sınav**: Yedinci haftaya kadar tüm konuları içeren çoktan seçmeli sınav - 25 puan
+6. **Final Sınavı**: Tüm ders konuları hakkında çoktan seçmeli sınav - 25 puan
 
 ## **Ödevlere ilişkin kurallar**
 **Teslim Tarihleri:**
