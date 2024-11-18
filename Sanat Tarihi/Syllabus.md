@@ -17,6 +17,7 @@ Dersin sonunda öğrenciler:
 3. Bir sanat eserini tarihsel ve kültürel bağlamda analiz eder.
 4. Sanat eserlerinin toplumsal işlevlerini ve bu işlevlerin zaman içindeki değişimini değerlendirir.
 5. Görsel analiz ve eleştirel düşünme becerilerini geliştirerek, sanat eserlerini değerlendirme yeteneği kazanır.
+
 ## **Öğretim Modelleri**
 
 - **Anlatım**: Öğrencilere sanat eserlerinin tarihsel ve kültürel bağlamlarını açıklamak için kullanılacaktır.
@@ -142,7 +143,6 @@ Dersin sonunda öğrenciler:
 Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste konuşulan bir kavram, dönem, sanatçı veya eserle ilgili olmalıdır. Tamamen öğrenci tarafından yazılmalıdır. Derste teslim edilmelidir.
 
 9. ve 12. hafta ödevleri Teams üzerinden teslim edilmelidir. Teams grubu tüm öğrencilerle güncellenmiştir.
-
 
 ## **Akademik dürüstlük:**
 Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır.
