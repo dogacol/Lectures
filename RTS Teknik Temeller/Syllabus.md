@@ -124,7 +124,7 @@ Tüm okumalar Bordell ve Thompson'ın Film Sanatı kitabından olacaktır.
 **Düşünce Yazıları:**
 Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste ilgili haftaya kadar olan kendi seçeceğiniz bir film içinde kullanılan bir filmik öge hakkındaki anladıklarınızı açıklamanızı ve filmden örnekler vermenizi istiyorum. Düşünce yazıları ders notları ya da başka kişilerin değil sadece sizin gözlemleriniz olmalıdır.
 
-9. ve 12. hafta ödevleri Teams üzerinden teslim edilmelidir. Teams grubu tüm öğrencilerle güncellenmiştir.
+
 
 ## **Katılım ve Devam**
 
