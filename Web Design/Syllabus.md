@@ -179,6 +179,7 @@ Students must adhere to the university’s academic integrity policy. Cheating o
   - [CodeMaven JS Game](https://www.crunchzilla.com/code-maven)
   - [WarriorJS Game](https://warriorjs.com/campaigns/gr42rGaTc4M)
   - [JSRobot Game](https://github.com/reaalkhalil/JSRobot)
+  - [Elevator Saga JS Game](https://play.elevatorsaga.com/)
 
 ## **References:
 Albers, Josef. Interaction of Color. New Haven: Yale University Press, 1963.
