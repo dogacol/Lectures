@@ -172,7 +172,9 @@ Students must adhere to the university’s academic integrity policy. Cheating o
 
 - **Text Editors**: [VS Code](https://code.visualstudio.com/).
 - [**GitHub**](https://github.com/): For project repositories.
-- **Additional Learning Tools**: 
+- **Additional Learning Tools**:
+  - [Modern JavaScript](https://javascript.info)
+  - [JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   - [The Odin Project](https://www.theodinproject.com/) 
   - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/)
   - [W3Schools](https://www.w3schools.com/).
