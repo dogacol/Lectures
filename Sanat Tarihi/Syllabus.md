@@ -140,5 +140,9 @@ Dersin sonunda öğrenciler:
 Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.<br>
 **Düşünce Yazıları:**
 Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste konuşulan bir kavram, dönem, sanatçı veya eserle ilgili olmalıdır. Tamamen öğrenci tarafından yazılmalıdır. Derste teslim edilmelidir.
+
+
+
+
 ## **Akademik dürüstlük:**
 Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır.

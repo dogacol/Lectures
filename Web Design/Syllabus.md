@@ -172,10 +172,16 @@ Students must adhere to the university’s academic integrity policy. Cheating o
 
 - **Text Editors**: [VS Code](https://code.visualstudio.com/).
 - [**GitHub**](https://github.com/): For project repositories.
-- **Additional Learning Tools**: 
+- **Additional Learning Tools**:
+  - [Modern JavaScript](https://javascript.info)
+  - [JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   - [The Odin Project](https://www.theodinproject.com/) 
   - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/)
   - [W3Schools](https://www.w3schools.com/).
+  - [CodeMaven JS Game](https://www.crunchzilla.com/code-maven)
+  - [WarriorJS Game](https://warriorjs.com/campaigns/gr42rGaTc4M)
+  - [JSRobot Game](https://github.com/reaalkhalil/JSRobot)
+  - [Elevator Saga JS Game](https://play.elevatorsaga.com/)
 
 ## **References:
 Albers, Josef. Interaction of Color. New Haven: Yale University Press, 1963.
