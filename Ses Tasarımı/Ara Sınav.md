@@ -1,4 +1,4 @@
-**Ses Tasarımı Dersi: Ara Sınav Projesi**
+**Ses Tasarımı ve Efekt Dersi: Ara Sınav Projesi**
 
 ### Proje Başlığı
 **VCV Rack 2 ile Patch Oluşturma**

@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ebc79a21d4cb0e41",
+        "id": "fa3c456f51b4b948",
         "type": "tabs",
         "children": [
           {
-            "id": "026b9fc332c44f60",
+            "id": "e98d75e56c639032",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RTS Teknik Temeller/Syllabus.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +64,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09a842912b11353d",
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTS Teknik Temeller/Syllabus.md",
+                "file": "Web Design/Midterm Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Midterm Project"
             }
           },
           {
@@ -103,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RTS Teknik Temeller/Syllabus.md",
+                "file": "Web Design/Midterm Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Midterm Project"
             }
           },
           {
@@ -117,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RTS Teknik Temeller/Syllabus.md"
-              }
+                "file": "Web Design/Midterm Project.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Midterm Project"
             }
           }
         ]
@@ -147,16 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "026b9fc332c44f60",
+  "active": "e98d75e56c639032",
   "lastOpenFiles": [
+    "Web Design/Midterm Project.md",
+    "Software Applications/Midterm.md",
+    "Ses Tasarımı/Ara Sınav.md",
+    "Ses Tasarımı/Syllabus.md",
+    "Kodlama 1/Ara-Sınav-Projesi.md",
+    "Kodlama 1/Kodlama 1 Syllabus.md",
+    "RTS Teknik Temeller/Syllabus.md",
     "Sanat Tarihi/Syllabus.md",
     "RTS Teknik Temeller/Film Sanatı Çeviri Projesi.md",
     "README.md",
     "Web Design/Syllabus.md",
     "Software Applications/Syllabus.md",
-    "Kodlama 1/Kodlama 1 Syllabus.md",
-    "RTS Teknik Temeller/Syllabus.md",
-    "Ses Tasarımı/Syllabus.md",
     "Kodlama 1/Ara Sınav Projesi.md",
     "Web Design/Final Project.md",
     "lectures.html",
