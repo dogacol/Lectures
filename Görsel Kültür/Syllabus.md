@@ -20,41 +20,46 @@ Bu ders, görsel kültür ve görsel düşünme kavramlarına genel bir giriş y
 
 **Hafta 1: Giriş**
 - Görsel Düşünme ve Görsel Kültür
+- **Okuma**: Arnheim, Görsel Düşünme, Önsöz
 
 **Hafta 2: İlk Sorgulamalar**  
 - Düşünmeden Koparılmış Algı  
 - Güvenilmez Duyular  
 - İki Zihinli Platon  
 - Aristoteles: Aşağıdan ve Yukarıdan  
-- **Okuma**: Arnheim, Görsel Düşünme, Önsöz
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 1
 
 **Hafta 3: Görsel Algıda Zeka - I**  
 - Bilme Yetisi Olarak Algı  
 - Görme Seçicidir  
 - Şekiller Kavramlardır  
 - Eksik Olanı Tamamlama 
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 1 
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 2 
 
 **Hafta 4: Görsel Algıda Zeka - II**  
 - Bağlamı Çekip Çıkarmak  
 - Şeklin Soyutlanması  
 - Çarpıtma ve Soyutlama  
-- Kalıcılık ve Değişim  
+- Kalıcılık ve Değişim 
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 3
 
 **Hafta 5: Parçaları Birleştirmek**  
 - İlişkiler ve Yapı  
 - Benzerlikleri Görmek  
-- Zihin Karşısında Bilgisayar  
+- Zihin Karşısında Bilgisayar
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 4 
 
 **Hafta 6: Şimdideki Geçmiş**  
 - Belleği Etkileyen Kuvvetler  
 - Tamamlanan Algılar  
-- Tanıma ve Görülebilir Boşluklar  
+- Tanıma ve Görülebilir Boşluklar
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 5  
 
 **Hafta 7: Düşüncenin İmgeleri**  
 - Zihinsel İmgeler Neye Benzer?  
 - Görsel İmalar ve Ani Pırıltılar  
-- Bir İmge Ne Kadar Soyut Olabilir?  
+- Bir İmge Ne Kadar Soyut Olabilir?
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 6  
 
 **Hafta 8: Ara Sınav**
 
@@ -62,11 +67,13 @@ Bu ders, görsel kültür ve görsel düşünme kavramlarına genel bir giriş y
 - Soyut Jestler  
 - Çizimlerle Yapılan Deneyler  
 - Görülebilir Eylem Halinde Düşünme  
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 7
 
 **Hafta 10: Resimler, Simgeler ve Göstergeler**  
 - İmgelerin Üç İşlevi  
 - Ticari Markaların Görsel Analizi  
 - Deneyim ve Fikirlerle Etkileşim  
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 8
 
 **Hafta 11: Soyutlama Nedir?**  
 - Zararlı İkilikler  
@@ -75,21 +82,25 @@ Bu ders, görsel kültür ve görsel düşünme kavramlarına genel bir giriş y
 - Statik ve Dinamik Kavramlar  
 - Kavramların Önemli Noktaları  
 - Genelleme Üzerine  
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 9-10
 
-**Hafta 12: Saf Şekillerle Düşünmek**  
-- Görünür Şekiller Olarak Sayılar  
-- Anlamsız Şekillerin Yarattığı Sorunlar  
+**Hafta 12: Saf Formlarla Düşünmek**  
+- Görünür Formlar Olarak Sayılar  
+- Anlamsız Formların Yarattığı Sorunlar  
 - Geometrik Kanıtlar ve Görseller  
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 11-12
 
 **Hafta 13: Sözcüklerin Yeri**  
 - İnsan Sözcüklerle Düşünebilir mi?  
 - Sözcüklerin Görsel İmgelerle Etkileşimi  
 - Sözel ve Resimsel Kavramların Uyumu  
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 13
 
 **Hafta 14: Sanat ve Düşünce**  
 - Çocukların Çizimlerinde Düşünme  
 - Görsel Sanatta Soyut Örüntüler  
 - Bilişsel İşlemler ve Sanat  
+- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 14
 
 **Hafta 15: Final Sınavı**  
 
@@ -101,10 +112,10 @@ Bu ders, görsel kültür ve görsel düşünme kavramlarına genel bir giriş y
 
 #### Kaynaklar:
 - Rudolf Arnheim, *Görsel Düşünme* (Metis Yayınları)
+- Nicholas Mirzoeff, An Introduction to Visual Culture (Routledge)
 - Ek okumalar ve makaleler ders içerisinde paylaşılacaktır.
 
 #### Notlar:
 - Her hafta için belirlenen bölümler dersten önce okunmalıdır.
 - Tartışmalar aktif katılım gerektirmektedir.
 - Final projesi bireysel hazırlanacak ve sınıfta sunulacaktır.
-
