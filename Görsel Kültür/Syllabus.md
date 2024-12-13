@@ -10,100 +10,48 @@ Görüşme Saatleri için eposta gönderiniz.<br>
 Bu ders, görsel kültür ve görsel düşünme kavramlarına genel bir giriş yaparak, görsel algının insan düşüncesi ve kültüre etkilerini incelemeyi amaçlar. Ders, sanat, medya ve güncel olaylar üzerinden görsel düşünme becerilerini geliştirmeyi hedefler.
 
 #### Öğrenim Kazanımları:
-1. Görsel kültür ögelerini analiz eder.
-2. Görsel algı ve düşünce arasındaki bağları değerlendirir.
-3. Sanat ve medyada görsel düşünmenin etkilerini açıklar.
-4. Soyutlama ve kavramsal düşünme becerilerini görsel örneklerle uygular.
-5. Görsel ögeleri kullanarak yaratıcı ve etkili iletişim stratejileri geliştirir.
+1. Resimlerin ve nesnelerin tarihsel, ekonomik ve kültürel bağlamlarını eleştirel bir yaklaşımla analiz eder.
+2. Görüntülerin arzu yaratımı ve tüketiciyle etkileşimini yorumlar.
+3. Nesnelerin ve medyanın toplumsal ve kültürel anlamlarını değerlendirir.
+4. Soyutlama ve kavramsal düşünme becerilerini teknolojik ve sanatsal örneklerle geliştirir.
+5. Tartışmalı görüntüleritoplumsal eleştiriyle inceleyerek yaratıcı çözümler geliştirir.
 
 #### Haftalık Ders Planı:
 
-**Hafta 1: Giriş**
-- Görsel Düşünme ve Görsel Kültür
-- **Okuma**: Arnheim, Görsel Düşünme, Önsöz
+**BÖLÜM BİR: GÖRSELLER**
 
-**Hafta 2: İlk Sorgulamalar**  
-- Düşünmeden Koparılmış Algı  
-- Güvenilmez Duyular  
-- İki Zihinli Platon  
-- Aristoteles: Aşağıdan ve Yukarıdan  
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 1
+1. Giriş:\
+   *Konu: Görüntünün arzuları ve tüketiciyle etkileşimi*
+2. Arzuyu Çizmek\
+   *Konu: Görüntülerın psikanalitik yorumları*
+3. Görüntülerın Artan Değeri\
+   *Konu: Kapitalizmde görüntünün ekonomik boyutları*
 
-**Hafta 3: Görsel Algıda Zeka - I**  
-- Bilme Yetisi Olarak Algı  
-- Görme Seçicidir  
-- Şekiller Kavramlardır  
-- Eksik Olanı Tamamlama 
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 2 
+**BÖLÜM İKİ: NESNELER**
 
-**Hafta 4: Görsel Algıda Zeka - II**  
-- Bağlamı Çekip Çıkarmak  
-- Şeklin Soyutlanması  
-- Çarpıtma ve Soyutlama  
-- Kalıcılık ve Değişim 
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 3
+4. Kurucu Nesneler\
+   *Konu: Sanat ve günlük nesneler arasındaki sınırlar*
+5. Rahatsız Edici Görüntüler\
+   *Konu: Tartışmalı görüntüler ve sansür*
+6. İmparatorluk ve Nesne Olma Durumu\
+   *Konu: Kültürlerarası nesne dolaşımı*
+7. Romantizm ve Eşyanın Hayatı\
+   *Konu: Romantik dönemde nesnelerin anlamı*
+8. Ara Sınav
+9.  Totemizm, Fetişizm, Putperestlik\
+    *Konu: Nesnelere yüklenilen dini ve kültürel anlamlar*
 
-**Hafta 5: Parçaları Birleştirmek**  
-- İlişkiler ve Yapı  
-- Benzerlikleri Görmek  
-- Zihin Karşısında Bilgisayar
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 4 
-
-**Hafta 6: Şimdideki Geçmiş**  
-- Belleği Etkileyen Kuvvetler  
-- Tamamlanan Algılar  
-- Tanıma ve Görülebilir Boşluklar
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 5  
-
-**Hafta 7: Düşüncenin İmgeleri**  
-- Zihinsel İmgeler Neye Benzer?  
-- Görsel İmalar ve Ani Pırıltılar  
-- Bir İmge Ne Kadar Soyut Olabilir?
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 6  
-
-**Hafta 8: Ara Sınav**
-
-**Hafta 9: Kavramlar Biçimlenmeye Başlıyor**  
-- Soyut Jestler  
-- Çizimlerle Yapılan Deneyler  
-- Görülebilir Eylem Halinde Düşünme  
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 7
-
-**Hafta 10: Resimler, Simgeler ve Göstergeler**  
-- İmgelerin Üç İşlevi  
-- Ticari Markaların Görsel Analizi  
-- Deneyim ve Fikirlerle Etkileşim  
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 8
-
-**Hafta 11: Soyutlama Nedir?**  
-- Zararlı İkilikler  
-- Soyutlama Genellemeye Dayanır mı?  
-- Soyutlamaya Karşı Örnekleme  
-- Statik ve Dinamik Kavramlar  
-- Kavramların Önemli Noktaları  
-- Genelleme Üzerine  
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 9-10
-
-**Hafta 12: Saf Formlarla Düşünmek**  
-- Görünür Formlar Olarak Sayılar  
-- Anlamsız Formların Yarattığı Sorunlar  
-- Geometrik Kanıtlar ve Görseller  
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 11-12
-
-**Hafta 13: Sözcüklerin Yeri**  
-- İnsan Sözcüklerle Düşünebilir mi?  
-- Sözcüklerin Görsel İmgelerle Etkileşimi  
-- Sözel ve Resimsel Kavramların Uyumu  
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 13
-
-**Hafta 14: Sanat ve Düşünce**  
-- Çocukların Çizimlerinde Düşünme  
-- Görsel Sanatta Soyut Örüntüler  
-- Bilişsel İşlemler ve Sanat  
-- **Okuma**: Arnheim, Görsel Düşünme, Bölüm 14
-
-**Hafta 15: Final Sınavı**  
-
+**BÖLÜM ÜÇ: MEDYA**
+10. Medyayı Ele Almak\
+    *Konu: Medyanın iletişimdeki rolü*
+11. Soyutlama ve Yakınlık\
+    *Konu: Soyut sanat ve izleyici arasındaki ilişki*
+12. Biyokibernetik Çoğaltım Çağında Sanatın İşi\
+    *Konu: Teknoloji ve sanat*
+13. Görmeyi Göstermek: Görsel Kültüre Dair Bir Eleştiri\
+    *Konu: Görsel kültürün eleştirel bir değerlendirmesi*
+14. Genel Değerlendirme
+15. Final Sınavı
 
 #### Değerlendirme:
 - Haftalık Okuma Tartışmaları (%10 Ara Sınav + %10 Final Notu)
@@ -111,8 +59,10 @@ Bu ders, görsel kültür ve görsel düşünme kavramlarına genel bir giriş y
 - Final Sınavı: Bir Tasarım Ürününün Görsel Analizi (%50)
 
 #### Kaynaklar:
+- W. J. T. Mitchell, What Do Pictures Want?: The Lives and Loves of Images. Chicago, IL: U of Chicago P, 2005
 - Rudolf Arnheim, *Görsel Düşünme* (Metis Yayınları)
 - Nicholas Mirzoeff, An Introduction to Visual Culture (Routledge)
+- John Berger, Görme Biçimleri (Metis Yayınları)
 - Ek okumalar ve makaleler ders içerisinde paylaşılacaktır.
 
 #### Notlar:
