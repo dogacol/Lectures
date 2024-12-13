@@ -1,0 +1,20 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore .obsidian folder
+.obsidian/
+
+# Ignore .gitattributes file
+.gitattributes
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore backup files
+*~
+
+# Ignore other system files
+Thumbs.db
