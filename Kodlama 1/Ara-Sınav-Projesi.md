@@ -1,13 +1,12 @@
 # Kodlama 1 Ara Sınav
   
 **Ara Sınav Proje Yönergesi: “Adam Asmaca Oyunu”**
+Medya ve Görsel Sanatlar 4. Sınıf - Kodlama 1 Dersi
 
 ## Proje Açıklaması:
-
 Bu projede, klasik “Adam Asmaca” oyununu C programlama dilinde uygulamanız beklenmektedir. Oyunda, program gizli bir kelime seçer ve oyuncu sınırlı sayıda deneme ile bu kelimeyi harf harf tahmin etmeye çalışır. Her yanlış tahminde, oyuncunun kalan hakkı azalır ve oyunun görsel temsilinde bir adım daha ilerlenir.
 
 ## Proje Gereksinimleri:
-
 1. **Kelime Seçimi:**
    - Program, önceden tanımlanmış bir kelime listesinden rastgele bir kelime seçmelidir.
    - Kelime listesi en az 10 farklı kelimeden oluşmalıdır.
@@ -33,8 +32,7 @@ Bu projede, klasik “Adam Asmaca” oyununu C programlama dilinde uygulamanız 
    - Kodunuz okunabilir ve iyi yapılandırılmış olmalıdır.
    - Değişken isimleri anlamlı seçilmeli ve kod içinde gerekli yorum satırları bulunmalıdır.
 
-## Opsiyonel Özellikler (Ekstra Kredi):
-
+## Opsiyonel Özellikler (Ekstra Puan):
 - **Grafiksel Temsil:**
   - Konsol çıktısı kullanarak adam asmaca görselini adım adım oluşturabilirsiniz.
 - **Kelime Listesini Dosyadan Okuma:**
@@ -45,7 +43,6 @@ Bu projede, klasik “Adam Asmaca” oyununu C programlama dilinde uygulamanız 
   - Farklı zorluk seviyeleri ekleyerek (kolay, orta, zor) kelime uzunluklarını veya tahmin haklarını değiştirebilirsiniz.
 
 ## Teslim Bilgileri:
-
 - **Son Teslim Tarihi:** **Ara Sınav Haftası Son Günü 24.11.2024**
 - **Teslim Edilecekler:**
   - Tüm kaynak kodları içeren `.c` ve varsa `.h` dosyaları.
@@ -54,7 +51,6 @@ Bu projede, klasik “Adam Asmaca” oyununu C programlama dilinde uygulamanız 
 - GitHub Linki Üzerinden teslim edilmelidir: [https://classroom.github.com/a/fBZNzq9V](https://classroom.github.com/a/fBZNzq9V)
 
 ## Değerlendirme Kriterleri:
-
 1. **Fonksiyonellik (60 Puan):**
    - Programın temel gereksinimleri karşılaması ve hatasız çalışması.
 2. **Kod Kalitesi (20 Puan):**
@@ -65,7 +61,6 @@ Bu projede, klasik “Adam Asmaca” oyununu C programlama dilinde uygulamanız 
    - Eklenen opsiyonel özellikler ve programın özgünlüğü.
 
 ## Notlar:
-
 - **Akademik Dürüstlük:** *Bu proje bireyseldir ve tüm çalışmalarınız size ait olmalıdır. Başkalarının kodlarını kopyalamaktan kaçının.*
 
 **Başarılar**
