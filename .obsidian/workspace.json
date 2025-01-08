@@ -11,10 +11,14 @@
             "id": "e98d75e56c639032",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Web Design/Final Project.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Final Project"
             }
           }
         ]
@@ -160,6 +164,10 @@
   },
   "active": "e98d75e56c639032",
   "lastOpenFiles": [
+    "Software Applications/Final.md",
+    "Software Applications/Syllabus.md",
+    "Ses Tasarımı/Final.md",
+    "Kodlama 1/Final.md",
     "Web Design/Midterm Project.md",
     "Software Applications/Midterm.md",
     "Ses Tasarımı/Ara Sınav.md",
@@ -171,7 +179,6 @@
     "RTS Teknik Temeller/Film Sanatı Çeviri Projesi.md",
     "README.md",
     "Web Design/Syllabus.md",
-    "Software Applications/Syllabus.md",
     "Kodlama 1/Ara Sınav Projesi.md",
     "Web Design/Final Project.md",
     "lectures.html",
