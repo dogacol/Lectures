@@ -31,7 +31,7 @@ Bu projede, **p5.js** kullanarak bir etkileşimli tasarım projesi geliştirmeni
 - **Grafik Dosyaları:** Eğer Illustrator veya benzeri bir yazılım kullanıldıysa, hazırlanan görsel dosyalar (.ai, .svg vb.) teslim edilmelidir.  
 - **Ekran Görüntüsü:** Projenin tarayıcıda çalışan halini gösteren bir ekran görüntüsü eklenmelidir.  
 - **Kısa Proje Açıklaması:** Tasarım süreci, kullanılan grafiklerin oluşturulma yöntemi ve etkileşimlerin açıklamalarını içeren bir doküman (PDF) hazırlanmalıdır.  
-- Projeler **GitHub** üzerinden paylaşılmalıdır. Teslim bağlantısı: https://classroom.github.com/a/GSTj_U4P
+- Projeler **Teams** üzerinden paylaşılmalıdır.
 
 #### **Değerlendirme Kriterleri:**  
 - **Tasarım ve Görsellik (40%)**  
