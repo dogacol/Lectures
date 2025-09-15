@@ -28,7 +28,7 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 ### **Hafta 3: Anlatı Biçimi I – Temel İlkeler**
 
 * **Okuma**: Bölüm 3 (ilk yarı): Anlatı sisteminin işleyişi, nedensellik, zaman, mekân
-* **Film**: *The Searchers* (John Ford, 1956)
+* **Film**: *Casablanca* (Michael Curtiz, 1942)
 * **TV**: *Lost – “Pilot, Part 1”* (S01E01, 2004)
 
 ### **Hafta 4: Anlatı Biçimi II – Alternatif Yapılar**
@@ -52,7 +52,7 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 ### **Hafta 7: Sinematografi I – Kadraj ve Çekim**
 
 * **Okuma**: Bölüm 5 (ilk yarı)
-* **Film**: *Rear Window* (Alfred Hitchcock, 1954)
+* **Film**: *The Searchers* (John Ford, 1956)
 * **TV**: *True Detective – “Who Goes There”* (S01E04, 2014)
   
 ### **Hafta 8: Ara Sınav**
@@ -62,7 +62,7 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 ### **Hafta 9: Sinematografi II – Kamera Hareketi ve Renk**
 
 * **Okuma**: Bölüm 5 (ikinci yarı)
-* **Film**: *The Shining* (Stanley Kubrick, 1980)
+* **Film**: *Vertigo* (Alfred Hitchcock, 1958)
 * **TV**: *Better Call Saul – “Chicanery”* (S03E05, 2017)
   
 ### **Hafta 10: Kurgu I – Devamlılık Kurgusu**
