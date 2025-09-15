@@ -26,7 +26,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
     - Bölüm 8: _Döküm Potasında Batı Sanatı_ (Sayfa 157)
 	- Bölüm 9: _Yeryüzü Kilisesi_ (Sayfa 171)
 - **Videolar**:
-    - [Gotik Mimarinin Tanıtımı](https://tr.khanacademy.org/humanities/medieval-world/gothic1/v/gothic-architecture-an-introduction)
+    - [Gotik Mimarinin Tanıtımı](https://tr.khanacademy.org/humanities/medieval-world/gothic-art/beginners-guide-gothic-art/v/gothic-architecture-explained)
     - [Fransa'da Gotik Sanat](https://tr.khanacademy.org/humanities/medieval-world/gothic-art/gothic-art-in-france/v/birth-of-the-gothic-abbot-suger-and-the-ambulatory-in-the-basilica-of-st-denis-1140-44)
 ### Ders 3 - Erken Rönesans İtalya
 - **Konular**: Giotto'dan Masaccio'ya Hristiyan sanatı, ikonografinin doğuşu
