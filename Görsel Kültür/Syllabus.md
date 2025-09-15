@@ -1,71 +1,42 @@
-### Ders Adı: Görsel Kültür ve Algı
+## Ders Bilgisi
+- **Dersin Adı:** Görsel Kültür    
+- **Dersi Veren:** Dr. Öğr. Üye. Doğa Çöl  
 
-**Dersi veren:** Dr. Öğr. Üye. Doğa Çöl<br>
-**Eposta**: dcol@medipol.edu.tr<br>
-**Oda**: İletişim Fakültesi B413<br>
-Görüşme Saatleri için eposta gönderiniz.<br>
-**Ders saatleri**: <br>
+---
 
-#### Ders Tanımı:
-Bu ders, görsel kültür ve görsel düşünme kavramlarına genel bir giriş yaparak, görsel algının insan düşüncesi ve kültüre etkilerini incelemeyi amaçlar. Ders, sanat, medya ve güncel olaylar üzerinden görsel düşünme becerilerini geliştirmeyi hedefler.
+## Dersin Amacı
+Bu ders, görsel kültürün temel kavram ve tartışmalarına giriş niteliğindedir. Görsel kültürün tanımıyla başlayarak imge ve temsil, göstergeler ve ikonlar, görsel anlam ve değer konularını ele alır. Ardından ideoloji ve imge ilişkisini inceleyerek görsel kültürü modernite ve modernizm bağlamına yerleştirir.  
 
-#### Öğrenim Kazanımları:
-1. Resimlerin ve nesnelerin tarihsel, ekonomik ve kültürel bağlamlarını eleştirel bir yaklaşımla analiz eder.
-2. Görüntülerin arzu yaratımı ve tüketiciyle etkileşimini yorumlar.
-3. Nesnelerin ve medyanın toplumsal ve kültürel anlamlarını değerlendirir.
-4. Soyutlama ve kavramsal düşünme becerilerini teknolojik ve sanatsal örneklerle geliştirir.
-5. Tartışmalı görüntüleritoplumsal eleştiriyle inceleyerek yaratıcı çözümler geliştirir.
+Dersin merkezinde bakış ve başkalık tartışmaları ile gerçekçilik ve bakış açısının görme biçimlerini nasıl şekillendirdiği yer alır. Dönemin ikinci yarısında görsel teknolojiler, yeniden üretim ve kopya, gündelik yaşamda medyanın rolü gibi konular incelenir. Son haftalarda postmodernizm ve ötesindeki gelişmeler tartışılır.  
 
-#### Haftalık Ders Planı:
+Öğrenciler, imgelerin siyaseti, ideolojik işlevleri ve sanat, reklamcılık, popüler kültür, bilim ve dijital platformlar gibi mecralarda dolaşımı üzerine eleştirel bir analiz geliştireceklerdir.
 
-**BÖLÜM BİR: GÖRSELLER**
 
-1. Giriş:\
-   *Konu: Görüntünün arzuları ve tüketiciyle etkileşimi*
-2. Arzuyu Çizmek\
-   *Konu: Görüntülerın psikanalitik yorumları*
-3. Görüntülerın Artan Değeri\
-   *Konu: Kapitalizmde görüntünün ekonomik boyutları*
 
-**BÖLÜM İKİ: NESNELER**
+---
 
-4. Kurucu Nesneler\
-   *Konu: Sanat ve günlük nesneler arasındaki sınırlar*
-5. Rahatsız Edici Görüntüler\
-   *Konu: Tartışmalı görüntüler ve sansür*
-6. İmparatorluk ve Nesne Olma Durumu\
-   *Konu: Kültürlerarası nesne dolaşımı*
-7. Romantizm ve Eşyanın Hayatı\
-   *Konu: Romantik dönemde nesnelerin anlamı*
-8. Ara Sınav
-9.  Totemizm, Fetişizm, Putperestlik\
-    *Konu: Nesnelere yüklenilen dini ve kültürel anlamlar*
+## Ders Akışı
 
-**BÖLÜM ÜÇ: MEDYA**
-10. Medyayı Ele Almak\
-    *Konu: Medyanın iletişimdeki rolü*
-11. Soyutlama ve Yakınlık\
-    *Konu: Soyut sanat ve izleyici arasındaki ilişki*
-12. Biyokibernetik Çoğaltım Çağında Sanatın İşi\
-    *Konu: Teknoloji ve sanat*
-13. Görmeyi Göstermek: Görsel Kültüre Dair Bir Eleştiri\
-    *Konu: Görsel kültürün eleştirel bir değerlendirmesi*
-14. Genel Değerlendirme
-15. Final Sınavı
+| Hafta | Konu | Ön Hazırlık |
+|-------|------|-------------|
+| 1 | Giriş | Sturken ss. 1–13; Berger ss. 7–9 |
+| 2 | Görsel Kültür Nedir? | Sturken ss. 1–13; Berger ss. 7–15 |
+| 3 | İmge ve Temsil | Sturken ss. 13–29; Berger ss. 13–29 |
+| 4 | Göstergeler ve İkonlar | Sturken ss. 29–51; Berger ss. 29–35 |
+| 5 | Görsel Anlam ve Değer | Sturken ss. 51–74; Berger ss. 36–44 |
+| 6 | İmge ve İdeoloji | Sturken ss. 74–89; Berger ss. 45–55 |
+| 7 | Modernite ve Modernizm | Sturken ss. 89–103; Berger ss. 15–20, 30–35 |
+| 8 | Ara Sınav | İlk yedi haftanın tüm konuları |
+| 9 | Bakış ve Başkalık | Sturken ss. 103–139; Berger ss. 55–74 |
+| 10 | Gerçekçilik ve Bakış Açısı | Sturken ss. 139–179; Berger ss. 104–109 |
+| 11 | Görsel Teknolojiler, Yeniden Üretim ve Kopya | Sturken ss. 179–219; Berger ss. 15–20, 30–35, 104–109 |
+| 12 | Gündelik Yaşamda Medya ve Tüketim İmgeleri | Sturken ss. 219–257; Berger ss. 130–133 |
+| 13 | Postmodernizm | Sturken ss. 301–337; Berger ss. 149–155 |
+| 14 | Genel Bakış ve Post-postmodernizm | Berger ss. 151–155 |
+| 15 | Genel Sınav | |
 
-#### Değerlendirme:
-- Haftalık Okuma Tartışmaları (%10 Ara Sınav + %10 Final Notu)
-- Ara Sınav: Araştırma Notları (%30)
-- Final Sınavı: Bir Tasarım Ürününün Görsel Analizi (%50)
+---
 
-#### Kaynaklar:
-- W. J. T. Mitchell, What Do Pictures Want?: The Lives and Loves of Images. Chicago, IL: U of Chicago P, 2005
-- Rudolf Arnheim, *Görsel Düşünme* (Metis Yayınları)
-- Nicholas Mirzoeff, An Introduction to Visual Culture (Routledge)
-- John Berger, Görme Biçimleri (Metis Yayınları)
-- Ek okumalar ve makaleler ders içerisinde paylaşılacaktır.
-
-#### Notlar:
-- Her hafta için belirlenen bölümler dersten önce okunmalıdır.
-- Tartışmalar aktif katılım gerektirmektedir.
-- Final projesi bireysel hazırlanacak ve sınıfta sunulacaktır.
+## Değerlendirme  
+- Ara Sınav: %40   
+- Genel Sınav: %60  
