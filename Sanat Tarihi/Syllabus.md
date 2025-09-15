@@ -4,25 +4,13 @@
 **Eposta**: dcol@medipol.edu.tr<br>
 **Oda**: İletişim Fakültesi B413<br>
 Görüşme Saatleri için eposta gönderiniz.<br>
-**Ders saatleri**: Perşembe 9-11 arası.<br>
+**Ders saatleri**: Cuma 10:30-12:00.<br>
 
 ## **Dersin Amacı**
 
 Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini tarihsel dönemler içerisinde inceleyerek öğrencilerle birlikte bütüncül bir araştırma yapmayı amaçlamaktadır. Derste görsel sanatın tarihsel anlamda en kapsamlı temsillerinden olan resim üzerine odaklanılacaktır. Eserlerin kültürel bağlamları, tarih boyunca sanatın değişen ve evrimleşen edimsel ve işlevsel yönleri tartışılacaktır.
-## **Öğrenim Çıktıları**
 
-Dersin sonunda öğrenciler:
-1. Sanat tarihinin temel dönemlerini ve bu dönemlerde üretilen sanat eserlerinin özelliklerini açıklar.
-2. Farklı sanat akımlarını ve bu akımların sanat eserlerindeki etkilerini karşılaştırır.
-3. Bir sanat eserini tarihsel ve kültürel bağlamda analiz eder.
-4. Sanat eserlerinin toplumsal işlevlerini ve bu işlevlerin zaman içindeki değişimini değerlendirir.
-5. Görsel analiz ve eleştirel düşünme becerilerini geliştirerek, sanat eserlerini değerlendirme yeteneği kazanır.
 
-## **Öğretim Modelleri**
-
-- **Anlatım**: Öğrencilere sanat eserlerinin tarihsel ve kültürel bağlamlarını açıklamak için kullanılacaktır.
-- **Tartışma**: Sanat eserleri ve akımları üzerinde sınıf içi tartışmalar düzenlenecektir.
-- **Görsel Analiz**: Öğrenciler, sanat eserlerini inceleyip analiz edecek ve sonuçlarını sınıf ortamında sunacaktır.
 ## **Haftalık Ders Konuları**
 
 ### Ders 1 - Sanat Tarihi ve Tarihsel Araştırmaya Giriş
@@ -30,7 +18,7 @@ Dersin sonunda öğrenciler:
 - **Okumalar**:
     - Gombrich. Sanat ve Sanatçılar, s. 15.
 - **Videolar**:
-    - [Batı kültürünün kısa tarihi: ](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-western-culture)
+    - [Batı kültürünün kısa tarihi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/a-brief-history-of-western-culture)
     - [Tarihlerin önemi](https://tr.khanacademy.org/humanities/art-history/intro-art-history/a/common-questions-about-dates)
 ### Ders 2 - Ortaçağ'ın Sonu ve Gotik Sanat
 - **Konular**: Ortaçağın tarihsel ve sanatsal arkaplanı
