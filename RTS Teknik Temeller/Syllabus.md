@@ -40,7 +40,7 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 ### **Hafta 5: Mizansen I – Mekân, Kostüm, Işık**
 
 * **Okuma**: Bölüm 4 (ilk yarı)
-* **Film**: *The Rules of the Game* (Jean Renoir, 1939)
+* **Film**: *La règle du jeu* (Jean Renoir, 1939)
 * **TV**: *Peaky Blinders – “Episode 1”* (S01E01, 2013)
 
 ### **Hafta 6: Mizansen II – Oyunculuk ve Kompozisyon**
