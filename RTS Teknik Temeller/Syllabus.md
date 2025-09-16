@@ -23,37 +23,37 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 
 * **Okuma**: Bölüm 2: Film Biçimi
 * **Film**: *The Wizard of Oz* (Victor Fleming, 1939)
-* **TV**: *Breaking Bad – “Pilot”* (S01E01, 2008)
+
 
 ### **Hafta 3: Anlatı Biçimi I – Temel İlkeler**
 
 * **Okuma**: Bölüm 3 (ilk yarı): Anlatı sisteminin işleyişi, nedensellik, zaman, mekân
 * **Film**: *Casablanca* (Michael Curtiz, 1942)
-* **TV**: *Lost – “Pilot, Part 1”* (S01E01, 2004)
+
 
 ### **Hafta 4: Anlatı Biçimi II – Alternatif Yapılar**
 
 * **Okuma**: Bölüm 3 (ikinci yarı): Klasik Hollywood anlatısı, alternatif anlatılar
 * **Film**: *Citizen Kane* (Orson Welles, 1941)
-* **TV**: *The X-Files – “Clyde Bruckman’s Final Repose”* (S03E04, 1995)
+
   
 ### **Hafta 5: Mizansen I – Mekân, Kostüm, Işık**
 
 * **Okuma**: Bölüm 4 (ilk yarı)
 * **Film**: *La règle du jeu* (Jean Renoir, 1939)
-* **TV**: *Peaky Blinders – “Episode 1”* (S01E01, 2013)
+
 
 ### **Hafta 6: Mizansen II – Oyunculuk ve Kompozisyon**
 
 * **Okuma**: Bölüm 4 (ikinci yarı)
 * **Film**: *M* (Fritz Lang, 1931)
-* **TV**: *The Wire – “The Target”* (S01E01, 2002)
+
   
 ### **Hafta 7: Sinematografi I – Kadraj ve Çekim**
 
 * **Okuma**: Bölüm 5 (ilk yarı)
-* **Film**: *The Searchers* (John Ford, 1956)
-* **TV**: *True Detective – “Who Goes There”* (S01E04, 2014)
+* **Film**: *Faust* (F.W. Murnau, 1926)
+
   
 ### **Hafta 8: Ara Sınav**
 
@@ -62,32 +62,32 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 ### **Hafta 9: Sinematografi II – Kamera Hareketi ve Renk**
 
 * **Okuma**: Bölüm 5 (ikinci yarı)
-* **Film**: *Vertigo* (Alfred Hitchcock, 1958)
-* **TV**: *Better Call Saul – “Chicanery”* (S03E05, 2017)
+* **Film**: *The Grand Budapest Hotel* (Wes Anderson, 2014)
+
   
 ### **Hafta 10: Kurgu I – Devamlılık Kurgusu**
 
 * **Okuma**: Bölüm 6 (ilk yarı)
-* **Film**: *Jaws* (Steven Spielberg, 1975)
-* **TV**: *The West Wing – “In Excelsis Deo”* (S01E10, 1999)
+* **Film**: *The Maltese Falcon* (John Huston, 1941)
+
   
 ### **Hafta 11: Kurgu II – Süreksizlik ve Deneysel Kullanımlar**
 
 * **Okuma**: Bölüm 6 (ikinci yarı)
 * **Film**: *À bout de souffle* (Jean-Luc Godard, 1960)
-* **TV**: *Mr. Robot – “eps1.0_hellofriend.mov”* (S01E01, 2015)
+
   
 ### **Hafta 12: Ses I – Sesin Temel Ögeleri**
 
 * **Okuma**: Bölüm 7 (ilk yarı)
-* **Film**: *Singin’ in the Rain* (Stanley Donen & Gene Kelly, 1952)
-* **TV**: *Buffy the Vampire Slayer – “Hush”* (S04E10, 1999)
+* **Film**: *Jules et Jim* (François Truffaut, 1962)
+
   
 ### **Hafta 13: Ses II – Ses Tasarımı ve Anlatıda Kullanımı**
 
 * **Okuma**: Bölüm 7 (ikinci yarı) + Bölüm 8’den seçili sayfalar
 * **Film**: *The Conversation* (Francis Ford Coppola, 1974)
-* **TV**: *Black Mirror – “Metalhead”* (S04E05, 2017)
+
   
 ### **Hafta 14: Genel Değerlendirme**
 
