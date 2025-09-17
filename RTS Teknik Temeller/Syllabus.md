@@ -95,14 +95,31 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 
 ---
 
-## **Değerlendirme ve Notlandırma**
+#### Ödevler ve Sınavlar
+1. **Birinci Düşünce Yazısı** - 3. derste teslim edilecek - 10 puan
+2. **İkinci Düşünce Yazısı** - 6. derste teslim edilecek - 10 puan
+3. **Üçüncü Düşünce Yazısı** - 9. derste teslim edilecek - 10 puan
+4. **Dördüncü Düşünce Yazısı -** 12. derste teslim edilecek - 10 puan
+5. **Ara sınav**: Yedinci haftaya kadar tüm konuları içeren çoktan seçmeli sınav - 25 puan
+6. **Final Sınavı**: Tüm ders konuları hakkında çoktan seçmeli sınav - 25 puan
+    
+## **Derse Katılım:**
+Öğrencilerin tüm derslere zamanında ve düzenli olarak katılmaları gerekmektedir. Devam ve katılım zorunluluğu, dersin başarı kriterlerinden biridir ve bu kuralın ihlali durumunda öğrenci, dersten başarısız sayılabilir. 
 
-1. **Ara Sınav** – %40 
-2. **Final Sınavı** – %60 
+İstanbul Medipol Üniversitesi İletişim Fakültesi Eğitim Öğretim Yönergesi İkinci Bölüm 7. Madde 3. ve 4. fıkralarında belirtildiği gibi
+(3)Derslere devam konusunda, İstanbul Medipol Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliğinin 26. Maddesinin 1. fıkrası olan “... devamsızlık sınırlarının belirlenmesi ile öğrencilerin devam durumlarının izlenmesi, ilgili öğretim üyesinin sorumluluğundadır. Ancak devam zorunluluğu, teorik dersler için %70, uygulamalı dersler için %80’den fazla olamaz. Öğretim elemanı tarafından devamsızlık sınırını aştığı belgelenen öğrenciler o dersin genel sınavına alınmaz.” hükmü uygulanır. Devamsızlığın hesaplanmasında, Üniversite ve **Üniversiteye bağlı birimlerin görevlendirmeleri dışında, sağlık raporu da dâhil olmak üzere öğrencinin mazereti dikkate alınmaz.**
+(4) Herhangi bir derse devam koşulunu yerine getirdikleri halde, başarısızlıkları nedeniyle kalan öğrenciler için tekrar alacakları derse devam şartı aranmaz. Bu durumdaki öğrenciler, çakışan derslere de kayıt yaptırabilirler. Ancak, öğrenci bu derslerin proje, laboratuvar, uygulama, ara sınav ve benzeri çalışmalarına katılmak ve yükümlülüklerini yerine getirmek zorundadır.
+(5) Devamsızlık oranı İstanbul Medipol Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliğinin 26. maddesinin 1. fıkrasında açıklanan devamsızlık sınırını aşınca o ders için öğrenciye F2 notu verilir ve öğrenci ilgili dersin dönem sonu genel sınavına giremez.
 
-## **Katılım ve Devam**
+## **Ödevlere ilişkin kurallar**
+**Teslim Tarihleri:**
+Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.<br>
+**Düşünce Yazıları:**
+Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste konuşulan bir kavram, dönem, sanatçı veya eserle ilgili olmalıdır. Tamamen öğrenci tarafından yazılmalıdır. Derste teslim edilmelidir.
 
-- Derse devamlılık ve aktif katılım zorunludur.
+## **Akademik dürüstlük:**
+Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır.
+
 
 ## **Kaynaklar**
 

@@ -109,7 +109,8 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
 - Videolar:
     - [Pop Art](https://tr.khanacademy.org/humanities/art-1010/xdc974a79:pop-art)
 ### Ders 15 - Final Sınavı
-Ödevler ve Sınavlar
+
+#### Ödevler ve Sınavlar
 1. **Birinci Düşünce Yazısı** - 3. derste teslim edilecek - 10 puan
 2. **İkinci Düşünce Yazısı** - 6. derste teslim edilecek - 10 puan
 3. **Üçüncü Düşünce Yazısı** - 9. derste teslim edilecek - 10 puan
@@ -124,13 +125,12 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
 (3)Derslere devam konusunda, İstanbul Medipol Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliğinin 26. Maddesinin 1. fıkrası olan “... devamsızlık sınırlarının belirlenmesi ile öğrencilerin devam durumlarının izlenmesi, ilgili öğretim üyesinin sorumluluğundadır. Ancak devam zorunluluğu, teorik dersler için %70, uygulamalı dersler için %80’den fazla olamaz. Öğretim elemanı tarafından devamsızlık sınırını aştığı belgelenen öğrenciler o dersin genel sınavına alınmaz.” hükmü uygulanır. Devamsızlığın hesaplanmasında, Üniversite ve **Üniversiteye bağlı birimlerin görevlendirmeleri dışında, sağlık raporu da dâhil olmak üzere öğrencinin mazereti dikkate alınmaz.**
 (4) Herhangi bir derse devam koşulunu yerine getirdikleri halde, başarısızlıkları nedeniyle kalan öğrenciler için tekrar alacakları derse devam şartı aranmaz. Bu durumdaki öğrenciler, çakışan derslere de kayıt yaptırabilirler. Ancak, öğrenci bu derslerin proje, laboratuvar, uygulama, ara sınav ve benzeri çalışmalarına katılmak ve yükümlülüklerini yerine getirmek zorundadır.
 (5) Devamsızlık oranı İstanbul Medipol Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliğinin 26. maddesinin 1. fıkrasında açıklanan devamsızlık sınırını aşınca o ders için öğrenciye F2 notu verilir ve öğrenci ilgili dersin dönem sonu genel sınavına giremez.
+
 ## **Ödevlere ilişkin kurallar**
 **Teslim Tarihleri:**
 Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.<br>
 **Düşünce Yazıları:**
 Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste konuşulan bir kavram, dönem, sanatçı veya eserle ilgili olmalıdır. Tamamen öğrenci tarafından yazılmalıdır. Derste teslim edilmelidir.
-
-
 
 ## **Akademik dürüstlük:**
 Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır.
