@@ -2,9 +2,9 @@
 
 **Dersi veren:** Dr. Öğr. Üye. Doğa Çöl<br>
 **Eposta**: dcol@medipol.edu.tr<br>
-**Oda**: İletişim Fakültesi B413<br>
+**Oda**: İletişim Fakültesi B408<br>
 Görüşme Saatleri için eposta gönderiniz.<br>
-**Ders saatleri**: Cuma 10:30-12:00.<br>
+**Ders saatleri**: Perşembe 10:00-12:00.<br>
 
 ## **Dersin Amacı**
 
