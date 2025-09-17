@@ -1,6 +1,11 @@
-## Ders Bilgisi
-- **Dersin Adı:** Görsel Kültür    
-- **Dersi Veren:** Dr. Öğr. Üye. Doğa Çöl  
+
+# **Görsel Kültür Haftalık İzlence**
+
+**Dersi Veren**: Dr. Öğr. Üye. Doğa Çöl  
+**E-posta**: dcol@medipol.edu.tr  
+**Oda**: İletişim Fakültesi B408  
+**Görüşme Saatleri**: Randevu için e-posta gönderiniz.  
+**Ders Saatleri**: Perşembe 14:30 - 16:00
 
 ---
 

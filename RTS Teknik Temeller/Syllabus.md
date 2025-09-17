@@ -1,5 +1,5 @@
 
-# **Radyo, Televizyon ve Sinemanın Teknik Temelleri Dersi İzlencesi**
+# **Radyo, Televizyon ve Sinemanın Teknik Temelleri Haftalık İzlence**
 
 **Dersi Veren**: Dr. Öğr. Üye. Doğa Çöl  
 **E-posta**: dcol@medipol.edu.tr  

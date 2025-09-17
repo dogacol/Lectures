@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Syllabus"
             }
+          },
+          {
+            "id": "3a60b21203583603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Görsel Kültür/Syllabus.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Syllabus"
+            }
           }
         ]
       }
@@ -166,8 +180,11 @@
   },
   "active": "e98d75e56c639032",
   "lastOpenFiles": [
-    "RTS Teknik Temeller/Syllabus.md",
+    "Görsel Kültür/Syllabus.md",
+    "Sinema Felsefesi/Syllabus.md",
     "Sanat Tarihi/Syllabus.md",
+    "RTS Teknik Temeller/Syllabus.md",
+    "Sinema Felsefesi",
     "Software Applications/Final.md",
     "Software Applications/Syllabus.md",
     "Ses Tasarımı/Final.md",

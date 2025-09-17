@@ -1,4 +1,4 @@
-## Sanat Tarihi Syllabus
+# **Sanat Tarihi Haftalık İzlence**
 
 **Dersi veren:** Dr. Öğr. Üye. Doğa Çöl<br>
 **Eposta**: dcol@medipol.edu.tr<br>
@@ -130,7 +130,223 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
 **Teslim Tarihleri:**
 Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.<br>
 **Düşünce Yazıları:**
-Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste konuşulan bir kavram, dönem, sanatçı veya eserle ilgili olmalıdır. Tamamen öğrenci tarafından yazılmalıdır. Derste teslim edilmelidir.
+
+
+# Düşünce Yazısı Yönergeleri · Sanat Tarihi
+
+## Amaç
+
+Bir sanat eserinde biçimin anlam üretme biçimini, derste işlenen kaynaklara ve kanıta dayalı olarak göstermek.
+
+## Teslim Tarihleri
+
+3. hafta, 6. hafta, 9. hafta, 12. hafta. Derste teslim edilir.
+    
+
+## Teslim Edilecekler
+
+1. Deneme: 900–1.200 kelime, tek satır aralığı, 12 punto, PDF.
+    
+2. Bir sayfalık Gözlem Günlüğü: taranmış veya fotoğraflanmış, PDF’nin 2. sayfası.
+    
+3. 5×5 ızgara üzerine el çizimi kompozisyon haritası, eksen etiketli, PDF’nin 3. sayfası.
+    
+4. 150–200 kelimelik karşılaştırma paragrafı, PDF’nin 4. sayfası.
+    
+5. Yapay Zekâ Kullanım Ek’i (varsa), son sayfaya.
+    
+
+## Konu Seçimi (Haftalara Göre)
+
+- Hafta 3: Geç Gotik veya Erken Rönesans İtalya.
+    
+- Hafta 6: Yüksek Rönesans, Kuzey Rönesans veya Maniyerizm.
+    
+- Hafta 9: Barok, Rokoko veya İngiliz portre sanatı.
+    
+- Hafta 12: Romantizm, Realizm, Empresyonizm, Post-Empresyonizm veya Erken Modernizm.
+    
+
+Ana eser haftalık listelerden veya büyük bir müze koleksiyonundan seçilmeli.
+
+## Ön Yazım Gözlem Protokolü (Gözlem Günlüğüne eklenecek)
+
+- Yüksek çözünürlüklü görüntüye 10 dakika bakın. İlk 3 dakikada not yok.
+    
+- Dakika 4–10: her 45–60 saniyede bir zaman damgalı kısa gözlemler yazın. Sadece betimleyici fiiller kullanın.
+    
+- Boş kâğıda 5×5 ızgara çizin. Kitleleri, doğrultuları ve yaklaşık değer ölçeğini işaretleyin. En az üç bakış çizgisi ekleyin.
+    
+
+## Zorunlu Kaynaklar ve Atıf
+
+Chicago Author-Date biçimi kullanılacak.
+
+- Gombrich veya atanan bölümden sayfa numarası ile bir atıf.
+    
+- Khan Academy videosundan dakika:saniye ile bir atıf.
+    
+- Müze katalog kaydı ve envanter numarası.
+    
+- İsteğe bağlı: ek bir makale veya kitap bölümü.
+    
+
+Örnek: (Gombrich 2000, 247), (Khan Academy 06:31), (MetMuseum Acc. 1975.1.144).
+
+## Deneme Yapısı
+
+1. **Tez (2–3 cümle).** Biçimsel bir aracın tarihsel veya ikonografik bir etki ürettiğini ileri sürün.
+    
+2. **Kanıt A (150–250 kelime).** Izgara verileriyle biçim çözümlemesi. En az iki gözlem, iki sonuç.
+    
+3. **Kanıt B (150–250 kelime).** Malzeme ve teknik çözümlemesi. Orta, boyut, kısıt ve bir görsel iz.
+    
+4. **Bağlam (150–200 kelime).** Okumadan tarihsel bağlam. Sayfa numarasıyla atıf. En fazla 15 kelime doğrudan alıntı.
+    
+5. **İkonografi (120–180 kelime).** Bir motif ve dönemdeki anlamı. Görsel kanıta dayalı sapma gösterin.
+    
+6. **Karşı Kanıt (120–180 kelime).** Tezi zayıflatabilecek bir gözlem. Neden hâlâ geçerli olduğunu açıklayın.
+    
+7. **Yöntem Yansıması (120–180 kelime).** Kullandığınız yöntemi adlandırın. Güçlü ve zayıf yönlerini söyleyin.
+    
+8. **Sonuç (60–100 kelime).** Tezinizin bu eseri okuma biçimimizi nasıl değiştirdiğini özetleyin.
+    
+
+## Kanıt Kuralları
+
+- Somut terimler: çizgi, kontur, kenar, düzlem, eksen, boşluk, ışık lekesi.
+    
+- En az üç cümle ızgara koordinatlarıyla bağlanmalı.
+    
+- En az bir oransal ölçüm.
+    
+- Renk için üç ton ve RGB/hex değerleri.
+    
+- Perspektif için kaçış noktası sayısı ve ufuk çizgisi konumu.
+    
+
+## Karşılaştırma Paragrafı
+
+Farklı haftadan bir eser seçin. Tezinizi bozacak tek biçimsel farkı gösterin.
+
+## Yapay Zekâ Kullanım Ek’i
+
+Kullandıysanız:
+
+- Girdiğiniz tüm istemler.
+    
+- Kullandığınız tüm cümleler tırnak içinde.
+    
+- Her cümlenin neye göre doğrulandığı.  
+    Kullanmadıysanız: “Yapay zekâ veya otomatik araç kullanılmadı” yazın.
+    
+
+## Yasaklar
+
+- Ayrıntılı biyografi yok.
+    
+- Genel dönem özeti yok.
+    
+- Desteksiz ikonografi yok.
+    
+- Tanımsız değer yargıları yok.
+    
+- Ana metinde görsel yok, ek’e konacak.
+    
+
+## Biçim
+
+- Başlıkta ad, ders, hafta, kelime sayısı.
+    
+- Kaynakça sonrası figür listesi.
+    
+- Dosya adı: `Soyadı_HaftaX_Dusunce.pdf`.
+    
+
+## Değerlendirme (100 puan)
+
+- Tez özgüllüğü: 10
+    
+- Biçimsel kanıt: 20
+    
+- Malzeme ve süreç: 10
+    
+- Bağlam ve atıf: 10
+    
+- İkonografi: 10
+    
+- Karşı kanıt: 10
+    
+- Yöntem yansıması: 10
+    
+- Karşılaştırma paragrafı: 10
+    
+- Teknik sunum: 5
+    
+- Atıf ve figür verileri: 5
+    
+
+## Başarı Ölçütleri
+
+- 90–100: Tez biçim ve anlam arasında nedensel ilişki kurar.
+    
+- 80–89: Tez güçlüdür, bir eksik vardır.
+    
+- 70–79: Tez çok genel veya betimleyici.
+    
+- <70: Eksik bölümler veya kanıtsız iddia.
+    
+
+## Haftalık Ödev Soruları
+
+**Hafta 3**
+
+- Giotto–Masaccio freski: Tek bir teknik kısıtın teolojik etkisini gösterin.
+    
+- Geç Gotik portal: Dikeyliğin ilahi-insani figürlere etkisini açıklayın.
+    
+
+**Hafta 6**
+
+- Botticelli/Leonardo: En az üç hücre boyunca bir konturu izleyin.
+    
+- Dürer baskısı: Tekrar eden izleri alıcıya bağlayın.
+    
+
+**Hafta 9**
+
+- Rembrandt/Vermeer: Tek bir ışık lekesi üzerine tez kurun.
+    
+- Rokoko panel: Tekrar eden motifin anlatıyı nasıl bozduğunu gösterin.
+    
+
+**Hafta 12**
+
+- Monet/Degas: Yumuşak kenar ya da ritimden tez türetin.
+    
+- Cézanne: Plan eğimlerinin uzam algısını nasıl değiştirdiğini açıklayın.
+    
+
+## Teslim Öncesi Kontrol
+
+- Doğru dönemden eser seçildi.
+    
+- Gözlem Günlüğü tamam.
+    
+- Izgara haritası ve üç bağlama işaret eklendi.
+    
+- Üç kaynak kullanıldı.
+    
+- Karşı kanıt ve karşılaştırma eklendi.
+    
+- Yapay Zekâ Ek’i var.
+    
+- Şablon düzenli.
+    
+
+
+
+
 
 ## **Akademik dürüstlük:**
-Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır.
+Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır. Tüm iddialar görsel ve kaynakla doğrulanabilir olmalı. Belirtilmemiş yapay zekâ kullanımı veya kendi yazınızı yeniden kullanma ihlaldir.
