@@ -126,13 +126,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
 (4) Herhangi bir derse devam koşulunu yerine getirdikleri halde, başarısızlıkları nedeniyle kalan öğrenciler için tekrar alacakları derse devam şartı aranmaz. Bu durumdaki öğrenciler, çakışan derslere de kayıt yaptırabilirler. Ancak, öğrenci bu derslerin proje, laboratuvar, uygulama, ara sınav ve benzeri çalışmalarına katılmak ve yükümlülüklerini yerine getirmek zorundadır.
 (5) Devamsızlık oranı İstanbul Medipol Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliğinin 26. maddesinin 1. fıkrasında açıklanan devamsızlık sınırını aşınca o ders için öğrenciye F2 notu verilir ve öğrenci ilgili dersin dönem sonu genel sınavına giremez.
 
-## **Ödevlere ilişkin kurallar**
-**Teslim Tarihleri:**
-Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.<br>
-**Düşünce Yazıları:**
-
-
-# Düşünce Yazısı Yönergeleri · Sanat Tarihi
+# Düşünce Yazısı Yönergesi
 
 ## Amaç
 
@@ -140,213 +134,123 @@ Bir sanat eserinde biçimin anlam üretme biçimini, derste işlenen kaynaklara 
 
 ## Teslim Tarihleri
 
-3. hafta, 6. hafta, 9. hafta, 12. hafta. Derste teslim edilir.
-    
+3, 6, 9 ve 12. haftalar. Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.<br>
 
 ## Teslim Edilecekler
 
-1. Deneme: 900–1.200 kelime, tek satır aralığı, 12 punto, PDF.
-    
-2. Bir sayfalık Gözlem Günlüğü: taranmış veya fotoğraflanmış, PDF’nin 2. sayfası.
-    
-3. 5×5 ızgara üzerine el çizimi kompozisyon haritası, eksen etiketli, PDF’nin 3. sayfası.
-    
-4. 150–200 kelimelik karşılaştırma paragrafı, PDF’nin 4. sayfası.
-    
+1. Deneme: 900–1.200 kelime, 1.5 satır aralığı, 12 punto. PDF olarak teslim edilecek.
+2. Bir sayfalık gözlem günlüğü. 
+3. 5×5 ızgara üzerine el çizimi kompozisyon haritası, eksen etiketli.
+4. 150–200 kelimelik karşılaştırma paragrafı.
 5. Yapay Zekâ Kullanım Ek’i (varsa), son sayfaya.
-    
 
 ## Konu Seçimi (Haftalara Göre)
 
 - Hafta 3: Geç Gotik veya Erken Rönesans İtalya.
-    
 - Hafta 6: Yüksek Rönesans, Kuzey Rönesans veya Maniyerizm.
-    
 - Hafta 9: Barok, Rokoko veya İngiliz portre sanatı.
-    
 - Hafta 12: Romantizm, Realizm, Empresyonizm, Post-Empresyonizm veya Erken Modernizm.
-    
 
 Ana eser haftalık listelerden veya büyük bir müze koleksiyonundan seçilmeli.
 
 ## Ön Yazım Gözlem Protokolü (Gözlem Günlüğüne eklenecek)
 
 - Yüksek çözünürlüklü görüntüye 10 dakika bakın. İlk 3 dakikada not yok.
-    
-- Dakika 4–10: her 45–60 saniyede bir zaman damgalı kısa gözlemler yazın. Sadece betimleyici fiiller kullanın.
-    
+- Kısa gözlemler yazın. Sadece betimleyici fiiller kullanın.
 - Boş kâğıda 5×5 ızgara çizin. Kitleleri, doğrultuları ve yaklaşık değer ölçeğini işaretleyin. En az üç bakış çizgisi ekleyin.
-    
 
 ## Zorunlu Kaynaklar ve Atıf
 
 Chicago Author-Date biçimi kullanılacak.
-
-- Gombrich veya atanan bölümden sayfa numarası ile bir atıf.
-    
-- Khan Academy videosundan dakika:saniye ile bir atıf.
-    
+- Gombrich'te atanan bölümden sayfa numarası ile bir atıf.
+- Khan Academy veya başka bir youtube videosundan dakika:saniye ile bir atıf.
 - Müze katalog kaydı ve envanter numarası.
-    
 - İsteğe bağlı: ek bir makale veya kitap bölümü.
-    
 
 Örnek: (Gombrich 2000, 247), (Khan Academy 06:31), (MetMuseum Acc. 1975.1.144).
 
-## Deneme Yapısı
+## Yazı yapısı
 
-1. **Tez (2–3 cümle).** Biçimsel bir aracın tarihsel veya ikonografik bir etki ürettiğini ileri sürün.
-    
-2. **Kanıt A (150–250 kelime).** Izgara verileriyle biçim çözümlemesi. En az iki gözlem, iki sonuç.
-    
-3. **Kanıt B (150–250 kelime).** Malzeme ve teknik çözümlemesi. Orta, boyut, kısıt ve bir görsel iz.
-    
-4. **Bağlam (150–200 kelime).** Okumadan tarihsel bağlam. Sayfa numarasıyla atıf. En fazla 15 kelime doğrudan alıntı.
-    
-5. **İkonografi (120–180 kelime).** Bir motif ve dönemdeki anlamı. Görsel kanıta dayalı sapma gösterin.
-    
-6. **Karşı Kanıt (120–180 kelime).** Tezi zayıflatabilecek bir gözlem. Neden hâlâ geçerli olduğunu açıklayın.
-    
-7. **Yöntem Yansıması (120–180 kelime).** Kullandığınız yöntemi adlandırın. Güçlü ve zayıf yönlerini söyleyin.
-    
-8. **Sonuç (60–100 kelime).** Tezinizin bu eseri okuma biçimimizi nasıl değiştirdiğini özetleyin.
-    
+1. **İddia/Tez/Önerme (2–3 cümle).** Tek bir biçimsel aracın tarihsel ya da ikonografik bir etkiyi nasıl ürettiğine dair kesin ve çürütülebilir bir iddia/tez/önerme. Aracı ve etkiyi adlandırın.
+2. **Kanıt A (150–250 kelime).** Izgaradan türetilmiş biçim çözümlemesi. Izgaranızdaki koordinatlara bağlı iki somut gözlem ve her biri için bir kompozisyon sonucu.
+3. **Kanıt B (150–250 kelime).** Malzeme ya da teknik çözümlemesi. Ortam, materyal, ölçek ve ortamın dayattığı bir kısıtı belirtin. Sürecin bir görünür izini açıklayın.  
+4. **Bağlam (150–200 kelime).** Bir gözlemi okumadaki bir tarihsel duruma bağlayın. Sayfa numarası verin. En fazla 15 kelime alıntı yapın. Kalanı özetleyin.
+5. **İkonografi (120–180 kelime).** Bir motifi belirleyin. Dönemdeki yerleşik anlamını açıklayın, sonra bu örneğin nasıl saptığını belirtin. Sapma gerekçesi görsel olmalı.
+6. **Karşı-kanıt (120–180 kelime).** İddianızı zayıflatabilecek bir gözlem sunun. İddianızın nasıl ayakta kaldığını ya da kapsamı nasıl daraltmanız gerektiğini açıklayın.
+7. **Yöntem (120–180 kelime).** Gerekçenizde örtük olarak kullandığınız merceği adlandırın. 
+8. **Sonuç (60–100 kelime).** İddianızın bu eserin nasıl okunacağını ne yönde değiştirdiğini belirtin.
 
 ## Kanıt Kuralları
 
-- Somut terimler: çizgi, kontur, kenar, düzlem, eksen, boşluk, ışık lekesi.
-    
-- En az üç cümle ızgara koordinatlarıyla bağlanmalı.
-    
-- En az bir oransal ölçüm.
-    
-- Renk için üç ton ve RGB/hex değerleri.
-    
-- Perspektif için kaçış noktası sayısı ve ufuk çizgisi konumu.
-    
+- Betimleyici kavramlar kullanın: çizgi, kontur, kenar, düzlem, kademelenme, eksen, aralık, modül, boşluk, ışık lekesi, saydam boya (glaze), tarama (hatch), kuru fırça etkisi (scumble), kalın boya dokusu (impasto) vb.
+- En az üç cümlenizi ızgara koordinatlarına dayandırın. Örneğin: “A2→A3 diyagonal.”
+- En az bir orantılı ölçüm verin. Örneğin: “figür boyu ≈ baş yüksekliğinin 6 katı” veya “sunak panosu genişliği ≈ yüksekliğin 1.6 katı.”
+- Renk merkezîyse, dijital bir araçla yaklaşık üç tonu seçin ve bunları RGB veya hex koduyla birlikte, ait oldukları bölgeyi tanımlayarak raporlayın. Mümkünse ek kısmına küçük bir ekran görüntüsü ekleyin.
+- Perspektif merkezîyse, kaçış noktalarının sayısını ve ufuk çizgisinin ızgara üzerindeki konumunu belirtin.
 
 ## Karşılaştırma Paragrafı
 
-Farklı haftadan bir eser seçin. Tezinizi bozacak tek biçimsel farkı gösterin.
+Farklı haftadan bir eser seçin. Ana iddianızı, değiştirilirse çökertecek tek bir biçimsel fark belirtin. Bu fark araçlarda olmalı, konuda değil.
 
 ## Yapay Zekâ Kullanım Ek’i
 
 Kullandıysanız:
-
-- Girdiğiniz tüm istemler.
-    
-- Kullandığınız tüm cümleler tırnak içinde.
-    
-- Her cümlenin neye göre doğrulandığı.  
-    Kullanmadıysanız: “Yapay zekâ veya otomatik araç kullanılmadı” yazın.
-    
-
-## Yasaklar
-
-- Ayrıntılı biyografi yok.
-    
-- Genel dönem özeti yok.
-    
-- Desteksiz ikonografi yok.
-    
-- Tanımsız değer yargıları yok.
-    
-- Ana metinde görsel yok, ek’e konacak.
-    
+- Girdiğiniz tam istemler ya da talimatlar.
+- Kullandığınız her YZ tarafından üretilmiş cümle, tırnak içinde.
+- Her cümle için neye dayanarak doğruladığınıza dair kısa bir not.  
+    Araç kullanmadıysanız “YZ ya da otomatik araç kullanılmamıştır” yazın.
 
 ## Biçim
 
-- Başlıkta ad, ders, hafta, kelime sayısı.
-    
-- Kaynakça sonrası figür listesi.
-    
-- Dosya adı: `Soyadı_HaftaX_Dusunce.pdf`.
-    
+- Üst bilgi: ad soyad, ders, hafta, kelime sayısı.
+- Kaynakçadan sonra figür Listesi: sanatçı, başlık, tarih, teknik, boyutlar, koleksiyon, envanter.
+- Dosya adı: `Soyad_HaftaX_Dusunce.pdf`.
 
-## Değerlendirme (100 puan)
+## Değerlendirme (10 puan)
 
-- Tez özgüllüğü: 10
-    
-- Biçimsel kanıt: 20
-    
-- Malzeme ve süreç: 10
-    
-- Bağlam ve atıf: 10
-    
-- İkonografi: 10
-    
-- Karşı kanıt: 10
-    
-- Yöntem yansıması: 10
-    
-- Karşılaştırma paragrafı: 10
-    
-- Teknik sunum: 5
-    
-- Atıf ve figür verileri: 5
-    
+Her bir ödev geçerli/geçersiz olarak değerlendirilecektir. Her öğrencinin geçersiz sayılan ödevi için sadece bir kere daha deneme hakkı olacaktır.
 
-## Başarı Ölçütleri
+Ödevin geçerli sayılması için gerekli ögeler (En az 7 öge zorunludur, daha az ise ödev geçersiz sayılır): 
+- İddia ve kapsamı
+- Biçimsel kanıtın doğruluğu ve yeterliği
+- Malzeme ve süreç anlatımı
+- Bağlam ve sayfa-doğru atıf
+- İkonografik tanımlama ve sapma analizi
+- Karşı-kanıt ve kapsam
+- Yöntem 
+- Karşılaştırma paragrafı
+- Teknik sunum ve ekler
+- Atıf doğruluğu ve figür verileri
 
-- 90–100: Tez biçim ve anlam arasında nedensel ilişki kurar.
-    
-- 80–89: Tez güçlüdür, bir eksik vardır.
-    
-- 70–79: Tez çok genel veya betimleyici.
-    
-- <70: Eksik bölümler veya kanıtsız iddia.
-    
+## Haftalık Örnek Ödev Soruları
 
-## Haftalık Ödev Soruları
+Eğer kendiniz bir eser ve analiz üretemiyorsanız aşağıdakilerden kullanabilirsiniz. Herkes ödevini tek başına yapmalıdır.
 
-**Hafta 3**
+**3. hafta seçenekleri**
+- Giotto’dan Masaccio’ya: Bir fresk kısıtının tek bir sahnede teolojik bir etkiyi nasıl sürüklediğini gösterin.
+- Geç Gotik portal: Dikeyliğin insani ve ilahi figürler arasında dikkati nasıl yeniden dağıttığını açıklayın.
 
-- Giotto–Masaccio freski: Tek bir teknik kısıtın teolojik etkisini gösterin.
-    
-- Geç Gotik portal: Dikeyliğin ilahi-insani figürlere etkisini açıklayın.
-    
+**6. hafta seçenekleri**
+- Botticelli veya Leonardo: En az üç ızgara hücresinde tek bir konturu izleyin ve duygulanımı nasıl düzenlediğini savunun.
+- Dürer baskı: Yinelenebilir işleme alışkanlığını izleyici ya da kullanım değişimine bağlayın.
 
-**Hafta 6**
+**9. hafta seçenekleri**
+- Rembrandt veya Vermeer: Resim düzlemine göre tek bir ışık kaynağının konum ve işlevi üzerine bir önerme sunun.
+- Rokoko iç paneli: Tek bir süsleme modülünü tanımlayın ve dizisel tekrarın anlatı okunurluğunu nasıl değiştirdiğini gösterin.
 
-- Botticelli/Leonardo: En az üç hücre boyunca bir konturu izleyin.
-    
-- Dürer baskısı: Tekrar eden izleri alıcıya bağlayın.
-    
-
-**Hafta 9**
-
-- Rembrandt/Vermeer: Tek bir ışık lekesi üzerine tez kurun.
-    
-- Rokoko panel: Tekrar eden motifin anlatıyı nasıl bozduğunu gösterin.
-    
-
-**Hafta 12**
-
-- Monet/Degas: Yumuşak kenar ya da ritimden tez türetin.
-    
-- Cézanne: Plan eğimlerinin uzam algısını nasıl değiştirdiğini açıklayın.
-    
+**12. hafta seçenekleri**
+- Monet veya Degas: Kenar yumuşaklığı ya da aralık ritmi gibi tek bir optik değişkenden iddia türetin.
+- Cézanne: Bir natürmorttan, düzlemsel eğmenin en az iki ızgara hücresinde mekânsal beklentiyi nasıl yeniden yazdığını savunun.
 
 ## Teslim Öncesi Kontrol
 
 - Doğru dönemden eser seçildi.
-    
-- Gözlem Günlüğü tamam.
-    
+- Gözlem Günlüğü var.
 - Izgara haritası ve üç bağlama işaret eklendi.
-    
-- Üç kaynak kullanıldı.
-    
+- En az üç kaynak kullanıldı.
 - Karşı kanıt ve karşılaştırma eklendi.
-    
 - Yapay Zekâ Ek’i var.
-    
 - Şablon düzenli.
-    
-
-
-
-
 
 ## **Akademik dürüstlük:**
 Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır. Tüm iddialar görsel ve kaynakla doğrulanabilir olmalı. Belirtilmemiş yapay zekâ kullanımı veya kendi yazınızı yeniden kullanma ihlaldir.
