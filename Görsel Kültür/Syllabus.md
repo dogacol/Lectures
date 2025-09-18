@@ -43,6 +43,6 @@ Dersin merkezinde bakış ve başkalık tartışmaları ile gerçekçilik ve bak
 
 ## Değerlendirme  
 - Ara Sınav: %40   
-	- Ders içi analiz yazıları (%20)
+	- (Ara sınava dahil) Ders içi analiz yazıları (%20)
 - Genel Sınav: %60  
-	- Ders içi analiz yazıları (%20)
+	- (Genel sınava dahil) Ders içi analiz yazıları (%20)

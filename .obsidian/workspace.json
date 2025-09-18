@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Görsel Kültür/Syllabus.md",
+                "file": "Sinema Felsefesi/Syllabus.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Syllabus"
@@ -166,10 +166,10 @@
   },
   "active": "b9579f81a060cdd7",
   "lastOpenFiles": [
+    "Görsel Kültür/Syllabus.md",
+    "Sinema Felsefesi/Syllabus.md",
     "RTS Teknik Temeller/Syllabus.md",
     "Sanat Tarihi/Syllabus.md",
-    "Sinema Felsefesi/Syllabus.md",
-    "Görsel Kültür/Syllabus.md",
     "Sinema Felsefesi",
     "Software Applications/Final.md",
     "Software Applications/Syllabus.md",
