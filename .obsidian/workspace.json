@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Görsel Kültür/Syllabus.md",
+                "file": "Sinema Felsefesi/Syllabus.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09a842912b11353d",
@@ -166,10 +167,10 @@
   },
   "active": "b9579f81a060cdd7",
   "lastOpenFiles": [
+    "Görsel Kültür/Syllabus.md",
     "Sanat Tarihi/Syllabus.md",
     "Sinema Felsefesi/Syllabus.md",
     "RTS Teknik Temeller/Syllabus.md",
-    "Görsel Kültür/Syllabus.md",
     "Sinema Felsefesi",
     "Software Applications/Final.md",
     "Software Applications/Syllabus.md",
