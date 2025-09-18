@@ -17,7 +17,6 @@ Dersin merkezinde bakış ve başkalık tartışmaları ile gerçekçilik ve bak
 Öğrenciler, imgelerin siyaseti, ideolojik işlevleri ve sanat, reklamcılık, popüler kültür, bilim ve dijital platformlar gibi mecralarda dolaşımı üzerine eleştirel bir analiz geliştireceklerdir.
 
 
-
 ---
 
 ## Ders Akışı
@@ -44,4 +43,6 @@ Dersin merkezinde bakış ve başkalık tartışmaları ile gerçekçilik ve bak
 
 ## Değerlendirme  
 - Ara Sınav: %40   
+	- Ders içi analiz yazıları (%20)
 - Genel Sınav: %60  
+	- Ders içi analiz yazıları (%20)

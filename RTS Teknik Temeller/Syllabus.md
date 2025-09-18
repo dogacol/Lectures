@@ -95,13 +95,10 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 
 ---
 
-#### Ödevler ve Sınavlar
-1. **Birinci Düşünce Yazısı** - 3. derste teslim edilecek - 10 puan
-2. **İkinci Düşünce Yazısı** - 6. derste teslim edilecek - 10 puan
-3. **Üçüncü Düşünce Yazısı** - 9. derste teslim edilecek - 10 puan
-4. **Dördüncü Düşünce Yazısı -** 12. derste teslim edilecek - 10 puan
-5. **Ara sınav**: Yedinci haftaya kadar tüm konuları içeren çoktan seçmeli sınav - 25 puan
-6. **Final Sınavı**: Tüm ders konuları hakkında çoktan seçmeli sınav - 25 puan
+#### Sınavlar
+
+1. **Ara sınav**: Yedinci haftaya kadar tüm konuları içerir - 25 puan
+2. **Final Sınavı**: Tüm ders konuları - 25 puan
     
 ## **Derse Katılım:**
 Öğrencilerin tüm derslere zamanında ve düzenli olarak katılmaları gerekmektedir. Devam ve katılım zorunluluğu, dersin başarı kriterlerinden biridir ve bu kuralın ihlali durumunda öğrenci, dersten başarısız sayılabilir. 
@@ -111,18 +108,3 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 (4) Herhangi bir derse devam koşulunu yerine getirdikleri halde, başarısızlıkları nedeniyle kalan öğrenciler için tekrar alacakları derse devam şartı aranmaz. Bu durumdaki öğrenciler, çakışan derslere de kayıt yaptırabilirler. Ancak, öğrenci bu derslerin proje, laboratuvar, uygulama, ara sınav ve benzeri çalışmalarına katılmak ve yükümlülüklerini yerine getirmek zorundadır.
 (5) Devamsızlık oranı İstanbul Medipol Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliğinin 26. maddesinin 1. fıkrasında açıklanan devamsızlık sınırını aşınca o ders için öğrenciye F2 notu verilir ve öğrenci ilgili dersin dönem sonu genel sınavına giremez.
 
-## **Ödevlere ilişkin kurallar**
-**Teslim Tarihleri:**
-Öğrenciler ödev ve projeleri belirtilen süreler içinde teslim etmekle yükümlüdürler. Geç teslim edilen ödevler kabul edilmeyebilir.<br>
-**Düşünce Yazıları:**
-Her öğrenci toplamda dört tane düşünce yazısı teslim edecek. Düşünce yazıları bir A4 sayfasını tam dolduracak şekilde derste konuşulan bir kavram, dönem, sanatçı veya eserle ilgili olmalıdır. Tamamen öğrenci tarafından yazılmalıdır. Derste teslim edilmelidir.
-
-
-
-## **Akademik dürüstlük:**
-Öğrenciler tüm akademik çalışmalarında dürüstlük ve doğruluğa önem göstermelidirler. Dikkat etmedikleri durumlarda dersten başarısız olurlar ve disiplin soruşturması başlatılır.
-
-
-## **Kaynaklar**
-
-Bordwell, D. & Thompson, K. (2011). Film Sanatı.

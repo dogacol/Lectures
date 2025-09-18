@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3c456f51b4b948",
+        "id": "5e7d66d6bc66c245",
         "type": "tabs",
         "children": [
           {
-            "id": "e98d75e56c639032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RTS Teknik Temeller/Syllabus.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Syllabus"
-            }
-          },
-          {
-            "id": "3a60b21203583603",
+            "id": "b9579f81a060cdd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,12 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e98d75e56c639032",
+  "active": "b9579f81a060cdd7",
   "lastOpenFiles": [
+    "RTS Teknik Temeller/Syllabus.md",
     "Sanat Tarihi/Syllabus.md",
     "Sinema Felsefesi/Syllabus.md",
     "Görsel Kültür/Syllabus.md",
-    "RTS Teknik Temeller/Syllabus.md",
     "Sinema Felsefesi",
     "Software Applications/Final.md",
     "Software Applications/Syllabus.md",
