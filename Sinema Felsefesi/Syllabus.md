@@ -1,4 +1,3 @@
-
 # **Sinema Felsefesi Haftalık İzlence**
 
 **Dersi veren:** Dr. Öğr. Üye. Doğa Çöl<br>

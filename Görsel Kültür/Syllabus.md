@@ -1,4 +1,3 @@
-
 # **Görsel Kültür Haftalık İzlence**
 
 **Dersi Veren**: Dr. Öğr. Üye. Doğa Çöl  
