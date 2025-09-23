@@ -39,7 +39,7 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
 
 ---
 ## Kaynaklar
-  •	Noël Carroll, The Philosophy of Motion Pictures
-	•	Noël Carroll & Jinhee Choi (der.), Philosophy of Film and Motion Pictures: An Anthology
-	•	Thomas Elsaesser & Malte Hagener, Film Teorisi: Duyular Yoluyla Bir Giriş
-	•	André Bazin, “Fotoğrafik İmgenin Ontolojisi”
+- Noël Carroll, The Philosophy of Motion Pictures
+- Noël Carroll & Jinhee Choi (der.), Philosophy of Film and Motion Pictures: An Anthology
+- Thomas Elsaesser & Malte Hagener, Film Teorisi: Duyular Yoluyla Bir Giriş
+- André Bazin, “Fotoğrafik İmgenin Ontolojisi”
