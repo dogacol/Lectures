@@ -56,7 +56,7 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
     </tr>
     <tr style="border-top:2px solid black">
       <td><b>6</b></td>
-      <td><b>Bellek ve Anlatı</b></td>
+      <td><b>Anlatı</b></td>
       <td>Carroll, “Memento and the Phenomenology of Comprehending Motion Picture Narrative”<br><b>Elsaesser:</b> Bölüm 4 “Göz olarak Sinema”</td>
       <td><i>Memento</i> (2000)</td>
     </tr>
@@ -80,7 +80,7 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
     </tr>
     <tr style="border-top:2px solid black">
       <td><b>10</b></td>
-      <td><b>Bellek ve Etik</b></td>
+      <td><b>Etik</b></td>
       <td>Valerie Tiberius, “Bad Memories, Good Decisions…”<br><b>Elsaesser:</b> Bölüm 7 “Beyin olarak Sinema”</td>
       <td><i>Eternal Sunshine of the Spotless Mind</i> (2004)</td>
     </tr>
