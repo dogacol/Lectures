@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5e7d66d6bc66c245",
+        "id": "2533f956973b4991",
         "type": "tabs",
         "children": [
           {
-            "id": "b9579f81a060cdd7",
+            "id": "b13dbc3eae10565d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sinema Felsefesi/Syllabus.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Syllabus"
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "09a842912b11353d",
@@ -165,11 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9579f81a060cdd7",
+  "active": "b13dbc3eae10565d",
   "lastOpenFiles": [
+    "Sinema Felsefesi/Syllabus.md",
     "Görsel Kültür/Syllabus.md",
     "Sanat Tarihi/Syllabus.md",
-    "Sinema Felsefesi/Syllabus.md",
     "RTS Teknik Temeller/Syllabus.md",
     "Sinema Felsefesi",
     "Software Applications/Final.md",
