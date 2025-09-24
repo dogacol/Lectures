@@ -14,22 +14,103 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
 
 ## Ders Akışı
 
-| Hafta | Konu | Okuma / Hazırlık | Film Tartışması |
-|------|------|------------------|-----------------|
-| **1** | **Sinema Felsefesine Giriş** |  Noël Carroll, *The Philosophy of Motion Pictures*, s. 1–33<br>**Elsaesser:** Giriş, “Neden Duyular Yoluyla?” | - |
-| **2** | **Sinemanın Ontolojisi** |  Noël Carroll, “Defining the Moving Image” (*Philosophy of Film and Motion Pictures*)<br>**Klasik:** André Bazin, “Fotoğrafik İmgenin Ontolojisi”<br>**Elsaesser:** Bölüm 1 “Pencere ve Çerçeve olarak Sinema” | *La Jetée* (1963); Lumière kısa filmleri |
-| **3** | **Anlatı ve Kurgu** |  Carroll, *The Philosophy of Motion Pictures*, s. 116–144<br>**Elsaesser:** Bölüm 1 (devam) | *The Great Train Robbery* (1903), *M* (1931), *Rear Window* (1954) |
-| **4** | **Mekân ve Perspektif** |  Carroll, *The Philosophy of Motion Pictures*, s. 80–114<br>**Elsaesser:** Bölüm 2 “Kapı olarak Sinema” | *The Searchers* (1956) |
-| **5** | **Güvenilmez Anlatı** |  Gregory Currie, “Unreliability Refigured: Narrative in Literature and Film”<br>**Elsaesser:** Bölüm 3 “Ayna olarak Sinema” | *Fight Club* (1999) |
-| **6** | **Bellek ve Anlatı** |  Carroll, “Memento and the Phenomenology of Comprehending Motion Picture Narrative”<br>**Elsaesser:** Bölüm 4 “Göz olarak Sinema” | *Memento* (2000) |
-| **7** | **Duygu ve Hareket** |  K. Thomson-Jones, “Narration in Motion”; S. Feagin, “Film Appreciation and Moral Insensitivity”<br>**Elsaesser:** Bölüm 5 “Ten olarak Sinema” | *Mad Max: Fury Road* (2015) |
-| **8** | **Ara Sınav** | Haftalar 1–7 tekrarı | - |
-| **9** | **Ses ve Uzam** |  Michel Chion, “The Audiovisual Contract”<br>**Elsaesser:** Bölüm 6 “Kulak olarak Sinema” | *The Conversation* (1974) |
-| **10** | **Bellek ve Etik** |  Valerie Tiberius, “Bad Memories, Good Decisions…”<br>**Elsaesser:** Bölüm 7 “Beyin olarak Sinema” | *Eternal Sunshine of the Spotless Mind* (2004) |
-| **11** | **Dijital Gerçekçilik** |  Noël Carroll, “Digital Realism”<br>**Elsaesser:** Bölüm 8 “Dijital Sinema ve Film Kuramı” | *Ghost in the Shell* (1995) |
-| **12** | **Yeni Medya** |  Dan Flory, “Reflections on What Movies Do Well”<br>**Ek:** Çevrimiçi okuma (duyurulacak) | *living with a friend who transcended humanity* (YouTube, 2024) |
-| **13** | **Yapay Zekâ ve Sinema** |  Stephen Prince, “Digital Visual Effects and the Future of Cinema”<br>**Ek:** Güncel makale (duyurulacak) | *Her* (2013) |
-| **14** | **Genel Değerlendirme** | Tüm okumaların tartışmalı özeti | - |
+<table>
+  <thead>
+    <tr>
+      <th>Hafta</th>
+      <th>Konu</th>
+      <th>Okuma / Hazırlık</th>
+      <th>Film Tartışması</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>1</b></td>
+      <td><b>Sinema Felsefesine Giriş</b></td>
+      <td><b>Elsaesser:</b> Giriş, “Neden Duyular Yoluyla?”</td>
+      <td>-</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>2</b></td>
+      <td><b>Sinemanın Ontolojisi</b></td>
+      <td>Noël Carroll, “Defining the Moving Image” (<i>Philosophy of Film and Motion Pictures</i>)<br><b>Klasik:</b> André Bazin, “Fotoğrafik İmgenin Ontolojisi”<br><b>Elsaesser:</b> Bölüm 1 “Pencere ve Çerçeve olarak Sinema”</td>
+      <td><i>La Jetée</i> (1963); Lumière kısa filmleri</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>3</b></td>
+      <td><b>Anlatı ve Kurgu</b></td>
+      <td>Carroll, <i>The Philosophy of Motion Pictures</i>, s. 116–144<br><b>Elsaesser:</b> Bölüm 1 (devam)</td>
+      <td><i>The Great Train Robbery</i> (1903), <i>M</i> (1931), <i>Rear Window</i> (1954)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>4</b></td>
+      <td><b>Mekân ve Perspektif</b></td>
+      <td>Carroll, <i>The Philosophy of Motion Pictures</i>, s. 80–114<br><b>Elsaesser:</b> Bölüm 2 “Kapı olarak Sinema”</td>
+      <td><i>The Searchers</i> (1956)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>5</b></td>
+      <td><b>Güvenilmez Anlatı</b></td>
+      <td>Gregory Currie, “Unreliability Refigured: Narrative in Literature and Film”<br><b>Elsaesser:</b> Bölüm 3 “Ayna olarak Sinema”</td>
+      <td><i>Fight Club</i> (1999)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>6</b></td>
+      <td><b>Bellek ve Anlatı</b></td>
+      <td>Carroll, “Memento and the Phenomenology of Comprehending Motion Picture Narrative”<br><b>Elsaesser:</b> Bölüm 4 “Göz olarak Sinema”</td>
+      <td><i>Memento</i> (2000)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>7</b></td>
+      <td><b>Duygu ve Hareket</b></td>
+      <td>K. Thomson-Jones, “Narration in Motion”; S. Feagin, “Film Appreciation and Moral Insensitivity”<br><b>Elsaesser:</b> Bölüm 5 “Ten olarak Sinema”</td>
+      <td><i>Mad Max: Fury Road</i> (2015)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>8</b></td>
+      <td><b>Ara Sınav</b></td>
+      <td>Haftalar 1–7 tekrarı</td>
+      <td>-</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>9</b></td>
+      <td><b>Ses ve Uzam</b></td>
+      <td>Michel Chion, “The Audiovisual Contract”<br><b>Elsaesser:</b> Bölüm 6 “Kulak olarak Sinema”</td>
+      <td><i>The Conversation</i> (1974)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>10</b></td>
+      <td><b>Bellek ve Etik</b></td>
+      <td>Valerie Tiberius, “Bad Memories, Good Decisions…”<br><b>Elsaesser:</b> Bölüm 7 “Beyin olarak Sinema”</td>
+      <td><i>Eternal Sunshine of the Spotless Mind</i> (2004)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>11</b></td>
+      <td><b>Dijital Gerçekçilik</b></td>
+      <td>Noël Carroll, “Digital Realism”<br><b>Elsaesser:</b> Bölüm 8 “Dijital Sinema ve Film Kuramı”</td>
+      <td><i>Ghost in the Shell</i> (1995)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>12</b></td>
+      <td><b>Yeni Medya</b></td>
+      <td>Dan Flory, “Reflections on What Movies Do Well”<br><b>Ek:</b> Çevrimiçi okuma (duyurulacak)</td>
+      <td><i>living with a friend who transcended humanity</i> (YouTube, 2024)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>13</b></td>
+      <td><b>Yapay Zekâ ve Sinema</b></td>
+      <td>Stephen Prince, “Digital Visual Effects and the Future of Cinema”<br><b>Ek:</b> Güncel makale (duyurulacak)</td>
+      <td><i>Her</i> (2013)</td>
+    </tr>
+    <tr style="border-top:2px solid black">
+      <td><b>14</b></td>
+      <td><b>Genel Değerlendirme</b></td>
+      <td>Tüm okumaların tartışmalı özeti</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 ## Değerlendirme
