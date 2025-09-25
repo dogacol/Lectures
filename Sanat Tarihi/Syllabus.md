@@ -115,8 +115,8 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
 2. **İkinci Analiz Yazısı** - 6. derste yapılacak - 10 puan
 3. **Üçüncü Analiz Yazısı** - 9. derste yapılacak - 10 puan
 4. **Dördüncü Analiz Yazısı -** 12. derste yapılacak - 10 puan
-5. **Ara sınav**: Yedinci haftaya kadar tüm konuları içerir - 25 puan
-6. **Final Sınavı**: Tüm ders konuları hakkında - 25 puan
+5. **Ara sınav**: Yedinci haftaya kadar tüm konuları içerir - 30 puan
+6. **Final Sınavı**: Tüm ders konuları hakkında - 30 puan
 
 ## **Derse Katılım:**
 Öğrencilerin tüm derslere zamanında ve düzenli olarak katılmaları gerekmektedir. Devam ve katılım zorunluluğu, dersin başarı kriterlerinden biridir ve bu kuralın ihlali durumunda öğrenci, dersten başarısız sayılabilir. 
