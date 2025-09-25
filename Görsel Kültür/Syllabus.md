@@ -38,7 +38,11 @@ Dersin merkezinde bakış ve başkalık tartışmaları ile gerçekçilik ve bak
 | 14 | Genel Bakış | — | Kulvicki, *Images*, ch. 7–8 (Scientific images; Images in mind) |
 | 15 | Genel Sınav | — | — |
 
-
+## Kaynaklar
+- Berger, J. (2018). Görme biçimleri (Y. Salman, Çev.). İstanbul: Metis Yayınları. 
+- Sturken, M., & Cartwright, L. (2018). Görsel kültür çalışmaları: Bakmak, anlamak ve öğrenmek (Çev. ed. G. Ulutaş). İstanbul: De Ki Yayınları. 
+- Carroll, N. (2013). Minerva’s night out: Philosophy, pop culture, and moving pictures. Malden, MA: Wiley-Blackwell.
+- Kulvicki, J. V. (2014). Images. New York: Routledge.
 
 ---
 
