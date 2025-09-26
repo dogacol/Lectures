@@ -97,8 +97,9 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 
 #### Sınavlar
 
-1. **Ara sınav**: Yedinci haftaya kadar tüm konuları içerir - 25 puan
-2. **Final Sınavı**: Tüm ders konuları - 25 puan
+
+Ara sınav: Yedinci haftaya kadar tüm konuları içeren sınav - 40 puan
+Final Sınavı: Tüm ders konuları hakkında sınav - 60 puan
     
 ## **Derse Katılım:**
 Öğrencilerin tüm derslere zamanında ve düzenli olarak katılmaları gerekmektedir. Devam ve katılım zorunluluğu, dersin başarı kriterlerinden biridir ve bu kuralın ihlali durumunda öğrenci, dersten başarısız sayılabilir. 
