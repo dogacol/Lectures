@@ -38,7 +38,7 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
     </tr>
     <tr style="border-top:2px solid black">
       <td><b>3</b></td>
-      <td><b>Anlatı ve Kurgu</b></td>
+      <td><b>Anlatı, Çerçeve ve Kurgu</b></td>
       <td>Carroll, <i>The Philosophy of Motion Pictures</i>, s. 116–144<br><b>Elsaesser:</b> Bölüm 1 (devam)</td>
       <td><i>The Great Train Robbery</i> (1903), <i>M</i> (1931), <i>Rear Window</i> (1954)</td>
     </tr>
