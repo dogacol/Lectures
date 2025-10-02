@@ -64,7 +64,7 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
       <td><b>7</b></td>
       <td><b>Duygu ve Hareket</b></td>
       <td>K. Thomson-Jones, “Narration in Motion”; S. Feagin, “Film Appreciation and Moral Insensitivity”<br><b>Elsaesser:</b> Bölüm 5 “Ten olarak Sinema”</td>
-      <td><i>Mad Max: Fury Road</i> (2015)</td>
+      <td><i>In the Mood for Love</i> (2000)</td>
     </tr>
     <tr style="border-top:2px solid black">
       <td><b>8</b></td>
