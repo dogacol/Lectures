@@ -39,13 +39,7 @@ Kitaptaki bölümleri ve sayfa numaralarını da dikkate alarak (Sturken & Cartw
 | 14    | Genel Tekrar                                      | **Sturken**, Bölüm 1–10 özet; **Mirzoeff**, genel değerlendirme                                                                   | Kulvicki, *Images*, ch. 7–8 (Scientific Images; Images in Mind)                                                                   |
 | 15    | Genel Sınav                            | —                                                                                                                                 | —                                                                                                                                 |
 
-Böylece her hafta Sturken & Cartwright’ın ilgili bölümleri, Berger’in sayfa aralıkları ve Mirzoeff’in *How to See the World* kitabından uygun kısımlar eklenmiş oldu.
 
-İsterseniz Berger’in bölümlerini de tek tek kontrol edip haftalara bölümlerin tam başlıklarını ekleyeyim mi?
-
-
-Medical References:
-1. None — DOI: file_00000000e3e46230a7a662e69a37ff4a
 
 ## Kaynaklar
 - Berger, J. (2018). Görme biçimleri (Y. Salman, Çev.). İstanbul: Metis Yayınları. 
