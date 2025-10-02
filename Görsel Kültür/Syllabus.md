@@ -42,7 +42,8 @@ Dersin merkezinde bakış ve başkalık tartışmaları ile gerçekçilik ve bak
 
 ## Kaynaklar
 - Berger, J. (2018). Görme biçimleri (Y. Salman, Çev.). İstanbul: Metis Yayınları. 
-- Sturken, M., & Cartwright, L. (2018). 
+- Sturken, M., & Cartwright, L. (2018).
+- Mirzoeff, N. (2015). How to see the world. Penguin.
 - Carroll, N. (2013). Minerva’s night out: Philosophy, pop culture, and moving pictures. Malden, MA: Wiley-Blackwell.
 - Kulvicki, J. V. (2014). Images. New York: Routledge.
 
