@@ -19,7 +19,6 @@ Dersin merkezinde bakış ve başkalık tartışmaları ile gerçekçilik ve bak
 ---
 
 ## Ders Akışı
-Kitaptaki bölümleri ve sayfa numaralarını da dikkate alarak (Sturken & Cartwright, Berger ve Mirzoeff ile birlikte) güncellenmiş tablo şöyle görünebilir:
 
 | Hafta | Konu                                              | Ön Hazırlık                                                                                        | Ek Okuma                                                                                                                          |
 | ----- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
