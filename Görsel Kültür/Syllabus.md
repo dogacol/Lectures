@@ -19,24 +19,24 @@ Dersin merkezinde bakış ve başkalık tartışmaları ile gerçekçilik ve bak
 ---
 
 ## Ders Akışı
+| Hafta | Konu                                              | Ön Hazırlık (Sturken & Berger)                | Ek Okuma                                                                                                                              |
+| ----- | ------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Görsel Kültüre Giriş                              | Sturken, Giriş 1–12; Berger 7–15              | Kulvicki, *Images*, ch. 1 “Experience”                                                                                                |
+| 2     | İmgeler, İktidar ve Politika                      | Sturken 13–29; Berger 13–29                   | Kulvicki, *Images*, ch. 2 “Recognition”; W.J.T. Mitchell, “What Do Pictures Want?”                                                    |
+| 3     | Göstergebilim, Temsil ve İdeoloji                 | Sturken 29–51; Berger 29–35                   | Kulvicki, *Images*, ch. 3 “Resemblance” & ch. 4 “Pretense”                                                                            |
+| 4     | İzleyici Anlam Üretir: Zevk, Estetik ve Kodlar    | Sturken 51–74; Berger 36–44                   | Kulvicki, *Images*, ch. 5 “Structure”; James Clifford, “On Collecting Art and Culture”                                                |
+| 5     | İdeoloji, Kitle Kültürü ve Mekanik Yeniden Üretim | Sturken 74–89, 185–198; Berger 45–55          | Carroll, “The Ontology of Mass Art”; Walter Benjamin, “The Work of Art in the Age of Mechanical Reproduction”                         |
+| 6     | Modernite, Algı ve Yeni Görme Biçimleri           | Sturken 89–103; Berger 15–20, 30–35           | Carroll, “Modernity and the Plasticity of Perception”; Anne Friedberg, “The Mobilized and Virtual Gaze in Modernity”                  |
+| 7     | Seyir, Bakış ve Başkalık                          | Sturken 103–139; Berger 55–74                 | Carroll, “Movies, the Moral Emotions, and Sympathy”; Foucault, “Panopticism”                                                          |
+| 8     | Ara Sınav                                         | İlk yedi haftanın tüm konuları                | —                                                                                                                                     |
+| 9     | Gerçekçilik ve Perspektif                         | Sturken 139–179; Berger 104–109               | Kulvicki, *Images*, ch. 6 “Realism and Unrealism”; Bordwell, “Film Form”                                                              |
+| 10    | Görsel Teknolojiler ve Fotoğraf                   | Sturken 179–219; Berger 15–20, 30–35, 104–109 | Carroll, “The Problem with Movie Stars”; Kulvicki, *Images*, ch. 9 “Photography and Object Perception”; Sontag, “In Plato’s Cave”     |
+| 11    | Medya, Gündelik Hayat ve Tüketim                  | Sturken 219–257; Berger 130–133               | Carroll, “Consuming Passion: Sex and the City”; Lynn Spigel, “Suburban Home Companion”                                                |
+| 12    | Postmodernizm: İroni, Parodi ve Pastiş            | Sturken 301–337; Berger 149–155               | Carroll, “The Grotesque Today: Preliminary Notes toward a Taxonomy”; Mirzoeff, *How to See the World*                                 |
+| 13    | Bilimsel Bakış, Savaş ve Küresel Görsellik        | Sturken 337–424                               | Kulvicki, *Images*, ch. 7–8 (Scientific Images; Images in Mind); Mirzoeff, *How to See the World*, ch. 3; Kaplan, *Aerial Aftermaths* |
+| 14    | Post-Postmodern Görsellik ve Aktivizm             | Berger 151–155                                | Carroll, “Andy Kaufman and the Philosophy of Interpretation”; Mirzoeff, “Visualizing the Anthropocene”; Crimp, *AIDSDemoGraphics*     |
+| 15    | Genel Sınav ve Kapanış                            | —                                             | —                                                                                                                                     |
 
-| Hafta | Konu | Ön Hazırlık (Sturken & Berger) | Ek Okuma |
-|-------|----------------|--------------------------------|----------------------|
-| 1 | İmge Nedir? | Sturken 1–13; Berger 7–15 | Kulvicki, *Images*, ch. 1 “Experience” |
-| 2 | Temsil ve Görsellik | Sturken 13–29; Berger 13–29 | Kulvicki, *Images*, ch. 2 “Recognition” |
-| 3 | Göstergeler, İkonlar ve Görsel Kodlar | Sturken 29–51; Berger 29–35 | Kulvicki, *Images*, ch. 3 “Resemblance” & ch. 4 “Pretense” |
-| 4 | Görsel Anlam, Değer ve Yapı | Sturken 51–74; Berger 36–44 | Kulvicki, *Images*, ch. 5 “Structure” |
-| 5 | İdeoloji ve Kitle Kültürü | Sturken 74–89; Berger 45–55 | Carroll, “The Ontology of Mass Art” |
-| 6 | Modernite, Algı ve Modernizm | Sturken 89–103; Berger 15–20, 30–35 | Carroll, “Modernity and the Plasticity of Perception” |
-| 7 | Bakış, Başkalık ve Duygu | Sturken 103–139; Berger 55–74 | Carroll, “Movies, the Moral Emotions, and Sympathy” |
-| 8 | Ara Sınav | İlk yedi haftanın tüm konuları | — |
-| 9 | Gerçekçilik ve Bakış Açısı | Sturken 139–179; Berger 104–109 | Kulvicki, *Images*, ch. 6 “Realism and Unrealism” |
-| 10 | Görsel Teknolojiler, Yeniden Üretim ve Kopya | Sturken 179–219; Berger 15–20, 30–35, 104–109 | Carroll, “The Problem with Movie Stars”; Kulvicki, *Images*, ch. 9 “Photography and Object Perception” |
-| 11 | Medya, Tüketim ve Günlük Hayat İmgeleri | Sturken 219–257; Berger 130–133 | Carroll, “Consuming Passion: Sex and the City” |
-| 12 | Postmodernizm ve İmgeler | Sturken 301–337; Berger 149–155 | Carroll, “The Grotesque Today: Preliminary Notes toward a Taxonomy” |
-| 13 | Post-postmodern Görsellik | Berger 151–155 | Carroll, “Andy Kaufman and the Philosophy of Interpretation” |
-| 14 | Genel Bakış | — | Kulvicki, *Images*, ch. 7–8 (Scientific images; Images in mind) |
-| 15 | Genel Sınav | — | — |
 
 ## Kaynaklar
 - Berger, J. (2018). Görme biçimleri (Y. Salman, Çev.). İstanbul: Metis Yayınları. 
