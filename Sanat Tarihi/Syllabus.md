@@ -78,7 +78,9 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
 * **Videolar**:
   * [Maniyerizm: Bronzino](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/pontormo/v/parmigianino-madonna-of-the-long-neck-1530-33)
 
-### Ders 8 - Barok Sanatı: Felemenk ve Fransa
+### 8. Hafta - Ara Sınav
+
+### Ders 9 - Barok Sanatı: Felemenk ve Fransa
 
 * **Konular**: Rembrandt, Vermeer, Poussin
 * **Okumalar**:
@@ -86,8 +88,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
   * Bölüm 20: *Doğanın Aynası: Hollanda XVII. Yüzyıl* (s. 413)
 * **Videolar**:
   * [Hollanda Altın Çağı](https://tr.khanacademy.org/humanities/renaissance-reformation/baroque-art1)
-
-### 9. Hafta - Ara Sınav
+* **Üçüncü Ödev Teslimi**
 
 ### Ders 10 - 18. Yüzyıl: Rokoko ve Neoklasizm
 
@@ -96,7 +97,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
   * Bölüm 23: *Akıl Çağı: İngiltere ve Fransa XVIII. Yüzyıl* (s. 457)
 * **Videolar**:
   * [Rokoko Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/rococo-neoclassicism)
-* **Üçüncü Ödev Teslimi**
+
 
 ### Ders 11 - İngiliz Sanatı ve Portre
 
