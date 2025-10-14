@@ -50,13 +50,13 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
     </tr>
     <tr style="border-top:2px solid black">
       <td><b>5</b></td>
-      <td><b>Güvenilmez Anlatı</b></td>
+      <td><b>Anlatı</b></td>
       <td>Gregory Currie, “Unreliability Refigured: Narrative in Literature and Film”<br><b>Elsaesser:</b> Bölüm 3 “Ayna olarak Sinema”</td>
       <td><i>Fight Club</i> (1999)</td>
     </tr>
     <tr style="border-top:2px solid black">
       <td><b>6</b></td>
-      <td><b>Anlatı</b></td>
+      <td><b>Bellek</b></td>
       <td>Carroll, “Memento and the Phenomenology of Comprehending Motion Picture Narrative”, Minerva's Night Out kitabından<br><b>Elsaesser:</b> Bölüm 4 “Göz olarak Sinema”</td>
       <td><i>Memento</i> (2000)</td>
     </tr>
