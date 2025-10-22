@@ -56,9 +56,9 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
     </tr>
     <tr style="border-top:2px solid black">
       <td><b>6</b></td>
-      <td><b>Bellek</b></td>
+      <td><b>Bakış</b></td>
       <td>Carroll, “Memento and the Phenomenology of Comprehending Motion Picture Narrative”, Minerva's Night Out kitabından<br><b>Elsaesser:</b> Bölüm 4 “Göz olarak Sinema”</td>
-      <td><i>Memento</i> (2000)</td>
+      <td><i>Vertigo</i> (1958)</td>
     </tr>
     <tr style="border-top:2px solid black">
       <td><b>7</b></td>
