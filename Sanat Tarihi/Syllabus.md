@@ -80,7 +80,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
 
 ### 8. Hafta - Ara Sınav
 
-### Ders 9 - Barok Sanatı: Felemenk ve Fransa
+### Ders 9 - Barok Sanatı I
 
 * **Konular**: Rembrandt, Vermeer, Poussin
 * **Okumalar**:
@@ -90,7 +90,16 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
   * [Hollanda Altın Çağı](https://tr.khanacademy.org/humanities/renaissance-reformation/baroque-art1)
 * **Üçüncü Ödev Teslimi**
 
-### Ders 10 - 18. Yüzyıl: Rokoko ve Neoklasizm
+### Ders 10 - Barok Sanatı II
+
+* **Konular**: Brueghel, Rubens, Aertsen, Velázquez, Caravaggio
+* **Okumalar**:
+  * Bölüm 19: *Görüntü ve Görüntüler: Katolik Avrupa XVII. Yüzyıl İlk Yarısı* (s. 387)
+  * Bölüm 20: *Doğanın Aynası: Hollanda XVII. Yüzyıl* (s. 413)
+* **Videolar**:
+  * [Hollanda Altın Çağı](https://tr.khanacademy.org/humanities/renaissance-reformation/baroque-art1)
+
+### Ders 11 - 18. Yüzyıl: Rokoko ve Neoklasizm
 
 * **Konular**: Watteau, Fragonard, Boucher
 * **Okumalar**:
@@ -98,14 +107,6 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
 * **Videolar**:
   * [Rokoko Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/rococo-neoclassicism)
 
-
-### Ders 11 - İngiliz Sanatı ve Portre
-
-* **Konular**: Gainsborough, Reynolds, Hogarth
-* **Okumalar**:
-  * Bölüm 23: *Akıl Çağı: İngiltere ve Fransa XVIII. Yüzyıl* (s. 457)
-* **Videolar**:
-  * [İngiltere'de Portre](https://tr.khanacademy.org/humanities/renaissance-reformation/britain-18c)
 
 ### Ders 12 - Romantizm
 
