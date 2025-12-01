@@ -87,7 +87,7 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
     <tr style="border-top:2px solid black">
       <td><b>11</b></td>
       <td><b>Dijital Gerçekçilik</b></td>
-      <td>Noël Carroll, “Digital Realism”<br><b>Elsaesser:</b> Bölüm 8 “Dijital Sinema ve Film Kuramı”</td>
+      <td>Berys Gaut, "Digital Cinema," Philosophy and Film Companion<br><b>Elsaesser:</b> Bölüm 8 “Dijital Sinema ve Film Kuramı”</td>
       <td><i>Ghost in the Shell</i> (1995)</td>
     </tr>
     <tr style="border-top:2px solid black">
