@@ -115,6 +115,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
   * Bölüm 25: *Sürekli Devrim: XIX. Yüzyıl* (s. 499)
 * **Videolar**:
   * [Romantizm](https://tr.khanacademy.org/humanities/becoming-modern/romanticism)
+* **Dördüncü Ödev Teslimi**
 
 ### Ders 13 - Realizm, Empresyonizm ve Post-Empresyonizm
 
@@ -123,7 +124,7 @@ Bu ders, kültürel ve varoluşsal önemi üzerinden, görsel sanat eserlerini t
   * Bölüm 26: *Yeni Ölçüler Peşinde: XIX. Yüzyıl Sonları* (s. 535)
 * **Videolar**:
   * [Realizm, Empresyonizm ve Post-Empresyonizm](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france)
-* **Dördüncü Ödev Teslimi**
+
 
 ### Ders 14 - Modernizm, Pop Art ve Final
 
