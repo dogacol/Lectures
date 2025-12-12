@@ -80,7 +80,7 @@ Bu dersin amacı, sinemanın ve televizyonun temel ifade biçimlerini, anlatı y
 ### **Hafta 12: Ses I – Sesin Temel Ögeleri**
 
 * **Okuma**: Bölüm 7 (ilk yarı)
-* **Film**: *Jules et Jim* (François Truffaut, 1962)
+* **Film**: *Once Upon a Time in the West* (Sergio Leone, 1968)
 
   
 ### **Hafta 13: Ses II – Ses Tasarımı ve Anlatıda Kullanımı**
