@@ -99,7 +99,7 @@ Bu ders, sinema felsefesine bir giriş niteliğindedir. Filmlerin seyirciyi gör
     <tr style="border-top:2px solid black">
       <td><b>13</b></td>
       <td><b>Yapay Zekâ ve Sinema</b></td>
-      <td>Stephen Prince, “Digital Visual Effects and the Future of Cinema”<br><b>Ek:</b> Güncel makale (duyurulacak)</td>
+      <td>Stephen Prince, “Digital Visual Effects and the Future of Cinema”</td>
       <td><i>Her</i> (2013)</td>
     </tr>
     <tr style="border-top:2px solid black">
