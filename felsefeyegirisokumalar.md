@@ -1,4 +1,5 @@
-## İçindekiler
+# Felsefeye Giriş Dersi Okuma Parçaları
+## ## İçindekiler
 
 1. [2. Hafta](#2-hafta)
    - [Platon - Sokrates’in Savunması](#platon-sokrates-in-savunması)
