@@ -12,6 +12,7 @@
 ## Dersin Amacı
 
 Bu ders, öğrencileri felsefe geleneğinin temel soruları, yöntemleri ve metinleriyle tanıştırmayı amaçlar. Felsefi düşünmenin ne olduğunu, nasıl yapıldığını ve neden önemli olduğu konuşulacak, ders içinde yakın okumalar yapılacak ve tartışılacaktır. Bu dersin özünde, sonuçlara ulaşmaktan ziyade, soruları sorma becerisini geliştirmek yatar.
+
 ------
 ## Ders Kuralları ve Önemli Bilgiler
 ### Değerlendirme
