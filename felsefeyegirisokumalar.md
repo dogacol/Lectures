@@ -1,8 +1,9 @@
 # Felsefeye Giriş Dersi Okuma Parçaları
-## ## İçindekiler
+
+## İçindekiler
 
 1. [2. Hafta](#2-hafta)
-   - [Platon - Sokrates’in Savunması](#platon-sokrates-in-savunması)
+   - [Platon - Sokrates’in Savunması](#platon-sokratesin-savunmasi)
 
 2. [3. Hafta](#3-hafta)
    - [Platon - Devlet](#platon-devlet)
@@ -16,17 +17,17 @@
    - [Montaigne - Denemeler.](#montaigne-denemeler)
      - [Kendimizi İnceleme](#kendimizi-inceleme)
      - [İnsan Hali](#insan-hali)
-     - [İnsanın Kararsızlığı](#insanin-kararsizligi)
+     - [İnsanın Kararsızlığı](#insanin-kararsızlığı)
 
 5. [6. Hafta](#6-hafta)
    - [Aquinas - Summa Theologica](#aquinas-summa-theologica)
-     - [Soru 2: Tanrı'nın Varoluşu](#soru-2-tanrı-nın-varoluşu)
-       - [Makale 1. Tanrı'nın varoluşunun kendinden aşikâr olup olmadığı üzerine](#makale-1-tanrı-nın-varoluşunun-kendinden-aşikâr-olup-olmadığı-üzerine)
-       - [Makale 2. Tanrı'nın var olduğu ispat edilebilir mi?](#makale-2-tanrı-nın-var-olduğu-ispat-edilebilir-mi)
+     - [Soru 2: Tanrı'nın Varoluşu](#soru-2-tanrinin-varoluşu)
+       - [Makale 1. Tanrı'nın varoluşunun kendinden aşikâr olup olmadığı üzerine](#makale-1-tanrinin-varoluşunun-kendinden-aşikâr-olup-olmadığı-üzerine)
+       - [Makale 2. Tanrı'nın var olduğu ispat edilebilir mi?](#makale-2-tanrinin-var-olduğu-ispat-edilebilir-mi)
        - [Makale 3. Tanrı var mıdır?](#makale-3-tanrı-var-mıdır)
 
 6. [7. Hafta](#7-hafta)
-   - [Sartre - Varoluşçuluk Bir Hümanizmdir](#sartre-varoluşçuluk-bir-hümanizmdir)
+   - [Sartre - Varoluşçuluk Bir Hümanizmdir](#sartre---varoluşçuluk-bir-hümanizmdir)
 
 7. [9. Hafta](#9-hafta)
    - [Camus - Sisifos Söyleni](#camus-sisifos-söyleni)
@@ -38,13 +39,13 @@
    - [Platon - Şölen](#platon-şölen)
 
 10. [12. Hafta](#12-hafta)
-    - [Ralph Waldo Emerson - Özgüven](#ralph-waldo-emerson-özgüven)
+    - [Ralph Waldo Emerson - Özgüven](#12-hafta)  <!-- No direct anchor; links to week (scrolls near content) -->
 
 11. [13. Hafta](#13-hafta)
     - [Aristoteles - Fizik - 4. Kitap - Bölümler 10-14](#aristoteles-fizik-4-kitap-bölümler-10-14)
 
 12. [14. Hafta](#14-hafta)
-    - [J. Ellis McTaggart - Zamanın Gerçekdışılığı](#j-ellis-mctaggart-zamanın-gerçekdışılığı)
+    - [J. Ellis McTaggart - Zamanın Gerçekdışılığı](#14-hafta)  <!-- No direct anchor; links to week -->
 
 13. [15. Hafta](#15-hafta)
     - [Seneca: Ahlak Mektupları](#seneca-ahlak-mektupları)
