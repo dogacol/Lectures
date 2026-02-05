@@ -1,41 +1,55 @@
-# Felsefeye Giriş Dersi Okuma Parçaları
 ## İçindekiler
 
 1. [2. Hafta](#2-hafta)
-   - [Platon - Sokrates’in Savunması](#platon-sokratesin-savunmasi)
+   - [Platon - Sokrates’in Savunması](#platon-sokrates-in-savunması)
+
 2. [3. Hafta](#3-hafta)
    - [Platon - Devlet](#platon-devlet)
+
 3. [4. Hafta](#4-hafta)
-   - [Descartes - Meditasyonlar veya Metafizik Üzerine Düşünceler: I ve II.](#descartes-meditasyonlar-veya-metafizik-uzerine-dusunceler-i-ve-ii)
-     - [I. Düşünce: Kuşku duyulabilir şeyler](#i-dusunce-kusku-duyulabilir-seyler)
-     - [II. Düşünce: İnsan zihninin doğası](#ii-dusunce-insan-zihninin-dogasi)
+   - [Descartes - Meditasyonlar veya Metafizik Üzerine Düşünceler: I ve II.](#descartes-meditasyonlar-veya-metafizik-üzerine-düşünceler-i-ve-ii)
+     - [I. Düşünce: Kuşku duyulabilir şeyler](#i-düşünce-kuşku-duyulabilir-şeyler)
+     - [II. Düşünce: İnsan zihninin doğası](#ii-düşünce-insan-zihninin-doğası)
+
 4. [5. Hafta](#5-hafta)
    - [Montaigne - Denemeler.](#montaigne-denemeler)
      - [Kendimizi İnceleme](#kendimizi-inceleme)
      - [İnsan Hali](#insan-hali)
      - [İnsanın Kararsızlığı](#insanin-kararsizligi)
+
 5. [6. Hafta](#6-hafta)
    - [Aquinas - Summa Theologica](#aquinas-summa-theologica)
-     - [Soru 2: Tanrı'nın Varoluşu](#soru-2-tanrinin-varolusu)
-       - [Makale 1. Tanrı'nın varoluşunun kendinden aşikâr olup olmadığı üzerine](#makale-1-tanrinin-varolusunun-kendinden-asikar-olup-olmadigi-uzerine)
-       - [Makale 2. Tanrı'nın var olduğu ispat edilebilir mi?](#makale-2-tanrinin-var-oldugu-ispat-edilebilir-mi)
-       - [Makale 3. Tanrı var mıdır?](#makale-3-tanri-var-midir)
+     - [Soru 2: Tanrı'nın Varoluşu](#soru-2-tanrı-nın-varoluşu)
+       - [Makale 1. Tanrı'nın varoluşunun kendinden aşikâr olup olmadığı üzerine](#makale-1-tanrı-nın-varoluşunun-kendinden-aşikâr-olup-olmadığı-üzerine)
+       - [Makale 2. Tanrı'nın var olduğu ispat edilebilir mi?](#makale-2-tanrı-nın-var-olduğu-ispat-edilebilir-mi)
+       - [Makale 3. Tanrı var mıdır?](#makale-3-tanrı-var-mıdır)
+
 6. [7. Hafta](#7-hafta)
-   - [Sartre - Varoluşçuluk Bir Hümanizmdir](#sartre-varolusculuk-bir-humanizmdir)
+   - [Sartre - Varoluşçuluk Bir Hümanizmdir](#sartre-varoluşçuluk-bir-hümanizmdir)
+
 7. [9. Hafta](#9-hafta)
-   - [Camus - Sisifos Söyleni](#camus-sisifos-soyleni)
+   - [Camus - Sisifos Söyleni](#camus-sisifos-söyleni)
+
 8. [10. Hafta](#10-hafta)
-   - [Kierkegaard - Kaygı Kavramı](#kierkegaard-kaygi-kavrami)
+   - [Kierkegaard - Kaygı Kavramı](#kierkegaard-kaygı-kavramı)
+
 9. [11. Hafta](#11-hafta)
-   - [Platon - Şölen](#platon-solen)
+   - [Platon - Şölen](#platon-şölen)
+
 10. [12. Hafta](#12-hafta)
-    - [Ralph Waldo Emerson - Özgüven](#ralph-waldo-emerson-ozguven)
+    - [Ralph Waldo Emerson - Özgüven](#ralph-waldo-emerson-özgüven)
+
 11. [13. Hafta](#13-hafta)
-    - [Aristoteles - Fizik - 4. Kitap - Bölümler 10-14](#aristoteles-fizik-4-kitap-bolumler-10-14)
+    - [Aristoteles - Fizik - 4. Kitap - Bölümler 10-14](#aristoteles-fizik-4-kitap-bölümler-10-14)
+
 12. [14. Hafta](#14-hafta)
-    - [J. Ellis McTaggart - Zamanın Gerçekdışılığı](#j-ellis-mctaggart-zamanin-gercekdisiligi)
+    - [J. Ellis McTaggart - Zamanın Gerçekdışılığı](#j-ellis-mctaggart-zamanın-gerçekdışılığı)
+
 13. [15. Hafta](#15-hafta)
-    - [Seneca: Ahlak Mektupları](#seneca-ahlak-mektuplari)
+    - [Seneca: Ahlak Mektupları](#seneca-ahlak-mektupları)
+      - [1. Mektup](#1-mektup)
+      - [24. Mektup](#24-mektup)
+      - [70. Mektup](#70-mektup)
 
 # 2. Hafta
 ## Platon - Sokrates’in Savunması
