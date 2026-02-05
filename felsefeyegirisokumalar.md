@@ -2,61 +2,23 @@
 
 ## İçindekiler
 
-1. [2. Hafta](#2-hafta)
-   - [Platon - Sokrates’in Savunması](#platon-sokratesin-savunmasi)
+1. [2. Hafta: Platon - Sokrates’in Savunması](#2-hafta)
+2. [3. Hafta: Platon - Devlet](#3-hafta)
+3. [4. Hafta: Descartes - Meditasyonlar veya Metafizik Üzerine Düşünceler: I ve II.](#4-hafta)
+4. [5. Hafta: Montaigne - Denemeler](#5-hafta)
+5. [6. Hafta: Aquinas - Summa Theologica](#6-hafta)
+6. [7. Hafta: Sartre - Varoluşçuluk Bir Hümanizmdir](#7-hafta)
+7. [9. Hafta: Camus - Sisifos Söyleni](#9-hafta)
+8. [10. Hafta: Kierkegaard - Kaygı Kavramı](#10-hafta)
+9. [11. Hafta: Platon - Şölen](#11-hafta)
+10. [12. Hafta: Ralph Waldo Emerson - Özgüven](#12-hafta)
+11. [13. Hafta: Aristoteles - Fizik - 4. Kitap - Bölümler 10-14](#13-hafta)
+12. [14. Hafta: J. Ellis McTaggart - Zamanın Gerçekdışılığı](#14-hafta)
+13. [15. Hafta: Seneca - Ahlak Mektupları](#15-hafta)
 
-2. [3. Hafta](#3-hafta)
-   - [Platon - Devlet](#platon-devlet)
-
-3. [4. Hafta](#4-hafta)
-   - [Descartes - Meditasyonlar veya Metafizik Üzerine Düşünceler: I ve II.](#descartes-meditasyonlar-veya-metafizik-üzerine-düşünceler-i-ve-ii)
-     - [I. Düşünce: Kuşku duyulabilir şeyler](#i-düşünce-kuşku-duyulabilir-şeyler)
-     - [II. Düşünce: İnsan zihninin doğası](#ii-düşünce-insan-zihninin-doğası)
-
-4. [5. Hafta](#5-hafta)
-   - [Montaigne - Denemeler.](#montaigne-denemeler)
-     - [Kendimizi İnceleme](#kendimizi-inceleme)
-     - [İnsan Hali](#insan-hali)
-     - [İnsanın Kararsızlığı](#insanin-kararsızlığı)
-
-5. [6. Hafta](#6-hafta)
-   - [Aquinas - Summa Theologica](#aquinas-summa-theologica)
-     - [Soru 2: Tanrı'nın Varoluşu](#soru-2-tanrinin-varoluşu)
-       - [Makale 1. Tanrı'nın varoluşunun kendinden aşikâr olup olmadığı üzerine](#makale-1-tanrinin-varoluşunun-kendinden-aşikâr-olup-olmadığı-üzerine)
-       - [Makale 2. Tanrı'nın var olduğu ispat edilebilir mi?](#makale-2-tanrinin-var-olduğu-ispat-edilebilir-mi)
-       - [Makale 3. Tanrı var mıdır?](#makale-3-tanrı-var-mıdır)
-
-6. [7. Hafta](#7-hafta)
-   - [Sartre - Varoluşçuluk Bir Hümanizmdir](#sartre---varoluşçuluk-bir-hümanizmdir)
-
-7. [9. Hafta](#9-hafta)
-   - [Camus - Sisifos Söyleni](#camus-sisifos-söyleni)
-
-8. [10. Hafta](#10-hafta)
-   - [Kierkegaard - Kaygı Kavramı](#kierkegaard-kaygı-kavramı)
-
-9. [11. Hafta](#11-hafta)
-   - [Platon - Şölen](#platon-şölen)
-
-10. [12. Hafta](#12-hafta)
-    - [Ralph Waldo Emerson - Özgüven](#12-hafta)  <!-- No direct anchor; links to week (scrolls near content) -->
-
-11. [13. Hafta](#13-hafta)
-    - [Aristoteles - Fizik - 4. Kitap - Bölümler 10-14](#aristoteles-fizik-4-kitap-bölümler-10-14)
-
-12. [14. Hafta](#14-hafta)
-    - [J. Ellis McTaggart - Zamanın Gerçekdışılığı](#14-hafta)  <!-- No direct anchor; links to week -->
-
-13. [15. Hafta](#15-hafta)
-    - [Seneca: Ahlak Mektupları](#seneca-ahlak-mektupları)
-      - [1. Mektup](#1-mektup)
-      - [24. Mektup](#24-mektup)
-      - [70. Mektup](#70-mektup)
 
 # 2. Hafta
 ## Platon - Sokrates’in Savunması
-
- **SOKRATES'İN SAVUNMASI   [ΑΠΟΛΟΓΙΑ]** 
 
  [17a] Atinalılar, beni suçlayanların sizi nasıl etkilediğini bilemiyorum. Ama öyle ikna edici konuşuyorlardı ki, az kalsın ben bile kim olduğumu unutacaktım. Buna karşın, tek bir doğru laf etmediklerini söylemem gerekir. Sıraladıkları bunca yalan arasında, özellikle birine çok şaşırdım. Güya mükemmel bir hatip olduğumdan sizi aldatmamam için [17b] dikkat etmeniz gerekiyormuş! Hemen şimdi kanıtlayacağım üzere mükemmel bir hatip olmadığım hâlde, yüzleri bile kızarmadan böyle konuşmaları, yapılabilecek en büyük utanmazlıktır kanımca. Ancak, mükemmel hatip derken doğruyu söyleyenleri kastediyorlarsa ona bir şey diyemem! Eğer kastettikleri buysa, onların anladığı şekilde olmasa da iyi bir hatip olduğuma ben de katılıyorum.
  
