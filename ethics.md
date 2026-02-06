@@ -7,7 +7,7 @@
 | Instructor   | Asst. Prof. Doğa Çöl                                |
 | Office       | B408                                                |
 | Office Hours | Thursdays (please contact for hours)                |
-| E-mail       | ~[dcol@medipol.edu.tr](mailto:dcol@medipol.edu.tr)~ |
+| E-mail       | [dcol@medipol.edu.tr](mailto:dcol@medipol.edu.tr) |
 # Course Description
 Ethics is the branch of philosophy examining good and evil, right and wrong action. At bottom, ethics addresses the most practical question: "What ought I do?" Therefore ethics is not a hypothetical concern but something continually wrestled with in daily life. Ethics is an inherent and inescapable part of human existence.
 This course examines influential answers to ethics' practical question: from Plato and Aristotle's virtue ethics to Kant's deontology, from Mill's utilitarianism to Beauvoir's existentialist ethics. The primary aim of the course is to develop cognitive and affective capacities for individual and collective practical deliberation on ethical issues.
