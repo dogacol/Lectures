@@ -51,7 +51,7 @@ Dersin niteliği ve [İletişim Fakültesi Yönergesi](https://www.medipol.edu.t
 ## Gerekli Kaynaklar
 
 * Platon. *Devlet*. (Çeviri: Sabahattin Eyüboğlu ve M. Ali Cimcoz, İş Bankası Kültür Yayınları)
-* Aristoteles. *Nikomakhos'a Etik*. (Çeviri: Saffet Babür, BilgeSu Yayıncılık **veya** Çeviri: Furkan Akderin, Say Yayınları)
+* Aristoteles. *Nikomakhos'a Etik*. (Çeviri: Saffet Babür, BilgeSu Yayıncılık)
 * Kant, Immanuel. *Ahlak Metafiziğinin Temellendirilmesi*. (Çeviri: İonna Kuçuradi, Türkiye Felsefe Kurumu Yayınları)
 * Mill, John Stuart. *Faydacılık ve Özgürlük Üzerine*. (Çeviri: Haktan Kepkep / Alime Karamollaoğlu, Liberte Yayınları)
 * Beauvoir, Simone de. *Belirsizlik Etiği*. (Çeviri: Ahmet Emin Uysal, Türkiye İş Bankası Kültür Yayınları)
