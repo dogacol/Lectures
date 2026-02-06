@@ -67,19 +67,19 @@ Akademik dürüstlük bu dersin temel ilkesidir. Sınavlarda veya ödevlerde her
 
 ***
 
-- Aristoteles. (2008). *Poetika* (İ. Tunalı, Çev.). Remzi Kitabevi.
-- Bell, C. (1914). *Art*. Chatto & Windus.
-- Bozkurt, N. (1995). *Sanat ve estetik kuramları*. Sarmal Yayınevi.
-- Carroll, N. (2012). *Sanat felsefesi: Çağdaş bir giriş* (G. Korkmaz, Çev.). Ütopya Yayınevi.
-- Carroll, N. (1993). Historical Narratives and the Philosophy of Art. *The Journal of Aesthetics and Art Criticism*, 51(3), 313–326.
-- Collingwood, R. G. (1938). *The Principles of Art*. Clarendon Press.
-- Danto, A. (1964). The Artworld. *The Journal of Philosophy*, 61(19), 571–584.
-- Gombrich, E. H. (2015). *Sanat ve yanılsama* (A. Cemal, Çev.). Remzi Kitabevi.
-- Heidegger, M. (2011). *Sanat eserinin kökeni* (F. Tepebaşılı, Çev.). De Ki Yayınları.
-- Kant, I. (2016). *Yargı gücünün eleştirisi* (A. Yardımlı, Çev.). İdea Yayınevi.
-- Platon. (2006). *Devlet* (S. Eyüboğlu & M. A. Cimcoz, Çev.). Türkiye İş Bankası Kültür Yayınları.
-- Sibley, F. (1959). Aesthetic Concepts. *The Philosophical Review*, 68(4), 421–450.
-- Tolstoy, L. (2004). *Sanat nedir?* (M. B. Çorakçı, Çev.). Türkiye İş Bankası Kültür Yayınları.
-- Weitz, M. (1956). The Role of Theory in Aesthetics. *The Journal of Aesthetics and Art Criticism*, 15(1), 27–35.
+* Aristoteles. (2008). *Poetika* (İ. Tunalı, Çev.). Remzi Kitabevi.
+* Bell, C. (1914). *Sanat*. Chatto & Windus.
+* Bozkurt, N. (1995). *Sanat ve estetik kuramları*. Sarmal Yayınevi.
+* Carroll, N. (2012). *Sanat felsefesi: Çağdaş bir giriş* (G. Korkmaz, Çev.). Ütopya Yayınevi.
+* Carroll, N. (1993). Sanatın Felsefesi ve Tarihsel Anlatılar. *The Journal of Aesthetics and Art Criticism*, 51(3), 313–326.
+* Collingwood, R. G. (1938). *Sanatın İlkeleri*. Clarendon Press.
+* Danto, A. (1964). Sanat Dünyası. *The Journal of Philosophy*, 61(19), 571–584.
+* Gombrich, E. H. (2015). *Sanat ve yanılsama* (A. Cemal, Çev.). Remzi Kitabevi.
+* Heidegger, M. (2011). *Sanat eserinin kökeni* (F. Tepebaşılı, Çev.). De Ki Yayınları.
+* Kant, I. (2016). *Yargı gücünün eleştirisi* (A. Yardımlı, Çev.). İdea Yayınevi.
+* Platon. (2006). *Devlet* (S. Eyüboğlu & M. A. Cimcoz, Çev.). Türkiye İş Bankası Kültür Yayınları.
+* Sibley, F. (1959). Estetik Kavramlar. *The Philosophical Review*, 68(4), 421–450.
+* Tolstoy, L. (2004). *Sanat nedir?* (M. B. Çorakçı, Çev.). Türkiye İş Bankası Kültür Yayınları.
+* Weitz, M. (1956). Estetikte Kuramın Rolü. *The Journal of Aesthetics and Art Criticism*, 15(1), 27–35.
 
 ------
