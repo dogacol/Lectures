@@ -28,7 +28,7 @@ Ara değerlendirme notunuz, ders sonu notunuzun %40'ını oluşturur. Bu notun %
 **Ara Sınav Projesi:** A0 boyutunda (yaklaşık 85 x 120 cm) bir moodboard hazırlayacaksınız. Bir felsefeci seçip bu felsefecinin düşüncelerini renk, doku, yazı tipi, şekil, fotoğraf gibi görsel ögeler üzerinden yorumlayın. Bu proje tamamen elle yapılacak olup bilgisayar kullanımına izin verilmemektedir. 
 
 ### Genel Değerlendirme
-Genel değerlendirme notunuz, ders sonu notunuzun %60'ını oluşturur. Bu notun %30'u yazılı sınavdan, %20'si moodboard projesinden, %10'u her biri 2 puan değerinde olmak üzere ders sonunda yapılacak quizlerden hesaplanır.
+Genel değerlendirme notunuz, ders sonu notunuzun %60'ını oluşturur. Bu notun %30'u yazılı sınavdan, %20'si moodboard projesinden, %10'u ders sonunda yapılacak quizlerden hesaplanır.
 
 **Final Projesi:** A0 boyutunda (yaklaşık 85 x 120 cm) bir moodboard hazırlayacaksınız. Bir felsefeci veya felsefi düşünce biçimi seçip bu felsefecinin düşüncelerini renk, doku, yazı tipi, şekil, fotoğraf gibi görsel ögeler üzerinden yorumlayın. Bu proje tamamen elle yapılacak olup bilgisayar kullanımına izin verilmemektedir. Ara sınav projenizin konusundan farklı olmalıdır.
 
