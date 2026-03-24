@@ -20,7 +20,7 @@ Bu ders, öğrencileri felsefe geleneğinin temel soruları, yöntemleri ve meti
 | Değerlendirme Türü | Ağırlık | Not Dağılımı                              |
 |--------------------|---------|-------------------------------------------|
 | Ara Sınav          | %40     | Yazılı (%20) + 4 Quiz (%10) + Proje (%10) |
-| Genel Sınav        | %60     | Yazılı (%30) + Proje (%20) + 5 Quiz (%10) |
+| Genel Sınav        | %60     | Yazılı (%30) + Proje (%20) + 4 Quiz (%10) |
 
 ### Ara Değerlendirme
 Ara değerlendirme notunuz, ders sonu notunuzun %40'ını oluşturur. Bu notun %20'si yazılı sınavdan, %10'u ders sonunda yapılacak quizlerden, %10'u ise moodboard projesinden hesaplanır.
