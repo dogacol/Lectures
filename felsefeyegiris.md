@@ -19,11 +19,11 @@ Bu ders, öğrencileri felsefe geleneğinin temel soruları, yöntemleri ve meti
 
 | Değerlendirme Türü | Ağırlık | Not Dağılımı                              |
 |--------------------|---------|-------------------------------------------|
-| Ara Sınav          | %40     | Yazılı (%20) + 5 Quiz (%10) + Proje (%10) |
+| Ara Sınav          | %40     | Yazılı (%20) + 4 Quiz (%10) + Proje (%10) |
 | Genel Sınav        | %60     | Yazılı (%30) + Proje (%20) + 5 Quiz (%10) |
 
 ### Ara Değerlendirme
-Ara değerlendirme notunuz, ders sonu notunuzun %40'ını oluşturur. Bu notun %20'si yazılı sınavdan, %10'u her biri 2 puan değerinde olmak üzere ders sonunda yapılacak quizlerden, %10'u ise moodboard projesinden hesaplanır.
+Ara değerlendirme notunuz, ders sonu notunuzun %40'ını oluşturur. Bu notun %20'si yazılı sınavdan, %10'u ders sonunda yapılacak quizlerden, %10'u ise moodboard projesinden hesaplanır.
 
 **Ara Sınav Projesi:** A0 boyutunda (yaklaşık 85 x 120 cm) bir moodboard hazırlayacaksınız. Bir felsefeci seçip bu felsefecinin düşüncelerini renk, doku, yazı tipi, şekil, fotoğraf gibi görsel ögeler üzerinden yorumlayın. Bu proje tamamen elle yapılacak olup bilgisayar kullanımına izin verilmemektedir. 
 
