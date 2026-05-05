@@ -58,7 +58,7 @@ Akademik dürüstlük bu dersin temel ilkesidir. Sınavlarda veya ödevlerde her
 | 12        | Sanat, Tanım, Kimlik            | Carroll Böl. 5.1 (ss. 261–288)                    | Weitz, Estetikte Teorinin Rolü (1956)                        |
 | 13        | Kurumsalcı ve Tarihsel Tanımlar | Carroll Böl. 5.2 (ss. 288–326)                    | Danto, Sanat Dünyası (1964)                                  |
 | 14        | Sanatı Tanımlamak               | Carroll Böl. 5.3 (ss. 326–356)                    | Carroll, Tarihsel Anlatılar ve Sanat Felsefesi (1993)        |
-| 15        | Genel Bakış ve Sentez           | Carroll Giriş ve Sonuç bölümlerini yeniden okuyun | Kuramların karşılaştırması; final hazırlık                   |
+| 15        | Genel Bakış ve Değerlendirme         | Carroll Giriş ve Sonuç bölümlerini yeniden okuyun | Kuramların karşılaştırması; final hazırlık                   |
 | 16        | **GENEL SINAV**                 | —                                                 | —                                                            |
 
 ------
