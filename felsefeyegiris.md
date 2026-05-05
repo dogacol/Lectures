@@ -58,7 +58,7 @@ Akademik dürüstlük bu dersin temel ilkesidir. Sınavlarda veya ödevlerde her
 | 12        | Birey ve Toplum       | Emerson. Kendine Güven.                                      | Toplum, bireysel mükemmellik                |
 | 13        | Zamanın Ontolojisi    | Aristoteles. Fizik: IV. Kitap.                               | Fiziksel zaman                              |
 | 14        | Zaman: Akış veya Blok | McTaggart. Zamanın Gerçekdışılığı.                           | Blok Evren, A-B Kuramı                      |
-| 15        | Ölüm                  | Seneca: Ahlak Mektupları (1, 24 ve 70. Mektuplar).           | Ölüm korkusu.                               |
+| 15        | Genel Değerlendirme                  | Final Öncesi Hazırlık          | Genel Değerlendirme                          |
 | 16        | **FINAL SINAVI**      | —                                                            | —                                           |
 ------
 ## Ders Kitapları ve Kaynaklar
@@ -78,6 +78,6 @@ Akademik dürüstlük bu dersin temel ilkesidir. Sınavlarda veya ödevlerde her
 * Platon. (2006b). Sokrates'in savunması (E. Bayrı, Çev.). Türkiye İş Bankası Kültür Yayınları.
 * Platon. (2006c). Şölen (S. Eyüboğlu, Çev.). Türkiye İş Bankası Kültür Yayınları.
 * Sartre, J.-P. (2015). Varoluşçuluk bir insancılıktır (A. Bezirci, Çev.). Can Yayınları.
-* Seneca, L. A. (2017). Ahlak mektupları (T. Uzel, Çev.). Türkiye İş Bankası Kültür Yayınları.
+
 
 ------
