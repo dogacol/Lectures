@@ -44,8 +44,8 @@ Dersin niteliği ve [İletişim Fakültesi Yönergesi](https://www.medipol.edu.t
 | **11**    | **Kant'ın Deontolojik Etiği III – Özerklik**           | Kant, *Ahlak Metafiziğinin Temellendirilmesi* İkinci Bölüm (429–445) | Özerklik; Amaçlar Krallığı                                   | Quiz 9   |
 | **12**    | **Mill'in Faydacılığı I – En Büyük Mutluluk İlkesi**   | Mill, *Faydacılık* Böl. 1–2                                  | Fayda ilkesi; Daha yüksek ve daha düşük hazlar               | Quiz 10  |
 | **13**    | **Mill'in Faydacılığı II – Kanıt, Adalet ve Özgürlük** | Mill, *Faydacılık* Böl. 3–5; *Özgürlük Üzerine* Böl. 1 ve Böl. 3'ten seçmeler | Adalet ve haklar; Zarar ilkesi                               | Quiz 11  |
-| **14**    | **Varoluşçu Etik I – Belirsizlik ve Özgürlük**         | de Beauvoir, *Belirsizlik Etiği* Bölüm I                     | İnsan varoluşunun belirsizliği; Özgürlük ve sorumluluk       | Quiz 12  |
-| **15**    | **Varoluşçu Etik II – Kurtuluş**                       | de Beauvoir, *Belirsizlik Etiği* Bölüm II–III                | Baskı ve etik kurtuluş; Öznelerarasılık                      | —        |
+| **14**    | **Varoluşçu Etik – Belirsizlik ve Özgürlük**         | de Beauvoir, *Belirsizlik Etiği* Bölüm I-II-III                         | İnsan varoluşunun belirsizliği; Özgürlük ve sorumluluk; Baskı ve etik kurtuluş; Öznelerarasılık         | Quiz 12  |
+| **15**    | **Çağdaş Meta-Etik ve Geleneksel Kuramların Eleştirisi**                       | Ders içi notlar              | meta-etik sınıflandırma; geleneksel kuramların sınırları                    | —        |
 | **16**    | **Genel Sınav**                                        | —                                                            | Tüm haftaları kapsayan çoktan seçmeli sınav                  | —        |
 
 ## Gerekli Kaynaklar
