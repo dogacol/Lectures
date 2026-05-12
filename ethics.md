@@ -50,6 +50,5 @@ Attendance is mandatory due to the nature of the course and the ~[Faculty of Com
 * Aristotle. *Nicomachean Ethics*. (Trans: Terence Irwin, Hackett Publishing **or** Trans: Roger Crisp, Cambridge University Press)
 * Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. (Trans: Mary Gregor, Cambridge University Press **or** Trans: Arnulf Zweig, Oxford University Press)
 * Mill, John Stuart. *Utilitarianism and On Liberty*. (Ed: Mary Warnock, Blackwell Publishing **or** Ed: Alan Ryan, Penguin Classics)
-* Beauvoir, Simone de. *The Ethics of Ambiguity*. (Trans: Bernard Frechtman, Citadel Press)
 
 ⠀**All primary texts must be brought to class for close reading and discussion.**
