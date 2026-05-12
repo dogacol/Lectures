@@ -40,9 +40,10 @@ Attendance is mandatory due to the nature of the course and the ~[Faculty of Com
 | **11** | **Kant's Deontological Ethics III - Autonomy** | Kant, *Groundwork of the Metaphysics of Morals* Second Section (429-445) | Autonomy; Kingdom of Ends; Relation between three formulations | Quiz 9 |
 | **12** | **Mill's Utilitarianism I - Greatest Happiness Principle** | Mill, *Utilitarianism* Ch. 1-2 | Utility principle; Higher and lower pleasures | Quiz 10 |
 | **13** | **Mill's Utilitarianism II - Proof, Justice and Liberty** | Mill, *Utilitarianism* Ch. 3-5; *On Liberty* Ch. 1 and selections from Ch. 3 | Justice and rights; Harm principle | Quiz 11 |
-| **14** | **Existentialist Ethics - Ambiguity and Freedom** | de Beauvoir, *The Ethics of Ambiguity* | Ambiguity of human existence; Freedom and responsibility; Oppression and ethical liberation; Intersubjectivity | Quiz 12 |
-| **15** | **Contemporary Meta-Ethics and Critique of Traditional Theories** | Handout | meta-ethical categories; limitations of traditional theories| - |
-| **16** | **Final Exam** | - | Comprehensive multiple choice exam covering all weeks | - |
+| **14** | **Contemporary Meta-Ethics I - Cognitivism vs. Non-Cognitivism** | Handout (Moore, *Principia Ethica* §§5-14 on the open question argument; Ayer, *Language, Truth and Logic* Ch. 6; Stevenson on emotivism) | Is/ought distinction; naturalistic fallacy; emotivism and expressivism; moral realism | Quiz 12 |
+| **15** | **Contemporary Meta-Ethics II - Critique of Traditional Theories** | Handout (Anscombe, "Modern Moral Philosophy"; Mackie, *Ethics: Inventing Right and Wrong* Ch. 1 on error theory; Williams on internal reasons) | Anscombe's critique of post-Christian ethics; moral error theory; limits of virtue, deontology, and utilitarianism | - |
+| **16** | **Final Exam** | - | Comprehensive exam covering all weeks | - |
+
 
 # Required Texts
 * Plato. *Republic*. (Trans: G.M.A. Grube, rev. C.D.C. Reeve, Hackett Publishing)
