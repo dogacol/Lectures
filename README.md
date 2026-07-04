@@ -1,5 +1,13 @@
-# Ders İzlenceleri - Lectures
+# Ders İzlenceleri / Lectures
 
-Tüm ders notlarına ve izlencelere buradan ulaşabilirsiniz.
+## Güz Dönemi Dersleri
 
-You can find all the lectures notes and syllabi here.
+- [Sanat Tarihi](sanattarihi.md)
+- [Görsel Kültür](gorselkultur.md)
+- [Medya ve Görsel Sanatlara Giriş](medyavegorselsanatlaragiris.md)
+- [Medya ve Görsel Sanatlar Projesi](medyavegorselsanatlarprojesi.md)
+- [Sinema Felsefesi](sinemafelsefesi.md)
+
+## Arşiv
+
+Önceki ders notları, izlenceler ve okuma dosyaları [`archive/`](archive/) klasöründedir.
